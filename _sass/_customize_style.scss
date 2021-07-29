@@ -1,0 +1,116 @@
+// basic
+body {
+    font-size: 20px;
+    padding-top: 3em;
+    text-align: justify;
+}
+
+figcaption {
+    text-align: right;
+    margin-top: -20px;
+    margin-bottom: 20px;
+}
+
+.breadcrumb {
+    background: none;
+    border: none;
+    display: block;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+.container-fluid {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: $modal-lg; /* or 950px */
+    padding: 0;
+}
+
+// hide scrollbar
+.hide-scrollbar {
+    ::-webkit-scrollbar {
+        display: none; /* Chrome Safari */
+    }
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+
+// home
+.lab-logo {
+    margin-top: 1em;
+    margin-bottom: .5em;
+    img {
+        max-width: 190px;
+    }
+}
+
+.lab-title {
+    padding: 0;
+}
+
+.well {
+    h4 {
+        margin-top: 0;
+    }
+}
+
+.nopadding-left {
+    padding-left: 0 !important;
+    margin-left: 0 !important;
+
+    strong {
+        color: $highlight-text;
+    }
+}
+
+// news
+.nopadding-right {
+    padding-right: 0 !important;
+    margin-right: 0 !important;
+    margin-top: .3em;
+}
+
+// navbar
+.navbar {
+    border-width: 0;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.2);
+}
+
+// team - card
+.team-member-card {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.team-member-image {
+    max-width: 200px;
+    // margin-top: 3.2em;
+    margin-top: 1em;
+}
+
+.card-body {
+    p {
+        margin-bottom: 0;
+    }
+}
+
+// resource - course
+.course {
+    // border: solid #32a1ce;
+    // padding: 0 1rem;
+
+    p {
+        margin-bottom: .2em;
+    }
+}
+
+.course-cid {
+    color: white;
+    background-color: $highlight-text;
+    border-radius: .3em;
+    padding: 0 3px;
+}
+
+.course-name {
+    margin-left: .3em;
+}

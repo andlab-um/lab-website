@@ -1,0 +1,95 @@
+- title: Principal Investigator
+  members:
+    - name: Haiyan Wu
+      image: haiyan.png
+      content:
+        - I'm a psychologist and neuroscientist!
+        - I completed my Ph.D. at the IDG / McGovern Institute for Brain Research at Beijing Normal University. Then I became a faculty in the Department of Psychology, University of Chinese Academy of Sciences. I worked as a visiting associate in the Division of Humanities and Social Sciences, California Institute of Technology, from 2017 to 2019.  Now I work in CCBS at the University of Macau. 
+        - "I am interested in exploring the mechanisms that describe and/or affect behavioral and neural responses during emotion and decision making (both for human and human-AI interaction) in social interaction. My interest also lies in the area of the interactions between social relations cognition and languages. In my research, I use diverse methods (Mturk, psychophysiological recordings, mouse tracking, and fMRI) to find answers to below questions:"
+        - " - How can we compute and measure aspects of social inference, decision making, and strategic interactions?"
+        - " - What is the role of oxytocin in the social adaptation brain?"
+        - " - How do reward and punishment systems interact during social decisions and interaction with AIs?"
+        - " - How representation of social relations be affected by (different) language structure?"
+
+- title: Postdoctoral Fellows
+  members:
+    - name: Shensheng Wang
+      image: shensheng.png
+      content:
+        - Shensheng is a postdoc researcher working with Dr. Haiyan Wu (UM) and Dr. Quanying Liu (SUSTech). He is interested in how humans perceive animacy, in particular, how animacy perception contributes to social evaluation of both humans and artificial agents (e.g., the uncanny valley phenomenon).
+        - His current work combines tools from neuroscience (fMRI, EEG, and TMS) and computational modeling (drift diffusion model and representational similarity analysis) to examine the cognitive and neural processes that underpin animacy perception in faces. Before joining the A.N.D lab, Shensheng received his PhD at Emory University, where he worked with Dr. Philippe Rochat on animacy perception in infants.
+
+- title: PhD Students
+  members:
+    - name: Zhaoning Li
+      image: zhaoning.png
+      content: Zhaoning is a first-year PhD student in the lab. He received a B.E. degree in Information Security and an M.E. degree in Software Engineering, both from Sun Yat-Sen University. Enlightened by Heinrich Heine’s famous quote, ‘Thought precedes action, as lighting does thunder’, Zhaoning devoted himself to theoretical research after familiarizing with empirical research and application. Specifically, he aspires to make contributions to a “virtuous circle”, in which shared insights into Artificial Intelligence and social psychology will advance the development of both fields. Eventually, Zhaoning will try to build a theory in this area by working his ass off, despite how naive the theory is and what difficulties he will meet. As the founder of modern social psychology, Kurt Lewin said, there is nothing more practical than a good theory.
+    - name: Haoming Zhang
+      image: haoming.png
+      content: Haoming is a first-year PhD student in the lab. Before joining the A.N.D lab, Haoming received his bachelor’s degree at Southern University of Science and Technology. He is mainly interested in two specific topics. The first one is to investigate how the brain encoding the information about the direction of motion (forward & backward) by using intracranial electroencephalographic to recording and analyze the electrophysiological signal. The second is to investigate the neural machinery of the human brain for making safe, risky decisions.Haoming uses different kinds of methods in the research, which include EEG, sEEG, machine learning, and neural network.
+    - name: Kun Chen
+      image: kun.png
+      content: "Kun Chen is a first-year PhD student in the lab. He graduated with a B.S. Engineering in Computer Science and Technology from Huazhong University of Science and Technology. He is particularly interested in: 1) the neural representation of semantic/knowledge in the brain and the differences in semantic representation between human and machine, and 2) developing brain-inspired natural language processing (NLP) models instead of purely statistical models to make the model learn the language as humans. He is currently focusing on the temporal difference between visual and semantic processing of object recognition in multimodalities (image/text)."
+    - name: Siying Li
+      image: siying.png
+      content: Siying Li is a first-year joint PhD student in the lab, jointly trained by Prof. Xiaoqun Wang from Institute of Biophysics, CAS and Prof. Haiyan Wu from the University of Macau. She graduated with a B.A. in English from Zhengzhou University, and a M.A. degree in Linguistics from Chinese University of Hong Kong. With the linguistics background, and RA work experience in a cognitive neuroscience lab, she aims to work on a joint field between linguistics and cognitive neuroscience, using methods including fMRI, MEG, natural language processing (NLP).
+
+- title: Master Students
+  members:
+    - name: Siqi Cao
+      image: siqi.png
+      content: Siqi is a master student from the Institute of Psychology, Chinese Academy of Sciences (IPCAS). Currently, she is pursuing her master degree in social cognitive neuroscience, and she expects to receive the degree by August 2022. She is working on investigating the neural and computational mechanisms of interactions between social motivation, cognitive control and value-based decision-making. Her researh interests is in the area of the control mechanisms underlying social interaction. Her research aims to elucidate adaptive cognitive effort under social context. 
+    - name: Qingyuan Wu
+      image: qingyuan.png
+      content: Qingyuan is a graduate student majors in cognitive neuroscience. She graduated with a B.S. in Physics from Lanzhou University and is currently a joint master student trained by Prof. Chao Liu from Beijing Normal University and Prof. Haiyan Wu from the University of Macau. She is interested in how people's perceptions of their partners' moral behavior might affect their cooperative behavior, as well as how the calculation of benefits and attitudes toward fairness influence cooperative behavior. She is now studying how oxytocin affects human’s brain activity during face-perception tasks.
+    - name: Jiamin Huang
+      image: huangjiamin.png
+      content: "Jiamin Huang is a second-year graduate student in the lab. She graduated with a B.A. in Applied Psychology from Guangzhou University, and now is a second-year master student majoring in Criminology and Criminal Justice at Macau University. She is mainly interested in: (1) Neural mechanisms of social punishment, especially how the identity of paricipants (the second party or third party） affects decision-making behaviors;(2) the relationship between curiosity and attention. She is currently studying cognitive and neural mechanisms of social punishment under time discount."
+    - name: Qi Huang
+      image: huangqi.png
+      content: Qi Huang is a joint master student in the lab. He graduated with a B.S. in Applied Psychology from Henan University, and now he is a first-year master student majoring in Cognitive Neuroscience at Beijing Normal University. He is interested in how the internal and external motivations and uncertainty influence human exploratory behavior and decision-making. He is currently studying cognitive and neural mechanisms of how uncertainty and curiosity affect one's information-seeking behavior. His research aims to elucidate the underlying mechanisms of human decision-making from the perspective of motivation.
+    - name: Pengcheng Zhang
+      image: pengcheng.png
+      content: Pengcheng is a graduate student in the lab. He currently focuses on the research of career decision-making and life value issues. He believes that a person's spirit is the combination of brain physiology and personal philosophy. Understanding and improving the spiritual world of people is his original intention to study cognitive neuroscience. He likes to think, loves sports, and aims to apply what he learns and thinks to practice.
+    - name: Yanghua Ye
+      image: yeyang.png
+      content: "Yeyang is a second-year graduate student in the lab. She recieved a B.E. degree in Public Administration, and now she is a joint training student at Shenzhen University studying Cognitive Neuroscience. She is interested in the internal and external motivations of curiosity and information-seeking behavior. Currently, her research is concerning two questions: 1) What drives non-instrumental curiosity and information-seeking behavior in social context, 2) Whether excessive game-playing undermines our value-based decision making and adaptive curiosity."
+    - name: Luoyao Pang
+      image: luoyao.png
+      content: Luoyao is a second-year graduate student in the lab. She graduated with a B.A. in Applied Psychology, and now is a joint training student at Shenzhen University studying Cognitive Neuroscience. She is interested in the computational and neural mechanisms of social cognition, especially how social information affects decision making. She is currently involved in two projects, the first is how brain structure and functional connectivity of specific resting-state networks predict motivated lying in an information passing task, and the second is the integration of individual and social information for decision making under uncertain situations.
+
+- title: Undergraduate Students
+  members:
+    - name: Jiamin Zhang
+      image: zhangjiamin.png
+      content: Jiamin is a senior student at the University of Washington in Seattle. She majors in Early Childhood and Family Studies and Psychology. She is interested in factors affecting decision making. Her research interests also lies in the fleid of students' mental health problems, such as improving students' mental health awareness and providing helps to students with mental health problems.
+    - name: Ruien Wang
+      image: ruien.png
+      content: Rain is a senior undergraduate student in the lab. He is mainly interested in three specific topics. The first one is the neural representation of different negative emotions, which utilizes multi-model physiological data. The second is how negative states (anxiety, fear) would influence exploratory behavior and spatial navigation, and how social factor modulate the negative state (physiological response & subjective rating). The third focuses on social space, which aims to study the neural representation of other people in cognitive map and its influence on behavior and decision making. He uses different kinds of tecniques in his research, which includes psychophysiological recording, EEG, fMRI, Virtual Reality technique, and computational modeling.
+    - name: Huidi Li
+      image: huidi.png
+      content: Huidi is a senior undergraduate student in McGill University, and she majors in cognitive science. She joined the lab at July, 2020 as an RA. She is currently working on predicting dishonesty with resting state fMRI. Also, she is interested in two topics and hopes to explore. One is brain decoding for memory and mental states, and the other is value-based computational modeling in neuroeconomics. 
+    - name: Xinyi Xu
+      image: xinyi.png
+      content: Xinyi is a senior undergraduate student in the lab and she majors in EE. Her research interest lies in 1) integrator models of value-based decision making like DDM; 2) combining mouse tracking technique and computational modeling to better probe the dynamics during decision making. Currently she is using fMRI and computational modeling to investigate how people evaluate money, honesty and the consistency of lying and how information is encoded in brain.
+    - name: Xianqing Liu
+      image: xianqing.png
+      content: Xianqing is an RA student in the lab. As a student with a background in linguistics, she expects to focus her research on psychological processes behind languages and cultures. In particular, she is interested in topics such as the neural basis of semantic and syntactic representation in different language speakers with different cultural background, the concept representation in monolinguals and multilinguals, the differences in L1 and L2 processing of second language learners, and the influence of cultural factors on such differences. She is currently involving in the programme investigating the influence of Eastern and Western cultures and languages on the kinship representation and processing.
+
+- title: Alumni
+  members:
+    - name: Ziqi Zhang
+      image: ziqi.png
+      content: Ziqi has finished her Master's degree in Cognitive Neuroscience Psychology at Liaoning Normal University. She is especially interested in the mechanisms of bribery behavior, and the ways in which cognitive and moral awaking can alter or disrupt these processes. Currently she is working on a project involving third-party bribery pattern and its underlying neural mechanism.
+    - name: Yanyan Qi
+      image: yanyan.png
+      content: Yanyan Qi is an assistant professor in Department of Psychology, Zhengzhou University. Before that, she was a post-doctoral researcher of Translational Social Neuroscience at the University of Würzburg, Germany. She got her PhD degree at Institute of Psychology, Chinese Academy of Sciences, majoring in Cognitive Neuroscience. Her research focuses on using modeling and neuroimaging methods to investigate the effect of social interactions on fear processing, also considering the modulation effect of individual characteristics.
+    - name: Yuanchen Wang
+      image: yuanchen.png
+      content: Yuanchen graduated from the University of Rochester with a B.S. in Brain and Cognitive Science and B.A. in Psychology. Starting in 2021 fall, he would be pursuing a master's degree in Biomedical Informatics at Harvard Medical School. He is interested in the computational models of human cognition processes and substance's influence on cognition and behavior.
+
+- title: Lab Security
+  members:
+    - name: NONAME
+      image: plant.png
+      content: NONAME is the only plant in the lab, but it survived supertyphoon last year. There is no doubt that it spents the longest time in the lab.

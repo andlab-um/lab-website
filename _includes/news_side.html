@@ -1,0 +1,13 @@
+<!-- <a class="twitter-timeline" href="https://twitter.com/Twitter">Tweets by Twitter</a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+
+<div class="well">
+    <h4><strong>News</strong></h4>
+
+    {% for article in site.data.news limit:6 %}
+        <strong>{{ article.date }}</strong>
+        <p>{{ article.headline }}</p>
+    {% endfor %}
+    
+    <a href="{{ site.url }}{{ site.baseurl }}/news">... see all News</a>
+</div>

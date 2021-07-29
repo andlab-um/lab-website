@@ -1,20 +1,14 @@
 ---
-title: "News"
+title: News
 layout: default
-excerpt: "RT2 Lab at Institut Curie"
+excerpt: "A.N.D Lab - News"
 sitemap: false
-permalink: /news.html
+permalink: /news
 ---
-<h1>{{page.title}}</h1>
 
-<ul class="list-unstyled">
-    {% for article in site.data.news %}
-        <li class="media">
-            <div class="media-body">
-            <h4 class="mt-0 mb-1">{{ article.title }}</h4>
-            <p><small>{{ article.date }}</small></p>
-            {{ article.content }}
-            </div>
-        </li>
-    {% endfor %}
-</ul>
+<h2>{{ page.title }}</h2>
+
+{% for article in site.data.news %}
+    <p><b>{{ article.date }}</b><br>
+    {{ article.headline }}</p>
+{% endfor %}

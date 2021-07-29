@@ -19,8 +19,22 @@ include:
   - .htaccess
   - _pages
 
+# Navigation bar menu
+menu:
+  - title: Home
+    url: /
+  - title: Publication
+    url: /publication
+  - title: Team
+    url: /team
+  - title: Resource
+    url: /resource
+  - title: Contact
+    url: /contact
+
 sass:
   sass_dir: _sass
+  style: compress
 
 # Conversion
 markdown: kramdown

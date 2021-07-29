@@ -1,0 +1,20 @@
+---
+title: Resource
+layout: default
+excerpt: "A.N.D Lab - Resource"
+sitemap: false
+permalink: /resource
+---
+
+<!-- Course -->
+<h2>Course</h2>
+{% for course in site.data.course %}
+    <div class="course">
+        <h4>
+            <strong class="course-cid">{{ course.cid }}</strong><em class="course-name">{{ course.name }}</em>
+        </h4>
+        {% for cont in course.content %}
+            <p class="course-text">{{ cont }}</p>
+        {% endfor %}
+    </div>
+{% endfor %}

@@ -1,17 +1,17 @@
 ---
-title: "Publications"
+title: Publication
 layout: default
-excerpt: "RT2 Lab -- Publications."
+excerpt: "A.N.D Lab -- Publication"
 sitemap: false
-permalink: /publications/
+permalink: /publication
 ---
 
-<h1>{{page.title}}</h1>
+<h2>{{ page.title }}</h2>
 
 <div class="panel-group" id="accordion">
     <div class="panel panel-default">
 
-    {% for publi in site.data.publications %}
+    {% for publi in site.data.publication %}
         <div class="panel-heading">
             <a data-toggle="collapse" data-parent="#accordion"
                href="#collapse{{forloop.index}}"
@@ -42,9 +42,8 @@ permalink: /publications/
         <div id="collapse{{forloop.index}}" class="panel-collapse collapse">
             <div class="panel-body">
                 <p>{{ publi.abstract }}</p>
-
-                <a class="btn btn-outline-primary" href="https://doi.org/{{publi.DOI}}"
-                   role="button" target="blank">Link</a>
+                <!-- <a class="btn btn-outline-primary" href="https://doi.org/{{publi.DOI}}"
+                   role="button" target="blank">Link</a> -->
             </div>
         </div>
     {% endfor %}
