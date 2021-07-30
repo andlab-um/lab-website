@@ -17,11 +17,7 @@ permalink: /publication
                href="#collapse{{forloop.index}}"
                style="color: inherit;">
             <!-- authors -->
-            {% assign authors = "" | split:"/" %}
-            {% for author in publi.author %}
-                {% assign authors = authors | push: author.family %}
-            {% endfor %}
-            {{ authors | array_to_sentence_string }},
+            {{ publi.authors }},
 
             <!-- title with link -->
             "{{ publi.title }}",
@@ -30,7 +26,7 @@ permalink: /publication
             <b>{{ publi.container-title }}</b>
 
             <!-- issued date -->
-            ({{ publi.issued.date-parts | jsonify | slice: 3,4 }}),
+            <!-- ({{ publi.issued.date-parts | jsonify | slice: 3,4 }}), -->
 
             <!-- DOI -->
             {% if publi.DOI %}
