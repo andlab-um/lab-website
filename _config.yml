@@ -29,8 +29,8 @@ menu:
     url: /team
   - title: Resource
     url: /resource
-  - title: Contact
-    url: /contact
+  - title: Position
+    url: /position
 
 sass:
   sass_dir: _sass
