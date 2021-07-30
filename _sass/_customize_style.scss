@@ -27,6 +27,10 @@ figcaption {
     padding: 0;
 }
 
+h2 {
+    color: $highlight-text;
+}
+
 // hide scrollbar
 .hide-scrollbar {
     ::-webkit-scrollbar {
@@ -34,6 +38,29 @@ figcaption {
     }
     -ms-overflow-style: none;  /* IE and Edge */
     scrollbar-width: none;  /* Firefox */
+}
+
+// navbar
+.navbar {
+    border-width: 0;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.2);
+
+    // a {
+    //     color: white;
+    // }
+
+    // &-default {
+    //     color: white;
+    //     background-image: linear-gradient($highlight-text 0%, #c2e9fb 100%);
+    // }
+
+    // &-brand {
+    //     color: white;
+    // }
+}
+
+.navbar-default .navbar-brand .navbar-right {
+    color: white;
 }
 
 // home
@@ -47,6 +74,10 @@ figcaption {
 
 .lab-title {
     padding: 0;
+    
+    h2 {
+        color: black;
+    }
 }
 
 .well {
@@ -71,10 +102,9 @@ figcaption {
     margin-top: .3em;
 }
 
-// navbar
-.navbar {
-    border-width: 0;
-    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.2);
+// publication
+.panel-default .panel-heading {
+    background-color: $block-bg;
 }
 
 // team - card
@@ -93,6 +123,11 @@ figcaption {
     p {
         margin-bottom: 0;
     }
+}
+
+.social-icon {
+    margin-top: .5em;
+    padding-left: .5em;
 }
 
 // resource - course
