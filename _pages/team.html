@@ -22,15 +22,15 @@ permalink: /team
                         {% endif %}
                         <!-- Personal Website -->
                         {% if member.social.website %}
-                            <li><a target="blank" href="{{member.social.website}}"><i class="fas fa-globe"></i></a></li>
+                            <li><a target="blank" href="{{ member.social.website }}"><i class="fas fa-globe"></i></a></li>
                         {% endif %}
                         <!-- Github -->
                         {% if member.social.github %}
-                            <li><a target="blank" href="{{member.social.github}}"><i class="fab fa-github"></i></a></li>
+                            <li><a target="blank" href="{{ member.social.github }}"><i class="fab fa-github"></i></a></li>
                         {% endif %}
                         <!-- Google Scholar -->
                         {% if member.social.google-scholar %}
-                            <li><a target="blank" href="{{member.social.google-scholar}}"><i class="fab fa-google"></i></a></li>
+                            <li><a target="blank" href="{{ member.social.google-scholar }}"><i class="fab fa-google"></i></a></li>
                         {% endif %}
                     </ul>
                 </div>
