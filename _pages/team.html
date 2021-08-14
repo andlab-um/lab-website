@@ -18,7 +18,7 @@ permalink: /team
                     <ul class="list-inline list-unstyled social-icon">
                         <!-- Email -->
                         {% if member.social.email %}
-                            <li><a target="blank" href="mailto:{{ member.social.email }}"><i class="fas fa-envelope"></i></a></li>
+                            <li><a target="blank" href="mailto:{{ member.social.email }}" title="{{ member.social.email }}"><i class="fas fa-envelope"></i></a></li>
                         {% endif %}
                         <!-- Personal Website -->
                         {% if member.social.website %}
