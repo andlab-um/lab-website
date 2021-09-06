@@ -3,7 +3,7 @@ title: Resource
 layout: default
 excerpt: "A.N.D Lab - Resource"
 sitemap: false
-permalink: resource
+permalink: /resource
 ---
 
 ## Course
