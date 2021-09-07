@@ -1,12 +1,15 @@
-# Research lab website template
+# AND Lab Website
 
-This website is built with [Jekyll](https://jekyllrb.com/).
-It is derived from the great template provided by [research-lab-website](https://github.com/ericdaat/research-lab-website) and [Allan Lab](https://www.allanlab.org/aboutwebsite.html), at Leiden University.
+**Artificial Intelligence, Neuroscience and Decision Lab**
 
+AND Lab is part of [CCBS](https://ccbs.ici.um.edu.mo) at [University of Macau](https://um.edu.mo).
+
+This website is built with [Jekyll](https://jekyllrb.com/). It is derived from the great template provided by [research-lab-website](https://github.com/ericdaat/research-lab-website) and [Allan Lab](https://www.allanlab.org/aboutwebsite.html), at Leiden University.
 ## Setup
 
+Install Ruby firstly, then install Jekyll.
+
 ``` bash
-brew install ruby
 gem install bundler jekyll
 ```
 
@@ -49,16 +52,18 @@ Each entry must look like this:
 ### Add a new publication
 
 Publications are stored as ymal file under
-[_data/publications.json](_data/publications.json).
+[_data/publication.yml](_data/publication.yml).
 
 Just add a new entry like this:
 
 ``` yml
 - title: Publication title
-  container-title: Publisher Name
+  authors: Author names
+  year: Publish year
+  publisher: Publisher name
+  page: Publish page
   abstract: Abstract text
-  DOI: DOI, like "10.1109/TMI.2018.2865709"
-  authors: name0, name1, name2
+  link: Paper link, like "https://doi.org/10.1080/00952990.2019.1608554"
 
 ```
 
