@@ -11,34 +11,36 @@ permalink: /publication
 <div class="panel-group" id="accordion">
     <div class="panel panel-default">
     {% for publi in site.data.publication %}
-        <div class="panel-heading">
-            <span data-toggle="collapse" data-parent="#accordion" 
-                href="#collapse{{ forloop.index }}" 
-                style="color: inherit;">
-                <!-- authors -->
-                {{ publi.authors }}. 
-                <!-- year -->
-                {% if publi.year %}
-                    ({{ publi.year }}). 
+        <div class="pandel-item">
+            <div class="panel-heading">
+                <span data-toggle="collapse" data-parent="#accordion" 
+                    href="#collapse{{ forloop.index }}" 
+                    style="color: inherit;">
+                    <!-- authors -->
+                    {{ publi.authors }}. 
+                    <!-- year -->
+                    {% if publi.year %}
+                        ({{ publi.year }}). 
+                    {% endif %}
+                    <!-- title with link -->
+                    <strong>{{ publi.title }}</strong>. 
+                    <!-- publisher -->
+                    <i>{{ publi.publisher }}</i>, 
+                    <!-- page -->
+                    {% if publi.page %}
+                        {{ publi.page }}. 
+                    {% endif %}
+                </span>
+                <!-- Paper link -->
+                {% if publi.link %}
+                    <a target="blank" href="{{ publi.link }}" style="padding-left: 5px;"><i class="fas fa-link"></i></a>
                 {% endif %}
-                <!-- title with link -->
-                <strong>{{ publi.title }}</strong>. 
-                <!-- publisher -->
-                <i>{{ publi.publisher }}</i>, 
-                <!-- page -->
-                {% if publi.page %}
-                    {{ publi.page }}. 
-                {% endif %}
-            </span>
-            <!-- Paper link -->
-            {% if publi.link %}
-                <a target="blank" href="{{ publi.link }}" style="padding-left: 5px;"><i class="fas fa-link"></i></a>
-            {% endif %}
-        </div>
+            </div>
 
-        <div id="collapse{{ forloop.index }}" class="panel-collapse collapse">
-            <div class="panel-body">
-                <span>{{ publi.abstract }}</span>
+            <div id="collapse{{ forloop.index }}" class="panel-collapse collapse">
+                <div class="panel-body">
+                    <span>{{ publi.abstract }}</span>
+                </div>
             </div>
         </div>
     {% endfor %}
