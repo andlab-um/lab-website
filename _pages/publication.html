@@ -25,11 +25,11 @@ permalink: /publication
                     <!-- title with link -->
                     <strong>{{ publi.title }}</strong>. 
                     <!-- publisher -->
-                    <i>{{ publi.publisher }}</i>, 
+                    <i>{{ publi.publisher }}</i>{% if publi.page %}, {{ publi.page }}{% endif %}.
                     <!-- page -->
-                    {% if publi.page %}
-                        {{ publi.page }}. 
-                    {% endif %}
+                    <!-- {% if publi.page %}
+                        {{ publi.page }}
+                    {% endif %}. -->
                 </span>
                 <!-- Paper link -->
                 {% if publi.link %}
