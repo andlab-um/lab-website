@@ -37,7 +37,7 @@ permalink: /publication
                 {% endif %}
             </div>
 
-            if {% publi.abstract %}
+            {% if publi.abstract %}
                 <div id="collapse{{ forloop.index }}" class="panel-collapse collapse">
                     <div class="panel-body">
                         <span>{{ publi.abstract }}</span>
