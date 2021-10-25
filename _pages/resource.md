@@ -8,7 +8,7 @@ permalink: /resource
 
 ## Course
 
-1. **PSYC3018-001** [_Selected Topics II: Artificial Intelligence and Human Cognition_](PSYC3018-001)
+1. **PSYC3018-001** [_Selected Topics II: Artificial Intelligence and Human Cognition_]({% post_url 2021-09-06-PSYC3018-001 %})
 
 ## Talk
 
@@ -18,4 +18,4 @@ permalink: /resource
 
 ## Book
 
-1. [认知和行为的计算建模](CMCB) (英文原版: [_Computational Modeling of Cognition and Behavior_](https://psy-farrell.github.io/computational-modelling){:target="_blank"})
+1. [认知和行为的计算建模]({% post_url 2021-09-06-CMCB %}) (英文原版: [_Computational Modeling of Cognition and Behavior_](https://psy-farrell.github.io/computational-modelling){:target="_blank"})
