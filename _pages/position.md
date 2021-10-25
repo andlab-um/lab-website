@@ -10,9 +10,6 @@ permalink: /position
 
 We are planning to recruit **2-3** graduate students in fall 2022.
 
-## Postdocs
-
-We have a postdoc opportunity to work on an FDCT funded project. A background in multivariate data analysis or machine-learning and an interest in contributing to the project (e.g., Python) preferred.
 
 ## Research Assistants
 
