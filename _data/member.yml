@@ -14,14 +14,6 @@
         email: haiyanwu@um.edu.mo
         website: "https://haiyanwu.wixsite.com/haiyanwu"
 
-- title: Postdoctoral Fellows
-  members:
-    - name: Shensheng Wang
-      image: shensheng.png
-      content:
-        - Shensheng is a postdoc researcher working with Dr. Haiyan Wu (UM) and Dr. Quanying Liu (SUSTech). He is interested in how humans perceive animacy, in particular, how animacy perception contributes to social evaluation of both humans and artificial agents (e.g., the uncanny valley phenomenon).
-        - His current work combines tools from neuroscience (fMRI, EEG, and TMS) and computational modeling (drift diffusion model and representational similarity analysis) to examine the cognitive and neural processes that underpin animacy perception in faces. Before joining the A.N.D lab, Shensheng received his PhD at Emory University, where he worked with Dr. Philippe Rochat on animacy perception in infants.
-
 - title: PhD Students
   members:
     - name: Zhaoning Li
