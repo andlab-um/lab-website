@@ -6,15 +6,15 @@ sitemap: false
 permalink: /
 ---
 
-Emerging technologies, such as big data, machine learning, and artificial intelligence, help humans navigate the information age. 
+The Affective, Neuroscience, Decision-making lab is located at the [Centre for Cognitive and Brain Sciences](https://ccbs.ici.um.edu.mo){:target="_blank"} (CCBS) at [University of Macau](https://um.edu.mo){:target="_blank"} (UM), Macau SAR, China.
 
-Nevertheless, the very technologies have brought new challenges and concerns, such as **moral decisions and AI**, **legal decisions and AI**, interaction among **mentalizing, emotion and AI**, exploration **decision and anxiety** in the AI age.
+Our current research directions:
 
-In the AND lab, we aim at addressing these problems by combining **computational modeling**, **neuroscience** and **social psychology**. In particular, to examine **how intelligent products (e.g., big data algorithms) influence human decision-making**.
+1) **Social cognition and affective neuroscience**: the multi-modal representation of negative emotional experiences (anxiety, fear, helpless) and its neurocomputation; the learning and representation of social information (social distance, emotional variability, affiliation) and its influence on social relationship; the neurocomputation of mentalizing and social decision-making (dishonesty decisions); the effect of pharmaceutical modulation (oxytocin) and neuromodulation (TMS&TDCS) on social cognition and behaviors.
 
-we will establish a data platform that allows us to test and analyze the public's psychological and behavioral states while interacting with AI algorithms. This novel data platform will enable us to investigate the behavior and neural mechanisms of human-human and human-AI interaction under the "human and digital society" framework and opens up new research directions at the intersection of psychology, neuroscience, and AI.
+2) **Computational neuroscience**: we mainly leverage Bayesian modeling, Reinforcement learning, Drift-diffusion model to quantify human social learning and adaptive social decision-making.
 
-As part of [CCBS](https://ccbs.ici.um.edu.mo){:target="_blank"} at [University of Macau](https://um.edu.mo){:target="_blank"}, we are also interested in interaction of language, decision and neuroscience.
+3) **Artificial intelligence (AI) and Human-AI interaction**: e.g., how AI facilitates empathy and interaction between human-AI and even between human-human, how human perceive and inference the affect of AI.
 
 We are supported by the following grants:
 
