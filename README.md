@@ -1,6 +1,6 @@
 # AND Lab Website
 
-**Artificial Intelligence, Neuroscience and Decision Lab**
+**Affective, Neuroscience and Decision Lab**
 
 AND Lab is part of [CCBS](https://ccbs.ici.um.edu.mo) at [University of Macau](https://um.edu.mo).
 
