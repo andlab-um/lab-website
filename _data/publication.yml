@@ -1,4 +1,12 @@
-- title: "The role of oxytocin in modulating self-other distinction brain: a pharmacological fMRI study"
+- title: "Resting-state functional connectivity of social brain regions predicts motivated dishonesty"
+  authors: Pang, L., Li, H., Liu, Q., Luo, Y. J*., Mobbs, D., & Wu, H*
+  year: 2022
+  publisher: "NeuroImage"
+  page: 
+  abstract: "Motivated dishonesty is a typical social behavior varying from person to person. Resting-state fMRI (rsfMRI) is capable of identifying unique patterns from functional connectivity (FC) between brain regions. Recent work has built a link between brain networks in resting state to dishonesty in Western participants. To determine and reproduce the relevant neural patterns and build an interpretable model to predict dishonesty, we analyzed two conceptually similar datasets containing rsfMRI data with different dishonesty tasks. Both tasks implemented the information-passing paradigm, in which monetary rewards were employed to induce dishonesty. We applied connectome-based predictive modeling (CPM) to build a model among FC within and between four social brain networks (reward, self-referential, moral, and cognitive control). The CPM analysis indicated that FCs of social brain networks are predictive of dishonesty rate, especially FCs within reward network, and between self-referential and cognitive control networks. Our study offers a conceptual replication with integrated model to predict dishonesty with rsfMRI, and the results suggest that frequent motivated dishonest decisions may require the higher engagement of social brain regions."
+  link: https://www.biorxiv.org/content/10.1101/2021.11.10.468161v1
+  
+  - title: "The role of oxytocin in modulating self-other distinction brain: a pharmacological fMRI study"
   authors: Wang, Y., Wang, R., & Wu, H*
   year: 2022
   publisher: "Cerebral Cortex"
