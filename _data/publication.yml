@@ -1,3 +1,27 @@
+- title: "A resource for assessing dynamic binary choices in the adult brain using EEG and mouse-tracking"
+  authors: Chen, K., Wang, R., Huang, J., Gao, F., Yuan, Z., Qi, Y & Wu, H
+  year: 2022
+  publisher: Scientific Data
+  page: 
+  abstract: "We present a dataset combining high-density Electroencephalography (HD-EEG, 128-channels) and mouse-tracking intended as a resource for examining the dynamic decision process of semantics and preference choices in the human brain. The dataset includes resting-state and task-related (food preference choices and semantic judgments) EEG acquired from 31 individuals (ages: 18–33). Along with the dataset, we also provided the preliminary microstate analysis of resting-state EEG and the ERPs, topomap, and time-frequency maps of the task-related EEG. We believe that the simultaneous mouse-tracking and EEG recording would crack the core components of binary choices and further index the temporal dynamics of decision making and response hesitation. This publicly available dataset could support the development of neural signal processing methods in motor EEG, thus advancing research in both the decision neuroscience and brain-computer interface (BCI) applications."
+  link: https://doi.org/10.1038/s41597-022-01538-5
+  
+- title: "Oxytocin modulates social brain network correlations in resting and task state"
+  authors: Wu, Q., Huang, Q., Liu, C., & Wu, H
+  year: 2022
+  publisher: Cerebral Cortex
+  page: 
+  abstract: "Oxytocin (OT) is a neuropeptide that modulates social behaviors and the social brain. The effects of OT on the social brain can be tracked by assessing the neural activity in the resting and task states, providing a system-level framework for characterizing state-based functional relationships of its distinct effect. Here, we contribute to this framework by examining how OT modulates social brain network correlations during resting and task states using fMRI. Firstly, we investigated networks activation, followed by analyzing the relationship between networks and individual differences measured by the Positive and Negative Affect Schedule and Big-Five scales. Subsequently, we evaluated functional connectivity in both states. Finally, the relationship between networks across the states was represented by the predictive power of networks in the resting state for task-evoked activity. The difference in predicted accuracy between subjects displayed individual variations in this relationship. Our results showed decreased dorsal default mode network (DDMN) for the OT group in the resting state. Additionally, only in the OT group, the activity of the DDMN in the resting state had the largest predictive power for task-evoked activation of the precuneus network (PN). The results also demonstrated OT reduced individual variation of PN, specifically, the difference of accuracy between predicting a subject’s own and others’ PN task activation. These findings together suggest a distributed but modulatory effect of OT on the association between resting brain networks and task- dependent brain networks, showing increased DDMN to PN connectivity after OT administration, which may support OT-induced distributed processing during task performance."
+  link: https://doi.org/10.1093/cercor/bhac295
+  
+- title: "The neural mechanisms underlying effort process modulated by efficacy"
+  authors: Cao, S., Liu, X., & Wu, H
+  year: 2022
+  publisher: Neuropsychologia
+  page: 
+  abstract: "Life is filled with uncertainty that imposes challenges for goal-directed effort. For example, whether effort reaps reward impacts the effort process. Real-life activities involve a long-term input of effort, implying that our effort process should be stably and consistently managed. The present study investigated how efficacy modulates the effort process from the perspective of overall performance and effort stability. Using a mini-block Stroop task and electroencephalography, we manipulated performance-reward contingency to pinpoint behavioral and neural features at each time stage (preparation, execution, and feedback-processing). Our findings revealed an efficacy-modulated effort process from three aspects. First, high efficacy induced a more prepared state before target presentation, which was identified by two neural indicators: contingent negative variation (CNV) and β oscillation (13–20 Hz). Then, drift rate and decision boundary reflected how people executed the task under different efficacy levels. Moreover, CNV and β oscillation affected sustained effort by modulating the drift rate, indicating preparatory state changed the execution to influence sustained effort. Finally, feedback-P3b captured shifts in the sustained effort after receiving different feedback. Taken together, these findings showed that efficacy modulates effort at each time course. Informative signals about efficacy and feedback are beneficial to trigger high-quality preparation and execution and drive effort adjustment."
+  link: https://doi.org/10.1016/j.neuropsychologia.2022.108314
+  
 - title: Resting-state functional connectivity of social brain regions predicts motivated dishonesty
   authors: Pang, L., Li, H., Liu, Q., Luo, Y. J*., Mobbs, D., & Wu, H*
   year: 2022
