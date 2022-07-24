@@ -8,7 +8,7 @@ permalink: /publication
 
 ## Publication
 
-Year: [2022](#2022) [2021](#2021) [2020](#2020) [Earlier](#Earlier)
+Year: [2022](#2022) [2021](#2021) [2020](#2020) [Earlier](#earlier)
 
 ### 2022
 ---
@@ -19,7 +19,7 @@ Wu, Q., Huang, Q., Liu, C., & Wu, H. (2022). **Oxytocin modulates social brain n
 
 Cao, S., Liu, X., & Wu, H. (2022). **The neural mechanisms underlying effort process modulated by efficacy**. *Neuropsychologia*, 173, 108314. [[Paper](https://doi.org/10.1016/j.neuropsychologia.2022.108314){:target='_blank'}]
 
-- Pang, L., Li, H., Liu, Q., Luo, Y.-J., Mobbs, D., & Wu, H. (2022). **Resting-state functional connectivity of social brain regions predicts motivated dishonesty**. *NeuroImage*, 256, 119253. [[Paper](https://doi.org/10.1016/j.neuroimage.2022.119253){:target='_blank'}]
+Pang, L., Li, H., Liu, Q., Luo, Y.-J., Mobbs, D., & Wu, H. (2022). **Resting-state functional connectivity of social brain regions predicts motivated dishonesty**. *NeuroImage*, 256, 119253. [[Paper](https://doi.org/10.1016/j.neuroimage.2022.119253){:target='_blank'}]
 
 Wang, Y., Wang, R., & Wu, H. (2022). **The role of oxytocin in modulating self–other distinction in human brain: A pharmacological fMRI study**. *Cerebral Cortex*, bhac167. [[Paper](https://doi.org/10.1093/cercor/bhac167){:target='_blank'}]
 
