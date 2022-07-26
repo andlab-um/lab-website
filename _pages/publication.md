@@ -13,7 +13,7 @@ Year: [2022](#2022) [2021](#2021) [2020](#2020) [Earlier](#earlier)
 ### 2022
 ---
 
-Wu, H., Fung, B. J., & Mobbs, D. (2022). **Mentalizing during social interaction: the development and validation of the interactive mentalizing questionnaire**. *Frontiers in psychology*, 12. [[Paper](https://doi.org/10.3389/fpsyg.2021.791835){:target='_blank'}]
+Wu, H., Fung, B. J., & Mobbs, D. (2022). **Mentalizing during social interaction: the development and validation of the interactive mentalizing questionnaire**. *Frontiers in psychology*, 12. [[Paper](https://doi.org/10.3389/fpsyg.2021.791835){:target='_blank'}][[Code&resourse](https://github.com/andlab-um/imq){:target="_blank"}]
 
 Chen, K., Wang, R., Huang, J., Gao, F., Yuan, Z., Qi, Y., and Wu, H. (2022). **A resource for assessing dynamic binary choices in the adult brain using EEG and mouse-tracking**. *Scientific Data*, 9(416). [[Paper](https://doi.org/10.1038/s41597-022-01538-5){:target="_blank"}] [[Data](https://openneuro.org/datasets/ds003766){:target="_blank"}] [[Code](https://github.com/andlab-um/MT-EEG-dataset){:target="_blank"}]
 
