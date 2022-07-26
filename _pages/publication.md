@@ -13,6 +13,8 @@ Year: [2022](#2022) [2021](#2021) [2020](#2020) [Earlier](#earlier)
 ### 2022
 ---
 
+Wu, H., Fung, B. J., & Mobbs, D. (2022). **Mentalizing during social interaction: the development and validation of the interactive mentalizing questionnaire**. *Frontiers in psychology*, 12. [[Paper](https://doi.org/10.3389/fpsyg.2021.791835){:target='_blank'}]
+
 Chen, K., Wang, R., Huang, J., Gao, F., Yuan, Z., Qi, Y., and Wu, H. (2022). **A resource for assessing dynamic binary choices in the adult brain using EEG and mouse-tracking**. *Scientific Data*, 9(416). [[Paper](https://doi.org/10.1038/s41597-022-01538-5){:target="_blank"}] [[Data](https://openneuro.org/datasets/ds003766){:target="_blank"}] [[Code](https://github.com/andlab-um/MT-EEG-dataset){:target="_blank"}]
 
 Wu, Q., Huang, Q., Liu, C., & Wu, H. (2022). **Oxytocin modulates social brain network correlations in resting and task state**. *Cerebral Cortex*. [[Paper](https://doi.org/10.1093/cercor/bhac295){:target='_blank'}] [[Code](https://github.com/andlab-um/OT_task_rest){:target="_blank"}]
@@ -21,9 +23,7 @@ Cao, S., Liu, X., & Wu, H. (2022). **The neural mechanisms underlying effort pro
 
 Pang, L., Li, H., Liu, Q., Luo, Y.-J., Mobbs, D., & Wu, H. (2022). **Resting-state functional connectivity of social brain regions predicts motivated dishonesty**. *NeuroImage*, 256, 119253. [[Paper](https://doi.org/10.1016/j.neuroimage.2022.119253){:target='_blank'}] [[Code](https://github.com/andlab-um/restDishonesty){:target="_blank"}]
 
-
 Wang, Y., Wang, R., & Wu, H. (2022). **The role of oxytocin in modulating self–other distinction in human brain: A pharmacological fMRI study**. *Cerebral Cortex*, bhac167. [[Paper](https://doi.org/10.1093/cercor/bhac167){:target='_blank'}] [[Code](https://github.com/andlab-um/OT_face){:target="_blank"}]
-
 
 Cao, S.-Q., Tang, C.-C., Wu, H.-Y., & Liu, X. (2022). **Value Analysis determines when and how to strive**. *Advances in Psychological Science*, 30(4), 877–887. [[Paper](https://doi.org/10.3724/SP.J.1042.2022.00877){:target='_blank'}]
 
@@ -72,8 +72,6 @@ Yang, G., Wu, H., Qi, Y., & Liu, X. (2020). **Cognitive and neural mechanisms of
 Liu, Q., Wu, H., & Liu, A. (2019). **Modeling and Interpreting Real-world Human Risk Decision Making with Inverse Reinforcement Learning** (arXiv:1906.05803). *arXiv*. [[Paper](http://arxiv.org/abs/1906.05803){:target='_blank'}]
 
 Zhu, R., Liu, C., Li, T., Xu, Z., Fung, B., Feng, C., Wu, H., Luo, Y., & Wang, L. (2019). **Intranasal oxytocin reduces reactive aggression in men but not in women: A computational approach**. *Psychoneuroendocrinology*, 108, 172–181. [[Paper](https://doi.org/10.1016/j.psyneuen.2019.06.016){:target='_blank'}]
-
-Wu, H., Fung, B. J., & mobbs,  dean. (2019). **Mentalizing during social interaction: The development and validation of the interactive mentalizing questionnaire** [Preprint]. *PsyArXiv*. [[Paper](https://doi.org/10.31234/osf.io/g2zm8){:target='_blank'}]
 
 Feng, C., Cao, J., Li, Y., Wu, H., & Mobbs, D. (2018). **The pursuit of social acceptance: Aberrant conformity in social anxiety disorder**. *Social Cognitive and Affective Neuroscience*, 13(8), 809–817. [[Paper](https://doi.org/10.1093/scan/nsy052){:target='_blank'}]
 
