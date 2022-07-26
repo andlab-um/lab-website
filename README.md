@@ -1,8 +1,9 @@
 # AND Lab Website
 
-**Affective, Neuroscience and Decision-making Lab**
+[![Twitter URL](https://img.shields.io/twitter/url?label=%40ANDlab3&style=social&url=https%3A%2F%2Ftwitter.com%2FANDlab3)
+](https://twitter.com/ANDlab3)
 
-AND Lab is part of [CCBS](https://ccbs.ici.um.edu.mo) at [University of Macau](https://um.edu.mo).
+**[Affective, Neuroscience and Decision-making Lab](https://www.andlab-um.com)** is part of [CCBS](https://ccbs.ici.um.edu.mo) at [University of Macau](https://um.edu.mo).
 
 This website is built with [Jekyll](https://jekyllrb.com/). It is derived from the great template provided by [research-lab-website](https://github.com/ericdaat/research-lab-website) and [Allan Lab](https://www.allanlab.org/aboutwebsite.html), at Leiden University.
 ## Setup
@@ -31,8 +32,8 @@ bundle exec jekyll serve
 
 ### Add a new member
 
-New members are stored as ymal files under
-[_data/member.yml](_data/member.yml). Each entry must look like this (**<font color='red'>be careful with spaces</font>**):
+New members are stored as yaml files under
+[_data/member.yml](_data/member.yml). Each entry must look like this (**be careful with spaces**):
 
 > It's better to learn some basic rules of ymal, like [YAML tutorial in the context of Jekyll](https://idratherbewriting.com/documentation-theme-jekyll/mydoc_yaml_tutorial). Some items are not necessary.
 
