@@ -32,9 +32,7 @@ bundle exec jekyll serve
 ### Add a new member
 
 New members are stored as ymal files under
-[_data/member.yml](_data/member.yml).
-
-Each entry must look like this:
+[_data/member.yml](_data/member.yml). Each entry must look like this (**<font color='red'>be careful with spaces</font>**):
 
 > It's better to learn some basic rules of ymal, like [YAML tutorial in the context of Jekyll](https://idratherbewriting.com/documentation-theme-jekyll/mydoc_yaml_tutorial). Some items are not necessary.
 
@@ -51,28 +49,18 @@ Each entry must look like this:
 
 ### Add a new publication
 
-Publications are stored as ymal file under
-[_data/publication.yml](_data/publication.yml).
+Publications are stored as markdown file under
+[_pages/publication.md](_pages/publication.md). Just add a new entry like this (check [basic markdown syntax](https://www.markdownguide.org/basic-syntax)):
 
-Just add a new entry like this:
-
-``` yml
-- title: Publication title
-  authors: Author names
-  year: Publish year
-  publisher: Publisher name
-  page: Publish page
-  abstract: Abstract text
-  link: Paper link, like "https://doi.org/10.1080/00952990.2019.1608554"
-
+``` markdown
+Wu, H., Fung, B. J., & Mobbs, D. (2022). **Mentalizing during social interaction: the development and validation of the interactive mentalizing questionnaire**. *Frontiers in psychology*, 12. [[Paper](https://doi.org/10.3389/fpsyg.2021.791835){:target='_blank'}]
 ```
 
 ### Add news
 
-Just post it on lab twitter account. You have to specify your twitter account in [_includes/news_side.html](_includes/news_side.html) initially.
+Just post it on our lab Twitter account and it will automatically show up.
 
 ### Edit template
 
-We use [Bootstrap v3](https://getbootstrap.com/) for designing the website.
-Feel free to modify either the [_pages](_pages/) or the
+We use [Bootstrap v3](https://getbootstrap.com/) for designing the website. Feel free to modify either the [_pages](_pages/) or the
 [_layouts](_layouts/) components.
