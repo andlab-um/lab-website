@@ -12,7 +12,7 @@ Postdoc position is available for ANDlab, details can be found [here](https://rs
 
 ## Graduate Students
 
-We are planning to recruit **2-3** graduate students in fall 2022.
+We are planning to recruit **2-3** graduate students in fall 2023.
 
 ## Research Assistants
 
