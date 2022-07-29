@@ -12,9 +12,15 @@ Our current research directions:
 
 1) **Social cognition and affective neuroscience**: the multi-modal representation of negative emotional experiences (anxiety, fear, helpless) and its neurocomputation; the learning and representation of social information (social distance, emotional variability, affiliation) and its influence on social relationship; the neurocomputation of mentalizing and social decision-making (dishonesty decisions); the effect of pharmaceutical modulation (oxytocin) and neuromodulation (TMS&TDCS) on social cognition and behaviors.
 
+![figure1](./../assets/images/homepage/figure1.png)
+
 2) **Computational neuroscience**: we mainly leverage Bayesian modeling, Reinforcement learning, Drift-diffusion model to quantify human social learning and adaptive social decision-making.
 
+![figure2](./../assets/images/homepage/figure2.png)
+
 3) **Artificial intelligence (AI) and Human-AI interaction**: e.g., how AI facilitates empathy and interaction between human-AI and even between human-human, how human perceive and inference the affect of AI.
+
+![figure3](./../assets/images/homepage/figure3.png)
 
 We are supported by the following grants:
 
