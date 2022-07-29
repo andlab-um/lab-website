@@ -8,7 +8,7 @@ permalink: /
 
 The Affective, Neuroscience, and Decision-making lab is located at the [Centre for Cognitive and Brain Sciences](https://ccbs.ici.um.edu.mo){:target="_blank"} (CCBS) at [University of Macau](https://um.edu.mo){:target="_blank"} (UM), Macau SAR, China.
 
-Our current research directions:
+Our current **<span style="color:#e06666">research directions</span>**:
 
 1) **Social cognition and affective neuroscience**: the multi-modal representation of negative emotional experiences (anxiety, fear, helpless) and its neurocomputation; the learning and representation of social information (social distance, emotional variability, affiliation) and its influence on social relationship; the neurocomputation of mentalizing and social decision-making (dishonesty decisions); the effect of pharmaceutical modulation (oxytocin) and neuromodulation (TMS&TDCS) on social cognition and behaviors.
 
@@ -22,7 +22,7 @@ Our current research directions:
 
 ![figure3](./../assets/images/homepage/figure3.png)
 
-We are supported by the following grants:
+We are supported by the following **<span style="color:#e06666">grants</span>**:
 
 - Science and Technology Development Fund(FDCT) of Macau [0127/2020/A3]
 - SRG of University of Macau (SRG2020-00027-ICI)
