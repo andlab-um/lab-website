@@ -4,6 +4,8 @@ body {
     font-family: $main-font;
     padding-top: 3em;
     text-align: justify;
+    // word-break: normal;
+    word-wrap: break-word;
 }
 
 figcaption {
