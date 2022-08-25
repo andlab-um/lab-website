@@ -17,7 +17,7 @@ Wu, H., Fung, B. J., & Mobbs, D. (2022). **Mentalizing during social interaction
 
 Chen, K., Wang, R., Huang, J., Gao, F., Yuan, Z., Qi, Y., and Wu, H. (2022). **A resource for assessing dynamic binary choices in the adult brain using EEG and mouse-tracking**. *Scientific Data*, 9(416). [[Paper](https://doi.org/10.1038/s41597-022-01538-5){:target="_blank"}] [[Data](https://openneuro.org/datasets/ds003766){:target="_blank"}] [[Code](https://github.com/andlab-um/MT-EEG-dataset){:target="_blank"}]
 
-Wu, Q., Huang, Q., Liu, C., & Wu, H. (2022). **Oxytocin modulates social brain network correlations in resting and task state**. *Cerebral Cortex*. [[Paper](https://doi.org/10.1093/cercor/bhac295){:target='_blank'}] [[Code](https://github.com/andlab-um/OT_task_rest){:target="_blank"}]
+Wu, Q., Huang, Q., Liu, C., & Wu, H. (2022). **Oxytocin modulates social brain network correlations in resting and task state**. *Cerebral Cortex*. [[Paper](https://repository.um.edu.mo/bitstream/10692/108822/1/Oxytocin%20modulates%20social%20brain%20network%20correlations%20in%20resting%20and%20task%20state.pdf){:target='_blank'}] [[Code](https://github.com/andlab-um/OT_task_rest){:target="_blank"}]
 
 Cao, S., Liu, X., & Wu, H. (2022). **The neural mechanisms underlying effort process modulated by efficacy**. *Neuropsychologia*, 173, 108314. [[Paper](https://doi.org/10.1016/j.neuropsychologia.2022.108314){:target='_blank'}]
 

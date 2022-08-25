@@ -10,7 +10,7 @@ permalink: /position
 
 ### Postdoc Position
 
-Postdoc position is available for ANDlab, details can be found [here](https://rskto.um.edu.mo/mpf_mds/#02), or contact <haiyanwu@um.edu.mo>.
+Postdoc position is available for ANDlab, details can be found [here](https://rskto.um.edu.mo/umtp/#02), or contact <haiyanwu@um.edu.mo>.
 
 ### Graduate Students
 
