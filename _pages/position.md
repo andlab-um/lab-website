@@ -6,6 +6,8 @@ sitemap: false
 permalink: /position
 ---
 
+> *We welcome students from different backgrounds, e.g., psychology, neuroscience, biomedical engineering or a related field.*
+
 ## Postdoc Position
 
 Postdoc position is available for ANDlab, details can be found [here](https://rskto.um.edu.mo/mpf_mds/#02), or contact <haiyanwu@um.edu.mo>.
@@ -21,3 +23,4 @@ The laboratory has openings for part-time volunteer research assistants. Primary
 ## Others
 
 For any (undergraduate or master) students who would like to join our lab, please fill out this [application form](/assets/ANDlab_Application_2022.docx) and submit it to <haiyanwu@um.edu.mo>.
+
