@@ -24,3 +24,5 @@ The laboratory has openings for part-time volunteer research assistants. Primary
 
 For any (undergraduate or master) students who would like to join our lab, please fill out this [application form](/assets/ANDlab_Application_2022.docx) and submit it to <haiyanwu@um.edu.mo>.
 
+<br>
+<iframe src="{{ site.url }}{{ site.baseurl }}/assets/amap.html" width="960" height="600" frameborder="0" scrolling="no"></iframe>
