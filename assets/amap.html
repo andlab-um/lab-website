@@ -108,12 +108,17 @@
                         default: feature = null;
                     }
                     if (feature) { AMap.event.addListener(feature, "click", mapFeatureClick);}
+                    AMap.event.trigger(feature, "click", {
+                        "type": "click",
+                        "target": feature,
+                        "offset": new AMap.Pixel(5, -30),
+                        "lnglat": feature.getPosition()
+                    });
                 }
             }
             
             function mapFeatureClick(e) {
-                if (!infoWindow) { infoWindow = new AMap.InfoWindow({ autoMove: true, isCustom: false }); }
-                console.log(e)
+                if (!infoWindow) { infoWindow = new AMap.InfoWindow({ autoMove: true, isCustom: false, offset: e.offset}); }
                 var extData = e.target.getExtData();
                 infoWindow.setContent("<div class='myinfowindow'><h5>" + extData.name + "</h5><div>" + extData.desc + "</div></div>");
                 infoWindow.open(map, e.lnglat);
