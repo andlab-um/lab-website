@@ -124,7 +124,7 @@
                 infoWindow.open(map, e.lnglat);
             }
 
-            map = new AMap.Map("mapContainer", { center: new AMap.LngLat(center.lng, center.lat), level: level, keyboardEnable: true, dragEnable: true, scrollWheel: true, doubleClickZoom: true, zoom: 16 });
+            map = new AMap.Map("mapContainer", { lang: "zh", center: new AMap.LngLat(center.lng, center.lat), level: level, keyboardEnable: true, dragEnable: true, scrollWheel: true, doubleClickZoom: true, zoom: 16 });
 
             loadFeatures();
 
