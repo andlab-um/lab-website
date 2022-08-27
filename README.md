@@ -35,7 +35,7 @@ bundle exec jekyll serve
 New members are stored as yaml files under
 [_data/member.yml](_data/member.yml). Each entry must look like this (**be careful with spaces**):
 
-> It's better to learn some basic rules of yaml, like [YAML tutorial in the context of Jekyll](https://idratherbewriting.com/documentation-theme-jekyll/mydoc_yaml_tutorial). Some items are not necessary. The optimal width-height ratio is 3:4.
+> It's better to learn some basic rules of yaml, like [YAML tutorial in the context of Jekyll](https://idratherbewriting.com/documentation-theme-jekyll/mydoc_yaml_tutorial). Some items are not necessary. The optimal personal photo width-height ratio is 3:4.
 
 ``` yaml
 - title: Role of following members
