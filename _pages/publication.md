@@ -13,9 +13,9 @@ Year: [2022](#2022) [2021](#2021) [2020](#2020) [Earlier](#earlier)
 ### 2022
 ---
 
+Jin, T., Zhang, S., Lockwood, P., Vilares, I., Wu, H., Liu, C., & Ma, Y. (2022). **Learning whom to cooperate with: neurocomputational mechanisms for choosing cooperative partners**. *Cerebral Cortex*. [[Paper](https://doi.org/10.1093/cercor/bhac365){:target="_blank"}]
 
 Wang R., Yu R., Tian Y., & Wu H. (2022). **Individual variation in the neurophysiological representation of negative emotions in virtual reality is shaped by sociability**. *NeuroImage*. [[Paper](https://doi.org/10.1016/j.neuroimage.2022.119596){:target="_blank"}]  [[Code](https://github.com/andlab-um/Emotion_Neurophysio_IS-RSA){:target="_blank"}]
-
 
 Wu, H., Fung, B. J., & Mobbs, D. (2022). **Mentalizing during social interaction: the development and validation of the interactive mentalizing questionnaire**. *Frontiers in psychology*, 12. [[Paper](https://doi.org/10.3389/fpsyg.2021.791835){:target='_blank'}][[Code&resourse](https://github.com/andlab-um/imq){:target="_blank"}]
 
