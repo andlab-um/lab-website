@@ -13,6 +13,8 @@ Year: [2022](#2022) [2021](#2021) [2020](#2020) [Earlier](#earlier)
 ### 2022
 ---
 
+WU Qingyuan, CHEN Lei, LIU Chao, & WU Haiyan. (2022). **A review of methods for functional coupling and information transfer between the electric signal of heart and brain**. *Journal of Biomedical Engineering Research* (003), 041. [[Paper](/assets/files/心脑间电信号的功能耦合及信息传递方法综述.pdf){:target="_blank"}]
+
 Jin, T., Zhang, S., Lockwood, P., Vilares, I., Wu, H., Liu, C., & Ma, Y. (2022). **Learning whom to cooperate with: neurocomputational mechanisms for choosing cooperative partners**. *Cerebral Cortex*. [[Paper](https://doi.org/10.1093/cercor/bhac365){:target="_blank"}]
 
 Wang R., Yu R., Tian Y., & Wu H. (2022). **Individual variation in the neurophysiological representation of negative emotions in virtual reality is shaped by sociability**. *NeuroImage*. [[Paper](https://doi.org/10.1016/j.neuroimage.2022.119596){:target="_blank"}]  [[Code](https://github.com/andlab-um/Emotion_Neurophysio_IS-RSA){:target="_blank"}]
