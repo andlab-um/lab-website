@@ -43,6 +43,12 @@
     - name: Luoyao Pang
       image: luoyao.png
       content: Luoyao is a second-year graduate student in the lab. She graduated with a B.A. in Applied Psychology, and now is a joint training student at Shenzhen University studying Cognitive Neuroscience. She is interested in the computational and neural mechanisms of social cognition, especially how social information affects decision making. She is currently involved in two projects, the first is how brain structure and functional connectivity of specific resting-state networks predict motivated lying in an information passing task, and the second is the integration of individual and social information for decision making under uncertain situations.
+    - name: Junyuan Zheng
+      image: junyuanzheng.png
+      content: Junyuan Zheng is a first-year Master student in the lab.He received his B.E. Software Engineering degree at Xiamen University. His research interests contain 1) Group Psychology, especially applying cognitive neuroscience to explore new group psychological field theory, including group bias, stereotypes combined with personality psychology. 2) Computational Neuroscience combined with machine learning and other technologies.  3) Social psychology and social neuroscience in the context of Virtual Reality(VR). 4) Cultural Neuroscience, Chinese specific psychological phenomena with neural mechanisms behind.
+    - name: Haofei Wu
+      image: haofeiwu.png
+      content: Haofei WU, is a graduate student majoring in Cognitive Neuroscience. She graduated with a B.S. in Applied Psychology from Zhengzhou University. Currently, she is interested in the neural basis of social cognition, especially the mechanisms of processing social decisions under the influence of others. She is trying to investigate it through a range of methods including fMRI and EEG.
 
 - title: Research Assistant
   members:
