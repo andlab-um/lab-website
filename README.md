@@ -1,7 +1,6 @@
 # AND Lab Website
 
-[![Twitter URL](https://img.shields.io/twitter/url?label=%40ANDlab3&style=social&url=https%3A%2F%2Ftwitter.com%2FANDlab3)
-](https://twitter.com/ANDlab3)
+[![Twitter URL](https://img.shields.io/twitter/url?label=%40ANDlab3&style=social&url=https%3A%2F%2Ftwitter.com%2FANDlab3)](https://twitter.com/ANDlab3)
 
 **[Affective, Neuroscience and Decision-making Lab](https://www.andlab-um.com)** is part of [CCBS](https://ccbs.ici.um.edu.mo) at [University of Macau](https://um.edu.mo).
 
@@ -32,8 +31,7 @@ bundle exec jekyll serve
 
 ### Add a new member
 
-New members are stored as yaml files under
-[_data/member.yml](_data/member.yml). Each entry must look like this (**be careful with spaces**):
+Adding new member photos under [assets/images/team](assets/images/team/) folder. Member information are stored as yaml file under [_data/member.yml](_data/member.yml). Each entry must look like this (**be careful with spaces**):
 
 > It's better to learn some basic rules of yaml, like [YAML tutorial in the context of Jekyll](https://idratherbewriting.com/documentation-theme-jekyll/mydoc_yaml_tutorial). Some items are not necessary. The optimal personal photo width-height ratio is 3:4.
 
