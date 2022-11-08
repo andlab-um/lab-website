@@ -31,9 +31,6 @@
     - name: Xinyi Xu
       image: xinyi.png
       content: Xinyi is a first-year Ph.D. student in the lab and she majors in EE. Her research interest lies in 1) integrator models of value-based decision making like DDM; 2) combining mouse tracking technique and computational modeling to better probe the dynamics during decision making. Currently she is using fMRI and computational modeling to investigate how people evaluate money, honesty and the consistency of lying and how information is encoded in brain.
-    - name: Hanran Li
-      image: hanranli.png
-      content: Hanran Luna LI is a first-year Ph.D. student in the lab. She graduated with a B.S. Information and Computing Science from China University of Mining and Technology (Beijing). She focuses on using neuroimaging, neuropharmacology, and computational models to study the neural mechanisms underlying social interactions. Specially, she is interested in mental disorder like Autism Spectrum Disorder (ASD).
 
 - title: Master Students
   members:
