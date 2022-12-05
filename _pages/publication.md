@@ -7,7 +7,7 @@ permalink: /publication
 ---
 
 ## Publication
-We are committed to open science and to sharing  data and code from our publications.
+*We are committed to open science and to sharing  data and code from our publications.*
 
 **Categories:** [Preprint](#preprint)&ensp; [2022](#2022)&ensp; [2021](#2021)&ensp; [2020](#2020)&ensp; [Earlier](#earlier)
 
