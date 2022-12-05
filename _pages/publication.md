@@ -10,8 +10,9 @@ permalink: /publication
 
 **Categories:** [Preprint](#preprint)&ensp; [2022](#2022)&ensp; [2021](#2021)&ensp; [2020](#2020)&ensp; [Earlier](#earlier)
 
-### Preprint
 ---
+
+### Preprint
 
 Wu, H., Cao, S., Bai, C., Chen, K., & mobbs, d. (2021, October 10). **Moral by default? The dynamic tradeoffs between honesty and self-interest**. [[Paper](https://doi.org/10.31234/osf.io/kr4pw){:target="_blank"}]
 
@@ -23,8 +24,9 @@ Li, Z., Dong, Q., Hu, B., & Wu, H. (2022). **Every individual makes a difference
 
 Cao, S., Fu, D., Yang, X., Wermter, S., Liu, X., & Wu, H. (2021). **Can AI detect pain and express pain empathy? A review from emotion recognition and a human-centered AI perspective**. arXiv. [[Paper](https://doi.org/10.48550/ARXIV.2110.04249){:target="_blank"}]
 
-### 2022
 ---
+
+### 2022
 
 WU Qingyuan, CHEN Lei, LIU Chao, & WU Haiyan. (2022). **A review of methods for functional coupling and information transfer between the electric signal of heart and brain**. *Journal of Biomedical Engineering Research* (003), 041. [[Paper](/assets/files/心脑间电信号的功能耦合及信息传递方法综述.pdf){:target="_blank"}]
 
@@ -46,9 +48,9 @@ Wang, Y., Wang, R., & Wu, H. (2022). **The role of oxytocin in modulating self�
 
 Cao, S.-Q., Tang, C.-C., Wu, H.-Y., & Liu, X. (2022). **Value Analysis determines when and how to strive**. *Advances in Psychological Science*, 30(4), 877–887. [[Paper](https://doi.org/10.3724/SP.J.1042.2022.00877){:target='_blank'}]
 
+---
 
 ### 2021
----
 
 Yang, G., Xu, H., Li, Z., Nan, W., Wu, H., Li, Q., & Liu, X. (2021). **The congruency sequence effect is modulated by the similarity of conflicts**. *Journal of Experimental Psychology: Learning, Memory, and Cognition*, 47(10), 1705–1719. [[Paper](https://doi.org/10.1037/xlm0001054){:target='_blank'}]
 
@@ -66,9 +68,9 @@ Huang, Q., Chen, C., Luo, Y., & Wu, H. (2021). **The mechanism and function of c
 
 Zheng, S., Punia, D., Wu, H., & Liu, Q. (2021). **Graph Theoretic Analysis Reveals Intranasal Oxytocin Induced Network Changes Over Frontal Regions**. *Neuroscience*, 459, 153–165. [[Paper](https://doi.org/10.1016/j.neuroscience.2021.01.018){:target='_blank'}]
 
+---
 
 ### 2020
----
 
 Wu, H., Liu, X., Hagan, C. C., & Mobbs, D. (2020). **Mentalizing during social InterAction: A four component model**. *Cortex*, 126, 242–252. [[Paper](https://doi.org/10.1016/j.cortex.2019.12.031){:target='_blank'}]
 
@@ -84,9 +86,9 @@ Raiha, S., Yang, G., Wang, L., Dai, W., Wu, H., Meng, G., Zhong, B., & Liu, X. (
 
 Yang, G., Wu, H., Qi, Y., & Liu, X. (2020). **Cognitive and neural mechanisms of human gender processing**. *Advances in Psychological Science*, 28(12), 2008–2017. [[Paper](https://doi.org/10.3724/SP.J.1042.2020.02008){:target='_blank'}]
 
+---
 
 ### Earlier
----
 
 Liu, Q., Wu, H., & Liu, A. (2019). **Modeling and Interpreting Real-world Human Risk Decision Making with Inverse Reinforcement Learning** (arXiv:1906.05803). *arXiv*. [[Paper](http://arxiv.org/abs/1906.05803){:target='_blank'}]
 
