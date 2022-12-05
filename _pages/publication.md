@@ -14,7 +14,7 @@ permalink: /publication
 
 ### Preprint
 
-Wu, H., Cao, S., Bai, C., Chen, K., & mobbs, d. (2021). **Moral by default? The dynamic tradeoffs between honesty and self-interest**. [[Link](https://doi.org/10.31234/osf.io/kr4pw){:target="_blank"}]
+Wu, H., Cao, S., Bai, C., Chen, K., & Mobbs, D. (2021). **Moral by default? The dynamic tradeoffs between honesty and self-interest**. [[Link](https://doi.org/10.31234/osf.io/kr4pw){:target="_blank"}]
 
 Xu, X. J., Liu, X., Hu, X., & Wu, H. (2021). **MT-aIAT: Integrating mouse tracking into memory-detection aIAT**. [[Link](https://doi.org/10.31234/osf.io/ny9xq){:target="_blank"}]
 
@@ -28,7 +28,7 @@ Cao, S., Fu, D., Yang, X., Wermter, S., Liu, X., & Wu, H. (2021). **Can AI detec
 
 ### 2022
 
-WU Qingyuan, CHEN Lei, LIU Chao, & WU Haiyan. (2022). **A review of methods for functional coupling and information transfer between the electric signal of heart and brain**. *Journal of Biomedical Engineering Research* (003), 041. [[Link](http://swyxgcyj.com/oa/DArticle.aspx?type=view&id=20220314){:target="_blank"}]
+Wu Q, Chen L, Liu C, & Wu H. (2022). **A review of methods for functional coupling and information transfer between the electric signal of heart and brain**. *Journal of Biomedical Engineering Research* (003), 041. [[Link](http://swyxgcyj.com/oa/DArticle.aspx?type=view&id=20220314){:target="_blank"}]
 
 Jin, T., Zhang, S., Lockwood, P., Vilares, I., Wu, H., Liu, C., & Ma, Y. (2022). **Learning whom to cooperate with: neurocomputational mechanisms for choosing cooperative partners**. *Cerebral Cortex*. [[Link](https://doi.org/10.1093/cercor/bhac365){:target="_blank"}]
 
