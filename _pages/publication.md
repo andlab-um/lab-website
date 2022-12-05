@@ -28,7 +28,7 @@ Cao, S., Fu, D., Yang, X., Wermter, S., Liu, X., & Wu, H. (2021). **Can AI detec
 
 ### 2022
 
-WU Qingyuan, CHEN Lei, LIU Chao, & WU Haiyan. (2022). **A review of methods for functional coupling and information transfer between the electric signal of heart and brain**. *Journal of Biomedical Engineering Research* (003), 041. [[Link](/assets/files/心脑间电信号的功能耦合及信息传递方法综述.pdf){:target="_blank"}]
+WU Qingyuan, CHEN Lei, LIU Chao, & WU Haiyan. (2022). **A review of methods for functional coupling and information transfer between the electric signal of heart and brain**. *Journal of Biomedical Engineering Research* (003), 041. [[Link](http://swyxgcyj.com/oa/DArticle.aspx?type=view&id=20220314){:target="_blank"}]
 
 Jin, T., Zhang, S., Lockwood, P., Vilares, I., Wu, H., Liu, C., & Ma, Y. (2022). **Learning whom to cooperate with: neurocomputational mechanisms for choosing cooperative partners**. *Cerebral Cortex*. [[Link](https://doi.org/10.1093/cercor/bhac365){:target="_blank"}]
 
