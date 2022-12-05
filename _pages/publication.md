@@ -14,9 +14,9 @@ permalink: /publication
 
 ### Preprint
 
-Wu, H., Cao, S., Bai, C., Chen, K., & mobbs, d. (2021, October 10). **Moral by default? The dynamic tradeoffs between honesty and self-interest**. [[Link](https://doi.org/10.31234/osf.io/kr4pw){:target="_blank"}]
+Wu, H., Cao, S., Bai, C., Chen, K., & mobbs, d. (2021). **Moral by default? The dynamic tradeoffs between honesty and self-interest**. [[Link](https://doi.org/10.31234/osf.io/kr4pw){:target="_blank"}]
 
-Xu, X. J., Liu, X., Hu, X., & Wu, H. (2021, September 18). **MT-aIAT: Integrating mouse tracking into memory-detection aIAT**. [[Link](https://doi.org/10.31234/osf.io/ny9xq){:target="_blank"}]
+Xu, X. J., Liu, X., Hu, X., & Wu, H. (2021). **MT-aIAT: Integrating mouse tracking into memory-detection aIAT**. [[Link](https://doi.org/10.31234/osf.io/ny9xq){:target="_blank"}]
 
 Zhang, H., Zhang, K., Zhang, Z., Zhao, M., Liu, Q., Luo, W., & Wu, H. (2021). **Variations in EEG predict the individual differences in social tasks**. bioRxiv. [[Link](https://doi.org/10.1101/2021.10.29.465647){:target="_blank"}]
 
