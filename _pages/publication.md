@@ -8,7 +8,20 @@ permalink: /publication
 
 ## Publication
 
-Year: [2022](#2022) [2021](#2021) [2020](#2020) [Earlier](#earlier)
+**Categories:** [Preprint](#preprint)&ensp; [2022](#2022)&ensp; [2021](#2021)&ensp; [2020](#2020)&ensp; [Earlier](#earlier)
+
+### Preprint
+---
+
+Wu, H., Cao, S., Bai, C., Chen, K., & mobbs, d. (2021, October 10). **Moral by default? The dynamic tradeoffs between honesty and self-interest**. [[Paper](https://doi.org/10.31234/osf.io/kr4pw){:target="_blank"}]
+
+Xu, X. J., Liu, X., Hu, X., & Wu, H. (2021, September 18). **MT-aIAT: Integrating mouse tracking into memory-detection aIAT**. [[Paper](https://doi.org/10.31234/osf.io/ny9xq){:target="_blank"}]
+
+Zhang, H., Zhang, K., Zhang, Z., Zhao, M., Liu, Q., Luo, W., & Wu, H. (2021). **Variations in EEG predict the individual differences in social tasks**. bioRxiv. [[Paper](https://doi.org/10.1101/2021.10.29.465647){:target="_blank"}]
+
+Li, Z., Dong, Q., Hu, B., & Wu, H. (2022). **Every individual makes a difference: A trinity derived from linking individual brain morphometry, connectivity and mentalising ability**. bioRxiv. [[Paper](https://doi.org/10.1101/2022.04.11.487870){:target="_blank"}]
+
+Cao, S., Fu, D., Yang, X., Wermter, S., Liu, X., & Wu, H. (2021). **Can AI detect pain and express pain empathy? A review from emotion recognition and a human-centered AI perspective**. arXiv. [[Paper](https://doi.org/10.48550/ARXIV.2110.04249){:target="_blank"}]
 
 ### 2022
 ---
