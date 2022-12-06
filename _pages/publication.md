@@ -11,6 +11,8 @@ permalink: /publication
 
 **Categories:** [Preprint](#preprint)&ensp; [2022](#2022)&ensp; [2021](#2021)&ensp; [2020](#2020)&ensp; [Earlier](#earlier)
 
+[Download bibtex citations](/assets/files/ANDlab-publications-Bibtex.bib)
+
 ---
 
 ### Preprint
