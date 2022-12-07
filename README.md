@@ -52,7 +52,7 @@ Publications are stored as markdown file under
 [_pages/publication.md](_pages/publication.md). Just add a new entry like this (check [basic markdown syntax](https://www.markdownguide.org/basic-syntax)):
 
 ``` markdown
-Wu, H., Fung, B. J., & Mobbs, D. (2022). **Mentalizing during social interaction: the development and validation of the interactive mentalizing questionnaire**. *Frontiers in psychology*, 12. [[Paper](https://doi.org/10.3389/fpsyg.2021.791835){:target='_blank'}]
+Wu, H., Fung, B. J., & Mobbs, D. (2022). **Mentalizing during social interaction: the development and validation of the interactive mentalizing questionnaire**. *Frontiers in psychology*, 12. [[Link](https://doi.org/10.3389/fpsyg.2021.791835){:target='_blank'}]
 ```
 
 > Update (2022-12-07): please also add a BibTex entry at the beginning of the [assets/files/ANDlab-publications-Bibtex.bib](assets/files/ANDlab-publications-Bibtex.bib) file.
