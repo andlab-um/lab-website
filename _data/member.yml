@@ -19,6 +19,10 @@
     - name: Zhaoning Li
       image: zhaoning.png
       content: Zhaoning is a second-year PhD student in the lab. He received a B.E. degree in Information Security and an M.E. degree in Software Engineering, both from Sun Yat-Sen University. Enlightened by Heinrich Heine’s famous quote, ‘Thought precedes action, as lighting does thunder’, Zhaoning devoted himself to theoretical research after familiarizing with empirical research and application. Specifically, he aspires to make contributions to a “virtuous circle”, in which shared insights into Artificial Intelligence and social psychology will advance the development of both fields. Eventually, Zhaoning will try to build a theory in this area by working his ass off, despite how naive the theory is and what difficulties he will meet. As the founder of modern social psychology, Kurt Lewin said, there is nothing more practical than a good theory.
+      social:
+        email: yc17319@umac.mo
+        website: "https://github.com/das-boot"
+        google-scholar: "https://scholar.google.com/citations?user=Vr94lCUAAAAJ&hl=zh-CN"
     - name: Haoming Zhang
       image: haoming.png
       content: Haoming is a second-year PhD student in the lab. Before joining the A.N.D lab, Haoming received his bachelor’s degree at Southern University of Science and Technology. He is mainly interested in two specific topics. The first one is to investigate how the brain encoding the information about the direction of motion (forward & backward) by using intracranial electroencephalographic to recording and analyze the electrophysiological signal. The second is to investigate the neural machinery of the human brain for making safe, risky decisions.Haoming uses different kinds of methods in the research, which include EEG, sEEG, machine learning, and neural network.
