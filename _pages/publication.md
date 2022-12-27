@@ -17,7 +17,7 @@ permalink: /publication
 
 ### Preprint
 
-Zhang, H., Chen, K., Bao, J., & Wu, H. (2022). Oxytocin enhances the triangular association among behavioral performance, resting state, and task-state functional connectivity. bioRxiv. [[Link](https://doi.org/10.1101/2022.12.23.521846){:target="_blank"}]
+Zhang, H., Chen, K., Bao, J., & Wu, H. (2022). **Oxytocin enhances the triangular association among behavioral performance, resting state, and task-state functional connectivity**. bioRxiv. [[Link](https://doi.org/10.1101/2022.12.23.521846){:target="_blank"}]
 
 Wu, H., Cao, S., Bai, C., Chen, K., & Mobbs, D. (2021). **Moral by default? The dynamic tradeoffs between honesty and self-interest**. [[Link](https://doi.org/10.31234/osf.io/kr4pw){:target="_blank"}]
 
