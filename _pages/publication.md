@@ -19,15 +19,15 @@ permalink: /publication
 
 Zhang, H., Chen, K., Bao, J., & Wu, H. (2022). **Oxytocin enhances the triangular association among behavioral performance, resting state, and task-state functional connectivity**. bioRxiv. [[Link](https://doi.org/10.1101/2022.12.23.521846){:target="_blank"}]
 
-Wu, H., Cao, S., Bai, C., Chen, K., & Mobbs, D. (2021). **Moral by default? The dynamic tradeoffs between honesty and self-interest**. [[Link](https://doi.org/10.31234/osf.io/kr4pw){:target="_blank"}]
-
-Xu, X. J., Liu, X., Hu, X., & Wu, H. (2021). **MT-aIAT: Integrating mouse tracking into memory-detection aIAT**. [[Link](https://doi.org/10.31234/osf.io/ny9xq){:target="_blank"}]
+Li, Z., Dong, Q., Hu, B., & Wu, H. (2022). **Every individual makes a difference: A trinity derived from linking individual brain morphometry, connectivity and mentalising ability**. bioRxiv. [[Link](https://doi.org/10.1101/2022.04.11.487870){:target="  _blank"}] [[Data & Code](https://github.com/andlab-um/trinity){:target="_blank"}]
 
 Zhang, H., Zhang, K., Zhang, Z., Zhao, M., Liu, Q., Luo, W., & Wu, H. (2021). **Variations in EEG predict the individual differences in social tasks**. bioRxiv. [[Link](https://doi.org/10.1101/2021.10.29.465647){:target="_blank"}]
 
-Li, Z., Dong, Q., Hu, B., & Wu, H. (2022). **Every individual makes a difference: A trinity derived from linking individual brain morphometry, connectivity and mentalising ability**. bioRxiv. [[Link](https://doi.org/10.1101/2022.04.11.487870){:target="_blank"}]
+Wu, H., Cao, S., Bai, C., Chen, K., & Mobbs, D. (2021). **Moral by default? The dynamic tradeoffs between honesty and self-interest**. [[Link](https://doi.org/10.31234/osf.io/kr4pw){:target="_blank"}]
 
 Cao, S., Fu, D., Yang, X., Wermter, S., Liu, X., & Wu, H. (2021). **Can AI detect pain and express pain empathy? A review from emotion recognition and a human-centered AI perspective**. arXiv. [[Link](https://doi.org/10.48550/ARXIV.2110.04249){:target="_blank"}]
+
+Xu, X. J., Liu, X., Hu, X., & Wu, H. (2021). **MT-aIAT: Integrating mouse tracking into memory-detection aIAT**. [[Link](https://doi.org/10.31234/osf.io/ny9xq){:target="_blank"}]
 
 ---
 
@@ -37,9 +37,9 @@ Wu Q, Chen L, Liu C, & Wu H. (2022). **A review of methods for functional coupli
 
 Jin, T., Zhang, S., Lockwood, P., Vilares, I., Wu, H., Liu, C., & Ma, Y. (2022). **Learning whom to cooperate with: neurocomputational mechanisms for choosing cooperative partners**. *Cerebral Cortex*. [[Link](https://doi.org/10.1093/cercor/bhac365){:target="_blank"}]
 
-Wang R., Yu R., Tian Y., & Wu H. (2022). **Individual variation in the neurophysiological representation of negative emotions in virtual reality is shaped by sociability**. *NeuroImage*. [[Link](https://doi.org/10.1016/j.neuroimage.2022.119596){:target="_blank"}]  [[Code](https://github.com/andlab-um/Emotion_Neurophysio_IS-RSA){:target="_blank"}]
+Wang R., Yu R., Tian Y., & Wu H. (2022). **Individual variation in the neurophysiological representation of negative emotions in virtual reality is shaped by sociability**. *NeuroImage*. [[Link](https://doi.org/10.1016/j.neuroimage.2022.119596){:target="_blank"}] [[Code](https://github.com/andlab-um/Emotion_Neurophysio_IS-RSA){:target="_blank"}]
 
-Wu, H., Fung, B. J., & Mobbs, D. (2022). **Mentalizing during social interaction: the development and validation of the interactive mentalizing questionnaire**. *Frontiers in psychology*, 12. [[Link](https://doi.org/10.3389/fpsyg.2021.791835){:target='_blank'}][[Code&resourse](https://github.com/andlab-um/imq){:target="_blank"}]
+Wu, H., Fung, B. J., & Mobbs, D. (2022). **Mentalizing during social interaction: the development and validation of the interactive mentalizing questionnaire**. *Frontiers in psychology*, 12. [[Link](https://doi.org/10.3389/fpsyg.2021.791835){:target='_blank'}] [[Code&resourse](https://github.com/andlab-um/imq){:target="_blank"}]
 
 Chen, K., Wang, R., Huang, J., Gao, F., Yuan, Z., Qi, Y., & Wu, H. (2022). **A resource for assessing dynamic binary choices in the adult brain using EEG and mouse-tracking**. *Scientific Data*, 9(416). [[Link](https://doi.org/10.1038/s41597-022-01538-5){:target="_blank"}] [[Data](https://openneuro.org/datasets/ds003766){:target="_blank"}] [[Code](https://github.com/andlab-um/MT-EEG-dataset){:target="_blank"}]
 
