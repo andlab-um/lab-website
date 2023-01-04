@@ -39,7 +39,7 @@ Jin, T., Zhang, S., Lockwood, P., Vilares, I., Wu, H., Liu, C., & Ma, Y. (2022).
 
 Wang R., Yu R., Tian Y., & Wu H. (2022). **Individual variation in the neurophysiological representation of negative emotions in virtual reality is shaped by sociability**. *NeuroImage*. [[Link](https://doi.org/10.1016/j.neuroimage.2022.119596){:target="_blank"}] [[Code](https://github.com/andlab-um/Emotion_Neurophysio_IS-RSA){:target="_blank"}]
 
-Wu, H., Fung, B. J., & Mobbs, D. (2022). **Mentalizing during social interaction: the development and validation of the interactive mentalizing questionnaire**. *Frontiers in psychology*, 12. [[Link](https://doi.org/10.3389/fpsyg.2021.791835){:target='_blank'}] [[Code&resourse](https://github.com/andlab-um/imq){:target="_blank"}]
+Wu, H., Fung, B. J., & Mobbs, D. (2022). **Mentalizing during social interaction: the development and validation of the interactive mentalizing questionnaire**. *Frontiers in psychology*, 12. [[Link](https://doi.org/10.3389/fpsyg.2021.791835){:target='_blank'}] [[Code & Resourse](https://github.com/andlab-um/imq){:target="_blank"}]
 
 Chen, K., Wang, R., Huang, J., Gao, F., Yuan, Z., Qi, Y., & Wu, H. (2022). **A resource for assessing dynamic binary choices in the adult brain using EEG and mouse-tracking**. *Scientific Data*, 9(416). [[Link](https://doi.org/10.1038/s41597-022-01538-5){:target="_blank"}] [[Data](https://openneuro.org/datasets/ds003766){:target="_blank"}] [[Code](https://github.com/andlab-um/MT-EEG-dataset){:target="_blank"}]
 
