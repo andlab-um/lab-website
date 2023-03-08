@@ -19,15 +19,19 @@ permalink: /publication
 
 Zhang, H., Chen, K., Bao, J., & Wu, H. (2022). **Oxytocin enhances the triangular association among behavioral performance, resting state, and task-state functional connectivity**. bioRxiv. [[Link](https://doi.org/10.1101/2022.12.23.521846){:target="_blank"}]
 
-Li, Z., Dong, Q., Hu, B., & Wu, H. (2022). **Every individual makes a difference: A trinity derived from linking individual brain morphometry, connectivity and mentalising ability**. bioRxiv. [[Link](https://doi.org/10.1101/2022.04.11.487870){:target="  _blank"}] [[Data & Code](https://github.com/andlab-um/trinity){:target="_blank"}]
-
-Zhang, H., Zhang, K., Zhang, Z., Zhao, M., Liu, Q., Luo, W., & Wu, H. (2021). **Variations in EEG predict the individual differences in social tasks**. bioRxiv. [[Link](https://doi.org/10.1101/2021.10.29.465647){:target="_blank"}]
+Li, Z., Dong, Q., Hu, B., & Wu, H. (2022). **Every individual makes a difference: A trinity derived from linking individual brain morphometry, connectivity and mentalising ability**. bioRxiv. [[Link](https://doi.org/10.1101/2022.04.11.487870){:target="_blank"}] [[Data & Code](https://github.com/andlab-um/trinity){:target="_blank"}]
 
 Wu, H., Cao, S., Bai, C., Chen, K., & Mobbs, D. (2021). **Moral by default? The dynamic tradeoffs between honesty and self-interest**. [[Link](https://doi.org/10.31234/osf.io/kr4pw){:target="_blank"}]
 
 Cao, S., Fu, D., Yang, X., Wermter, S., Liu, X., & Wu, H. (2021). **Can AI detect pain and express pain empathy? A review from emotion recognition and a human-centered AI perspective**. arXiv. [[Link](https://doi.org/10.48550/ARXIV.2110.04249){:target="_blank"}]
 
 Xu, X. J., Liu, X., Hu, X., & Wu, H. (2021). **MT-aIAT: Integrating mouse tracking into memory-detection aIAT**. [[Link](https://doi.org/10.31234/osf.io/ny9xq){:target="_blank"}]
+
+### 2023
+
+Haoming Zhang, Kunkun Zhang, Ziqi Zhang, Mingqi Zhao, Quanying Liu, Wenbo Luo, Haiyan Wu(2023) **Social conformity is associated with Inter-trial EEG variability**, *Annals of the New York Academy of Sciences*. [[Preprint](https://doi.org/10.1101/2021.10.29.465647){:target="_blank"}] [[DOI](https://doi.org/10.1111/nyas.14983){:target="_blank"}]
+
+Yanyan Qi, Zhihui Liu, Siqi Cao, Yixin Han, Qiong Wang, Xun Liu, and Haiyan Wu(2023) **Social value orientation modulates behavioral and neural responses to social influence**, *Human Brain Mapping*. [[DOI](https://doi.org/10.1002/hbm.26276){:target="_blank"}]
 
 ---
 
