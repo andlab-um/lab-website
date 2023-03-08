@@ -30,9 +30,9 @@ Xu, X. J., Liu, X., Hu, X., & Wu, H. (2021). **MT-aIAT: Integrating mouse tracki
 
 Li, Z., Dong, Q., Hu, B., & Wu, H. (2023). **Every individual makes a difference: A trinity derived from linking individual brain morphometry, connectivity and mentalising ability**. *Human Brain Mapping*. [[Link](https://doi.org/10.1101/2022.04.11.487870){:target="_blank"}] [[Data & Code](https://github.com/andlab-um/trinity){:target="_blank"}]
 
-Zhang, H., Zhang, K., Zhang, Z., Zhao, M., Liu, Q., Luo, W., Wu, H.(2023) **Social conformity is associated with Inter-trial EEG variability**, *Annals of the New York Academy of Sciences*. [[Preprint](https://doi.org/10.1101/2021.10.29.465647){:target="_blank"}] [[DOI](https://doi.org/10.1111/nyas.14983){:target="_blank"}]
+Zhang, H., Zhang, K., Zhang, Z., Zhao, M., Liu, Q., Luo, W., & Wu, H.(2023) **Social conformity is associated with Inter-trial EEG variability**, *Annals of the New York Academy of Sciences*. [[Preprint](https://doi.org/10.1101/2021.10.29.465647){:target="_blank"}] [[DOI](https://doi.org/10.1111/nyas.14983){:target="_blank"}]
 
-Qi, Y., Liu, Z., Cao, S., Han, Y., Wang, Q., Liu, X., and Wu, H.(2023) **Social value orientation modulates behavioral and neural responses to social influence**, *Human Brain Mapping*. [[DOI](https://doi.org/10.1002/hbm.26276){:target="_blank"}]
+Qi, Y., Liu, Z., Cao, S., Han, Y., Wang, Q., Liu, X., & Wu, H.(2023) **Social value orientation modulates behavioral and neural responses to social influence**, *Human Brain Mapping*. [[DOI](https://doi.org/10.1002/hbm.26276){:target="_blank"}]
 
 ---
 
