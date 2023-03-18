@@ -9,7 +9,7 @@ permalink: /publication
 ## Publication
 *We are committed to open science and to sharing  data and code from our publications.*
 
-**Categories:** [Preprint](#preprint)&ensp; [2022](#2022)&ensp; [2021](#2021)&ensp; [2020](#2020)&ensp; [Earlier](#earlier)
+**Categories:** [Preprint](#preprint)&ensp; [2023](#2023)&ensp; [2022](#2022)&ensp; [2021](#2021)&ensp; [2020](#2020)&ensp; [Earlier](#earlier)
 
 [Download bibtex citations](/assets/files/ANDlab-publications-Bibtex.bib)
 
@@ -26,7 +26,7 @@ Cao, S., Fu, D., Yang, X., Wermter, S., Liu, X., & Wu, H. (2021). **Can AI detec
 
 Xu, X. J., Liu, X., Hu, X., & Wu, H. (2021). **MT-aIAT: Integrating mouse tracking into memory-detection aIAT**. [[Link](https://doi.org/10.31234/osf.io/ny9xq){:target="_blank"}]
 
-### 2023 - in press
+### 2023
 
 Li, Z., Dong, Q., Hu, B., & Wu, H. (2023). **Every individual makes a difference: A trinity derived from linking individual brain morphometry, connectivity and mentalising ability**. *Human Brain Mapping*. [[Link](https://doi.org/10.1101/2022.04.11.487870){:target="_blank"}] [[Data & Code](https://github.com/andlab-um/trinity){:target="_blank"}]
 
