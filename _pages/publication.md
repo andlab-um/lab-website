@@ -19,7 +19,6 @@ permalink: /publication
 
 Zhang, H., Chen, K., Bao, J., & Wu, H. (2022). **Oxytocin enhances the triangular association among behavioral performance, resting state, and task-state functional connectivity**. bioRxiv. [[Link](https://doi.org/10.1101/2022.12.23.521846){:target="_blank"}]
 
-
 Wu, H., Cao, S., Bai, C., Chen, K., & Mobbs, D. (2021). **Moral by default? The dynamic tradeoffs between honesty and self-interest**. [[Link](https://doi.org/10.31234/osf.io/kr4pw){:target="_blank"}]
 
 Cao, S., Fu, D., Yang, X., Wermter, S., Liu, X., & Wu, H. (2021). **Can AI detect pain and express pain empathy? A review from emotion recognition and a human-centered AI perspective**. arXiv. [[Link](https://doi.org/10.48550/ARXIV.2110.04249){:target="_blank"}]
@@ -32,7 +31,7 @@ Li, Z., Dong, Q., Hu, B., & Wu, H. (2023). **Every individual makes a difference
 
 Zhang, H., Zhang, K., Zhang, Z., Zhao, M., Liu, Q., Luo, W., & Wu, H.(2023) **Social conformity is associated with Inter-trial EEG variability**, *Annals of the New York Academy of Sciences*. [[Preprint](https://doi.org/10.1101/2021.10.29.465647){:target="_blank"}] [[DOI](https://doi.org/10.1111/nyas.14983){:target="_blank"}] [[Data & Code](https://github.com/andlab-um/Trust-untrust-face-judge){:target="_blank"}]
 
-Qi, Y., Liu, Z., Cao, S., Han, Y., Wang, Q., Liu, X., & Wu, H.(2023) **Social value orientation modulates behavioral and neural responses to social influence**, *Human Brain Mapping*. 1– 10. [[DOI](https://doi.org/10.1002/hbm.26276){:target="_blank"}]
+Qi, Y., Liu, Z., Cao, S., Han, Y., Wang, Q., Liu, X., & Wu, H.(2023) **Social value orientation modulates behavioral and neural responses to social influence**, *Human Brain Mapping*. 1– 10. [[Link](https://doi.org/10.1002/hbm.26276){:target="_blank"}]
 
 ---
 
