@@ -36,6 +36,9 @@
     - name: Xinyi Xu
       image: xinyi.png
       content: Xinyi is a first-year Ph.D. student in the lab and she majors in EE. Her research interest lies in 1) integrator models of value-based decision making like DDM; 2) combining mouse tracking technique and computational modeling to better probe the dynamics during decision making. Currently she is using fMRI and computational modeling to investigate how people evaluate money, honesty and the consistency of lying and how information is encoded in brain.
+    - name: Keyu Hu
+      image: keyuhu.png
+      content: Keyu is a first-year Ph.D. student who received B.Sc. (Psychology) degrees from both Southwest University in Chongqing, China, and the Australian National University in Canberra, Australia. Generally, she is interested in investigating the neural basis of social cognition and affection using muti-modality methods in topics including 1) the intrinsically biased or limited perception and representation of social information, together with 2) their impact on the adaptive learning and decision-making and 3) the role of individuals' affective experience during those processes.
 
 - title: Master Students
   members:
@@ -57,12 +60,6 @@
     - name: Shuhan Zhang
       image: shuhanzhang.png
       content: Shuhan Zhang is a first-year graduate student in the lab, majoring in Cognitive Neuroscience. She graduated with a B.A. in psychology from Southwest University. Currently, she is interested in the neural mechanism of social cognition and human social interaction. She tries to investigate how people interact with each other in different situations by using neuroscience methods.
-
-- title: Research Assistant
-  members:
-    - name: Keyu Hu
-      image: keyuhu.png
-      content: Keyu Hu, is currently a research assistant in the lab. She received a double B.Sc. (Psychology) degree from both Southwest University in Chongqing, China and the Australian National University in Canberra, Australia. Generally, her research interest includes 1) investigating the neural basis of social cognition and emotion using multiple methods, 2) human behavior in a social context like decision-making process and third-party punishment behavior.
 
 - title: Undergraduate Students
   members:
