@@ -5,7 +5,7 @@
 **[Affective, Neuroscience and Decision-making Lab](https://www.andlab-um.com)** is part of [CCBS](https://ccbs.ici.um.edu.mo) at [University of Macau](https://um.edu.mo).
 
 This website is built with [Jekyll](https://jekyllrb.com/). It is derived from the great template provided by [research-lab-website](https://github.com/ericdaat/research-lab-website) and [Allan Lab](https://www.allanlab.org/aboutwebsite.html), at Leiden University.
-## Setup
+## Local Setup & Run
 
 Install Ruby firstly, then install Jekyll.
 
@@ -16,12 +16,12 @@ gem install bundler jekyll
 Clone this repository, then install the dependencies:
 
 ``` bash
+git clone https://github.com/andlab-um/lab-website.git
+cd lab-website
 bundle install
 ```
 
-## Run
-
-Run the local webserver with:
+Deploy the website locally with:
 
 ``` bash
 bundle exec jekyll serve
