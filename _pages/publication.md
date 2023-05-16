@@ -27,7 +27,7 @@ Xu, X. J., Liu, X., Hu, X., & Wu, H. (2021). **MT-aIAT: Integrating mouse tracki
 
 ### 2023
 
-Guochun, Y., Haiyan, W., Qi, L., Xun, L., Zhongzheng, F., & Jiefeng, J. (2023). **Conflicts are represented in a cognitive space to reconcile domain-general and domain-specific cognitive control**. *eLife*, 12. [[Link](https://doi.org/10.7554/eLife.87126.1){:target="_blank"}]
+Yang, G., Wu, H., Li, Q., Liu, X., Fu, Z., & Jiang, J. (2023). **Conflicts are represented in a cognitive space to reconcile domain-general and domain-specific cognitive control**. *eLife*, 12. [[Link](https://doi.org/10.7554/eLife.87126.1){:target="      _blank"}]
 
 Li, Z., Dong, Q., Hu, B., & Wu, H. (2023). **Every individual makes a difference: A trinity derived from linking individual brain morphometry, connectivity and mentalising ability**. *Human Brain Mapping*, 44(8), 3343-3358. [[Preprint](https://doi.org/10.1101/2022.04.11.487870){:target="_blank"}] [[DOI](https://onlinelibrary.wiley.com/doi/10.1002/hbm.26285){:target="_blank"}] [[Data & Code](https://github.com/andlab-um/trinity){:target="_blank"}]
 
