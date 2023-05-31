@@ -13,8 +13,8 @@ permalink: /position
 Postdoc position is available for ANDlab, details can be found [here](https://rskto.um.edu.mo/umtp/#02), or contact <haiyanwu@um.edu.mo>.
 
 ### Graduate Students
-
-We are planning to recruit **2-3** graduate students in fall 2023.
+We are not planning to recruit new master students in fall 2023.
+We are planning to recruit PhD students in fall 2024.
 
 ### Research Assistants
 
