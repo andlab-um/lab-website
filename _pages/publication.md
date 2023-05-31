@@ -27,7 +27,6 @@ Xu, X. J., Liu, X., Hu, X., & Wu, H. (2021). **MT-aIAT: Integrating mouse tracki
 
 ### 2023
 
-Li, Z., Jiang, Q., Wu, Z., Liu, A., Wu, H., Huang, M., Huang, K. & Ku, Y. (2023). **Towards human-compatible autonomous car: A study of non-verbal Turing test in automated driving with affective transition modelling**. *IEEE Transactions on Affective Computing*. [[Preprint](https://arxiv.org/abs/2212.02908){:target="_blank"}] [[DOI](https://doi.org/10.1109/TAFFC.2023.3279311){:target="_blank"}] [[Data & Code](https://github.com/Das-Boot/bot_or_not){:target="_blank"}]
 
 Yang, G., Wu, H., Li, Q., Liu, X., Fu, Z., & Jiang, J. (2023). **Conflicts are represented in a cognitive space to reconcile domain-general and domain-specific cognitive control**. *eLife*, 12. [[Link](https://doi.org/10.7554/eLife.87126.1){:target="      _blank"}]
 
