@@ -4,7 +4,7 @@ body {
     font-family: $main-font;
     padding-top: 3em;
     padding-bottom: 3em;
-    text-align: justify;
+    text-align: left;
     // word-break: normal;
     word-wrap: break-word;
 }
@@ -26,11 +26,13 @@ figcaption {
 .container-fluid {
     margin-right: auto;
     margin-left: auto;
-    max-width: $modal-lg; /* or 950px */
+    max-width: $modal-lg;
+    /* or 950px */
     padding: 0;
 }
 
-h2, h3 {
+h2,
+h3 {
     color: $highlight-text;
 }
 
@@ -55,10 +57,14 @@ strong {
 // hide scrollbar
 .hide-scrollbar {
     ::-webkit-scrollbar {
-        display: none; /* Chrome Safari */
+        display: none;
+        /* Chrome Safari */
     }
-    -ms-overflow-style: none;  /* IE and Edge */
-    scrollbar-width: none;  /* Firefox */
+
+    -ms-overflow-style: none;
+    /* IE and Edge */
+    scrollbar-width: none;
+    /* Firefox */
 }
 
 // navbar
@@ -88,6 +94,7 @@ strong {
 .lab-logo {
     margin-top: 1em;
     margin-bottom: .5em;
+
     img {
         max-width: 190px;
     }
@@ -99,6 +106,7 @@ strong {
 
 .well {
     padding: 10px 10px 0;
+
     h5 {
         margin-top: 0;
     }
