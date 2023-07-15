@@ -29,6 +29,8 @@ menu:
     url: /team
   - title: Resource
     url: /resource
+  - title: OpenProject
+    url: /openproject
   - title: Position
     url: /position
 
