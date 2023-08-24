@@ -20,12 +20,12 @@
       image: haoming.png
       content: Haoming is a third-year PhD student in the lab. Before joining the A.N.D lab, Haoming received his bachelor’s degree at Southern University of Science and Technology. He is mainly interested in two specific topics. The first one is to investigate how the brain encoding the information about the direction of motion (forward & backward) by using intracranial electroencephalographic to recording and analyze the electrophysiological signal. The second is to investigate the neural machinery of the human brain for making safe, risky decisions. Haoming uses different kinds of methods in the research, which include EEG, sEEG, machine learning, and neural network.
       social:
-        email: yc17320@connect.edu.mo
+        email: yc17320@connect.um.edu.mo
     - name: Kun CHEN
       image: kun.png
       content: "Kun CHEN is a third-year Ph.D. student in the lab. He graduated with a B.E. degree in Computer Science and Technology from Huazhong University of Science and Technology. Kun's research passions lie in two interconnected areas: 1) Investigating how different forms of knowledge are encoded and retrieved in the human brain, and understanding how these representations influence our behavior. 2) Building on this foundation, he extends his inquiry to the representation of emotions. Utilizing computational modeling and neural recording techniques, Kun explores how emotions are represented and processed in the brain, and how they shape social decisions."
       social:
-        email: yc17307@connect.edu.mo
+        email: yc17307@connect.um.edu.mo
         website: "https://chenkun.me"
         github: "https://github.com/const7"
     - name: Siying Li
@@ -38,7 +38,7 @@
       image: keyuhu.png
       content: Keyu is a second-year Ph.D. student who received B.Sc. (Psychology) degrees from both Southwest University in Chongqing, China, and the Australian National University in Canberra, Australia. Generally, she is interested in investigating the neural basis of social cognition and affection using muti-modality methods in topics including 1) the intrinsically biased or limited perception and representation of social information, together with 2) their impact on the adaptive learning and decision-making and 3) the role of individuals' affective experience during those processes.
       social:
-        email: yc27383@connect.edu.mo
+        email: yc27383@connect.um.edu.mo
     - name: Jingmin Qin
       image: jingminqin.png
       content: I am a first-year PhD student in the lab. I received my B.E. degree in Economics from China University of Geosciences (Beijing) and my M.E. degree in Psychology from Southwest University. Recently, I have been exploring the secrets behind social cognition and interaction, especially focusing on mentalization. I am very interested in understanding the dynamic neural mechanisms of direct and indirect mentalization.
@@ -55,12 +55,12 @@
       image: haofeiwu.png
       content: Haofei WU, is a graduate student majoring in Cognitive Neuroscience. She graduated with a B.S. in Applied Psychology from Zhengzhou University. Currently, she is interested in the neural basis of social cognition, especially the mechanisms of processing social decisions under the influence of others. She is trying to investigate it through a range of methods including fMRI and EEG.
       social:
-        email: mc25799@connect.edu.mo
+        email: mc25799@connect.um.edu.mo
     - name: Shuhan Zhang
       image: shuhanzhang.png
       content: Shuhan Zhang is a second-year graduate student in the lab, majoring in Cognitive Neuroscience. She graduated with a B.A. in psychology from Southwest University. Currently, she is interested in the neural mechanism of social cognition and human social interaction. She tries to investigate how people interact with each other in different situations by using neuroscience methods.
       social:
-        email: yc27383@connect.edu.mo
+        email: yc27383@connect.um.edu.mo
     - name: He Miao
       image: hemiao.png
       content: He Miao is a graduate student majoring in Cognitive Neuroscience. He got his bachelor degree from the Faculty of Business Admisitration in the University of Macau. He is interested in the neural mechanisms of risky decision making and social information seeking. He is now investigating the  utility function of social and non-social information in specific social conditions, and also focusing on the brain stimulation techniques to manipulate the reward-based decision making behaviour.
