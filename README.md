@@ -42,8 +42,10 @@ Adding new member photos under [assets/images/team](assets/images/team/) folder.
       image: Member image file name
       content: Some description
       social:
-        email: Email address
-        website: Personal website
+        email: example@connect.um.edu.mo
+        website: "https://www.example.com"
+        github: "https://github.com/username"
+        google-scholar: "https://scholar.google.com/xxxxx"
 ```
 
 ### Add a new publication
