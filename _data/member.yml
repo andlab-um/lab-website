@@ -18,19 +18,27 @@
   members:
     - name: Haoming Zhang
       image: haoming.png
-      content: Haoming is a second-year PhD student in the lab. Before joining the A.N.D lab, Haoming received his bachelor’s degree at Southern University of Science and Technology. He is mainly interested in two specific topics. The first one is to investigate how the brain encoding the information about the direction of motion (forward & backward) by using intracranial electroencephalographic to recording and analyze the electrophysiological signal. The second is to investigate the neural machinery of the human brain for making safe, risky decisions. Haoming uses different kinds of methods in the research, which include EEG, sEEG, machine learning, and neural network.
-    - name: Kun Chen
+      content: Haoming is a third-year PhD student in the lab. Before joining the A.N.D lab, Haoming received his bachelor’s degree at Southern University of Science and Technology. He is mainly interested in two specific topics. The first one is to investigate how the brain encoding the information about the direction of motion (forward & backward) by using intracranial electroencephalographic to recording and analyze the electrophysiological signal. The second is to investigate the neural machinery of the human brain for making safe, risky decisions. Haoming uses different kinds of methods in the research, which include EEG, sEEG, machine learning, and neural network.
+      social:
+        email: yc17320@connect.edu.mo
+    - name: Kun CHEN
       image: kun.png
-      content: "Kun Chen is a second-year Ph.D. student in the lab. He graduated with a B.Eng. degree in Computer Science and Technology from Huazhong University of Science and Technology. He is particularly interested in 1) How different forms of knowledge are represented in the human brain and how these representations guide our behavior. 2) Exploring social value representation using computational models that combine behavioral and neuroimaging data. 3) Developing brain-inspired natural language processing (NLP) models instead of purely statistical models to make machines understand the language as humans."
+      content: "Kun CHEN is a third-year Ph.D. student in the lab. He graduated with a B.E. degree in Computer Science and Technology from Huazhong University of Science and Technology. Kun's research passions lie in two interconnected areas: 1) Investigating how different forms of knowledge are encoded and retrieved in the human brain, and understanding how these representations influence our behavior. 2) Building on this foundation, he extends his inquiry to the representation of emotions. Utilizing computational modeling and neural recording techniques, Kun explores how emotions are represented and processed in the brain, and how they shape social decisions."
+      social:
+        email: yc17307@connect.edu.mo
+        website: "https://chenkun.me"
+        github: "https://github.com/const7"
     - name: Siying Li
       image: siying.png
-      content: Siying Li is a second-year joint PhD student in the lab, jointly trained by Prof. Xiaoqun Wang from Institute of Biophysics, CAS and Prof. Haiyan Wu from the University of Macau. She graduated with a B.A. in English from Zhengzhou University, and a M.A. degree in Linguistics from Chinese University of Hong Kong. With the linguistics background, and RA work experience in a cognitive neuroscience lab, she aims to work on a joint field between linguistics and cognitive neuroscience, using methods including fMRI, MEG, natural language processing (NLP).
+      content: Siying Li is a third-year joint PhD student in the lab, jointly trained by Prof. Xiaoqun Wang from Institute of Biophysics, CAS and Prof. Haiyan Wu from the University of Macau. She graduated with a B.A. in English from Zhengzhou University, and a M.A. degree in Linguistics from Chinese University of Hong Kong. With the linguistics background, and RA work experience in a cognitive neuroscience lab, she aims to work on a joint field between linguistics and cognitive neuroscience, using methods including fMRI, MEG, natural language processing (NLP).
     - name: Xinyi Xu
       image: xinyi.png
-      content: Xinyi is a first-year Ph.D. student in the lab and she majors in EE. Her research interest lies in 1) integrator models of value-based decision making like DDM; 2) combining mouse tracking technique and computational modeling to better probe the dynamics during decision making. Currently she is using fMRI and computational modeling to investigate how people evaluate money, honesty and the consistency of lying and how information is encoded in brain.
+      content: Xinyi is a second-year Ph.D. student in the lab. Before joining the lab, she received her bachelor’s degree in EE at Wuhan University of Technology. Her research seeks to  investigate 1)  how moral decisions shape memory, 2) the role of cognitive control brain in regulating this interaction, 3) neurocompuational mechanism of metacognition. She uses diverse methods (fMRI, sEEG, mouse tracking, computational modeling and neural networks) with aims to reveal the cognitive and neural processes behind social cognition.
     - name: Keyu Hu
       image: keyuhu.png
-      content: Keyu is a first-year Ph.D. student who received B.Sc. (Psychology) degrees from both Southwest University in Chongqing, China, and the Australian National University in Canberra, Australia. Generally, she is interested in investigating the neural basis of social cognition and affection using muti-modality methods in topics including 1) the intrinsically biased or limited perception and representation of social information, together with 2) their impact on the adaptive learning and decision-making and 3) the role of individuals' affective experience during those processes.
+      content: Keyu is a second-year Ph.D. student who received B.Sc. (Psychology) degrees from both Southwest University in Chongqing, China, and the Australian National University in Canberra, Australia. Generally, she is interested in investigating the neural basis of social cognition and affection using muti-modality methods in topics including 1) the intrinsically biased or limited perception and representation of social information, together with 2) their impact on the adaptive learning and decision-making and 3) the role of individuals' affective experience during those processes.
+      social:
+        email: yc27383@connect.edu.mo
     - name: Jingmin Qin
       image: jingminqin.png
       content: I am a first-year PhD student in the lab. I received my B.E. degree in Economics from China University of Geosciences (Beijing) and my M.E. degree in Psychology from Southwest University. Recently, I have been exploring the secrets behind social cognition and interaction, especially focusing on mentalization. I am very interested in understanding the dynamic neural mechanisms of direct and indirect mentalization.
@@ -42,13 +50,17 @@
   members:
     - name: Junyuan Zheng
       image: junyuanzheng.png
-      content: Junyuan Zheng is a first-year Master student in the lab.He received his B.E. Software Engineering degree at Xiamen University. His research interests contain 1) Group Psychology, especially applying cognitive neuroscience to explore new group psychological field theory, including group bias, stereotypes combined with personality psychology. 2) Computational Neuroscience combined with machine learning and other technologies.  3) Social psychology and social neuroscience in the context of Virtual Reality(VR). 4) Cultural Neuroscience, Chinese specific psychological phenomena with neural mechanisms behind.
+      content: Junyuan Zheng is a second-year Master student in the lab.He received his B.E. Software Engineering degree at Xiamen University. His research interests contain 1) Group Psychology, especially applying cognitive neuroscience to explore new group psychological field theory, including group bias, stereotypes combined with personality psychology. 2) Computational Neuroscience combined with machine learning and other technologies.  3) Social psychology and social neuroscience in the context of Virtual Reality(VR). 4) Cultural Neuroscience, Chinese specific psychological phenomena with neural mechanisms behind.
     - name: Haofei Wu
       image: haofeiwu.png
       content: Haofei WU, is a graduate student majoring in Cognitive Neuroscience. She graduated with a B.S. in Applied Psychology from Zhengzhou University. Currently, she is interested in the neural basis of social cognition, especially the mechanisms of processing social decisions under the influence of others. She is trying to investigate it through a range of methods including fMRI and EEG.
+      social:
+        email: mc25799@connect.edu.mo
     - name: Shuhan Zhang
       image: shuhanzhang.png
-      content: Shuhan Zhang is a first-year graduate student in the lab, majoring in Cognitive Neuroscience. She graduated with a B.A. in psychology from Southwest University. Currently, she is interested in the neural mechanism of social cognition and human social interaction. She tries to investigate how people interact with each other in different situations by using neuroscience methods.
+      content: Shuhan Zhang is a second-year graduate student in the lab, majoring in Cognitive Neuroscience. She graduated with a B.A. in psychology from Southwest University. Currently, she is interested in the neural mechanism of social cognition and human social interaction. She tries to investigate how people interact with each other in different situations by using neuroscience methods.
+      social:
+        email: yc27383@connect.edu.mo
     - name: He Miao
       image: hemiao.png
       content: He Miao is a graduate student majoring in Cognitive Neuroscience. He got his bachelor degree from the Faculty of Business Admisitration in the University of Macau. He is interested in the neural mechanisms of risky decision making and social information seeking. He is now investigating the  utility function of social and non-social information in specific social conditions, and also focusing on the brain stimulation techniques to manipulate the reward-based decision making behaviour.
@@ -58,12 +70,20 @@
     - name: Xinze Wang
       image: xinzewang.png
       content: Xinze Wang is a first-year graduate student in the lab, majoring in Cognitive Neuroscience. He graduated with a B.S. degree in Applied Psychology from Chengdu University. Currently, he is interested in human behavior and decision-making in social interactions, and he is striving to learn a variety of behavioral and neuroimaging techniques in order to better understand the brain.
+    - name: Guoqiu Chen
+      image: guoqiuchen.png
+      content: Guoqiu is a second-year master's student in the lab. He graduated from Nanjing University with a B.S. in Applied Psychology. His research interests include (1) cyberpsychology, (2) measuring individual differences using behavioral tests, and (3) predicting individual cognitive performance through brain imaging data.
+      social:
+        email: mc25808@umac.mo
 
 - title: Undergraduate Students
   members:
     - name: Runquan Yu
-      image: yurunquan.png
-      content: Runquan is a second-year undergraduate student, and a freshman in the lab, majoring in Psychology at the University of Macau. He joined the lab in August 2021. He expects to focus on human behavioral and neural responses in social scenarios. In particular, he is interested in behavioral and neural mechanism of human social interaction especially in human with anxiety, depression, and loneliness. His goal is to being a researcher  so that he can help children and young adults struggling with mental health, especially those in vulnerable communities. Currently, (1) he is working on social navigation domains, and fMRI scanning, and (2) dealing with EEG data.
+      image: runquanyu.png
+      content: "Runquan (Michael, he/his/him) is a fourth-year undergraduate and Honor Thesis (research-oriented) student majoring in psychology at the University of Macau, anticipate to graduate in June 2024. His current academic pursuit revolves around human behavioral and neural responses within individual social perceptions. This encompasses two primary dimensions: (1) Elucidating behavioral responses and physiological variances during social interactions between individuals grappling with negative emotions and those considered psychologically normative (non-clinical); (2) Within the domains of cultural and social cognitive psychology, delving into the intricacies of variabilities across individuals and geographical regions within the face perception process data-driven model, multivariate analysis and eye-tracking."
+      social:
+        email: Michael.runquan.yu@connect.um.edu.mo
+        website: "https://yurunquan.github.io"
     - name: Yan Tian
       image: tianyan.png
       content: Yan is an undergraduate student in the lab and he majors in psychology at the University of Macau. He is interested in two specific topics. One is exploratory behavior based on curiosity, and the other is how does motivation affect people's decision-making. He tries to explore the human brain by using kinds of equipment such as EEG and fMRI. He aims to be a great researcher in cognitive neuroscience.
@@ -89,7 +109,7 @@
       #     website: "https://lizhaoning.academia.edu"
       #     github: "https://github.com/das-boot"
       #     google-scholar: "https://scholar.google.com/citations?user=Vr94lCUAAAAJ&hl=zh-CN"
-      
+
     - title: Master Students
       members:
         - name: Qingyuan Wu
@@ -119,6 +139,8 @@
         - name: Ruien Wang
           image: ruien.png
           content: Rain is a senior undergraduate student in the lab. He is mainly interested in three specific topics. The first one is the neural representation of different negative emotions, which utilizes multi-model physiological data. The second is how negative states (anxiety, fear) would influence exploratory behavior and spatial navigation, and how social factor modulate the negative state (physiological response & subjective rating). The third focuses on social space, which aims to study the neural representation of other people in cognitive map and its influence on behavior and decision making. He uses different kinds of tecniques in his research, which includes psychophysiological recording, EEG, fMRI, Virtual Reality technique, and computational modeling.
+          social:
+            website: "https://rainneuro.github.io"
         - name: Yuanchen Wang
           image: yuanchen.png
           content: Yuanchen graduated from the University of Rochester with a B.S. in Brain and Cognitive Science and B.A. in Psychology. Starting in 2021 fall, he would be pursuing a master's degree in Biomedical Informatics at Harvard Medical School. He is interested in the computational models of human cognition processes and substance's influence on cognition and behavior.
