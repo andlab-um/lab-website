@@ -13,7 +13,22 @@ permalink: /team
         {% for alumni_group in group.alumni_groups %}
             <h4>{{ alumni_group.title}}</h4>
             {% for member in alumni_group.members %}
-                <li style="margin-left: .5em;">{{member.name}}</li>
+                <!-- check links -->
+                {% if member.social.website %}
+                    {% assign alumni_link = member.social.website %}
+                {% elsif member.social.google-scholar %}
+                    {% assign alumni_link = member.social.google-scholar %}
+                {% elsif member.socia.github %}
+                    {% assign alumni_link = member.social.github %}
+                {% else %}
+                    {% assign alumni_link = false %}
+                {% endif %}
+                <!-- add text or link -->
+                {% if alumni_link %}
+                    <li style="margin-left: .5em;"><a href="{{ alumni_link }}">{{member.name}}</a></li>
+                {% else %}
+                    <li style="margin-left: .5em;">{{member.name}}</li>
+                {% endif %}
             {% endfor %}
         {% endfor %}
     
