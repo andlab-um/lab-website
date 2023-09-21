@@ -17,10 +17,11 @@ permalink: /publication
 
 ### Preprint
 
+Zhang. S., Wu, H., Hu, K., Liu.Q., & Wu, H. (2023). **Irrelevant social comparison affects exploration of uncertainty and its association with subjective expectations**. Psyarxiv. [[Preprint](https://psyarxiv.com/74qvb/){:target="_blank"}]
+
+Zhang. S., Tian, Y., Liu.Q., & Wu, H. (2023). **The Neural Correlates of Ambiguity and Risk in Human Decision-Making under an Active Inference Framework**. bioRxiv. [[Preprint](https://www.biorxiv.org/content/10.1101/2023.09.18.558250v1){:target="_blank"}]
+
 Xu, X. J., Yang, G., Huang, J., Wang, R., & Wu, H. (2023). **Unveiling consistency in flexibility: the role of reward and cognitive control in moral decisions**. bioRxiv. [[Preprint](https://doi.org/10.1101/2023.06.17.545416){:target="_blank"}]
-
-
-Zhang, H., Chen, K., Bao, J., & Wu, H. (2022). **Oxytocin enhances the triangular association among behavioral performance, resting state, and task-state functional connectivity**. bioRxiv. [[Preprint](https://doi.org/10.1101/2022.12.23.521846){:target="_blank"}]
 
 Wu, H., Cao, S., Bai, C., Chen, K., & Mobbs, D. (2021). **Moral by default? The dynamic tradeoffs between honesty and self-interest**. [[Preprint](https://doi.org/10.31234/osf.io/kr4pw){:target="_blank"}]
 
@@ -29,7 +30,7 @@ Cao, S., Fu, D., Yang, X., Wermter, S., Liu, X., & Wu, H. (2021). **Can AI detec
 Xu, X. J., Liu, X., Hu, X., & Wu, H. (2021). **MT-aIAT: Integrating mouse tracking into memory-detection aIAT**. [[Preprint](https://doi.org/10.31234/osf.io/ny9xq){:target="_blank"}]
 
 ### 2023
-
+Zhang, H., Chen, K., Bao, J., & Wu, H. (2022). **Oxytocin enhances the triangular association among behavioral performance, resting state, and task-state functional connectivity**. *Human Brain Mapping*. [[in press](https://doi.org/10.1101/2022.12.23.521846){:target="_blank"}]
 
 Yang, G., Wu, H., Li, Q., Liu, X., Fu, Z., & Jiang, J. (2023). **Conflicts are represented in a cognitive space to reconcile domain-general and domain-specific cognitive control**. *eLife*, 12. [[DOI](https://doi.org/10.7554/eLife.87126.1){:target="      _blank"}]
 
