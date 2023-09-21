@@ -30,7 +30,7 @@ Cao, S., Fu, D., Yang, X., Wermter, S., Liu, X., & Wu, H. (2021). **Can AI detec
 Xu, X. J., Liu, X., Hu, X., & Wu, H. (2021). **MT-aIAT: Integrating mouse tracking into memory-detection aIAT**. [[Preprint](https://doi.org/10.31234/osf.io/ny9xq){:target="_blank"}]
 
 ### 2023
-Zhang, H., Chen, K., Bao, J., & Wu, H. (2022). **Oxytocin enhances the triangular association among behavioral performance, resting state, and task-state functional connectivity**. *Human Brain Mapping*. [[in press](https://doi.org/10.1101/2022.12.23.521846){:target="_blank"}]
+Zhang, H., Chen, K., Bao, J., & Wu, H. (2023). **Oxytocin enhances the triangular association among behavioral performance, resting state, and task-state functional connectivity**. *Human Brain Mapping*. [[in press](https://doi.org/10.1101/2022.12.23.521846){:target="_blank"}]
 
 Yang, G., Wu, H., Li, Q., Liu, X., Fu, Z., & Jiang, J. (2023). **Conflicts are represented in a cognitive space to reconcile domain-general and domain-specific cognitive control**. *eLife*, 12. [[DOI](https://doi.org/10.7554/eLife.87126.1){:target="      _blank"}]
 
