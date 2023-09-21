@@ -88,11 +88,7 @@
       image: tianyan.png
       content: Yan is an undergraduate student in the lab and he majors in psychology at the University of Macau. He is interested in two specific topics. One is exploratory behavior based on curiosity, and the other is how does motivation affect people's decision-making. He tries to explore the human brain by using kinds of equipment such as EEG and fMRI. He aims to be a great researcher in cognitive neuroscience.
 
-- title: Lab Security
-  members:
-    - name: NONAME (unfortunately dead)
-      image: plant_dead.png
-      content: NONAME is the only plant in the lab, but it survived supertyphoon last year. There is no doubt that it spents the longest time in the lab.
+
 
 - title: Alumni
   alumni_groups:
