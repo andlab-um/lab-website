@@ -52,6 +52,16 @@ strong {
         display: block;
         margin: auto;
     }
+
+    em, strong {
+        color: $homepage-highlight;
+    }
+
+    h2 {
+        font-size: 1.5em;
+        font-weight: 400;
+        color: $homepage-highlight;
+    }
 }
 
 // hide scrollbar
