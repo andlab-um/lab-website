@@ -26,4 +26,4 @@ The Affective, Neuroscience, and Decision-making lab is located at the [Centre f
 
 ## News
 
-*2023.10.14* Prof. Wu Haiyan delivered a presentation on the neurolaw research led by Jiamin at the 25th Psychological Academic Conference.
+*2023.10.14* Prof. Wu Haiyan delivered a presentation on the neurolaw research led by Jiamin at the 25th Psychological Academic Conference. @Chengdu
