@@ -14,6 +14,12 @@
         email: haiyanwu@um.edu.mo
         website: "https://haiyanwu.wixsite.com/haiyanwu"
 
+- title: Postdoctoral Fellows
+  members:
+    - name: Honghui Xu
+      image: honghuixu.png
+      content: I am a Post-doctoral Fellow in the lab. I got my Ph.D. degree in Cognitive Neuroscience from Institute of Psychology, Chinese Academy of Sciences. I mainly using EEG to investigate the mechanisms of cross-modal conflict processing, selective attention, and cognitive flexibility.
+
 - title: PhD Students
   members:
     - name: Haoming Zhang
@@ -76,6 +82,14 @@
       social:
         email: mc25808@umac.mo
 
+- title: Research Assistants
+  members:
+    - name: Jiayu Cheng
+      image: jiayucheng.png
+      content: Jiayu is a research assistant in the lab. She has got a master's degree in clinical cognitive neuroscience from Hangzhou Normal University. Her research focuses on (1) human decision-making, particularly in dishonest/immoral decision-making. (2) lie detection, particularly in the ERP-based lie detection and the areas related to countermeasures. (3) emotion, especially the emotional control, the neural mechanism of masked emotion and the relationship between emotion and expression.
+      social:
+        email: jiayucheng@um.edu.mo
+
 - title: Undergraduate Students
   members:
     - name: Runquan Yu
@@ -87,8 +101,6 @@
     - name: Yan Tian
       image: tianyan.png
       content: Yan is an undergraduate student in the lab and he majors in psychology at the University of Macau. He is interested in two specific topics. One is exploratory behavior based on curiosity, and the other is how does motivation affect people's decision-making. He tries to explore the human brain by using kinds of equipment such as EEG and fMRI. He aims to be a great researcher in cognitive neuroscience.
-
-
 
 - title: Alumni
   alumni_groups:
