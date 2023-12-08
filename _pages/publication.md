@@ -31,7 +31,7 @@ Xu, X. J., Liu, X., Hu, X., & Wu, H. (2021). **MT-aIAT: Integrating mouse tracki
 
 ### 2023
 
-Youzhi Qu, Penghui Du, Wenxin Che, Chen Wei, Chi Zhang, Wanli Ouyang, Yatao Bian, Feiyang Xu, Bin Hu, Kai Du, **Haiyan Wu**, Jia Liu, Quanying Liu. (in press) Promoting interactions between cognitive science and large language models. *The Innovation*
+Youzhi Qu, Penghui Du, Wenxin Che, Chen Wei, Chi Zhang, Wanli Ouyang, Yatao Bian, Feiyang Xu, Bin Hu, Kai Du, **Haiyan Wu**, Jia Liu, Quanying Liu. (in press) Promoting interactions between cognitive science and large language models. *The Innovation*.
 
 Zhang, H., Chen, K., Bao, J., & Wu, H. (2023). **Oxytocin enhances the triangular association among behavioral performance, resting state, and task-state functional connectivity**. *Human Brain Mapping*. [[DOI](https://doi.org/10.1002/hbm.26498){:target="_blank"}] [[Data & Code](https://github.com/andlab-um/OT-cpm){:target="_blank"}]
 
