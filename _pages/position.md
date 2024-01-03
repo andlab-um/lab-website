@@ -10,11 +10,11 @@ permalink: /position
 
 ### Postdoc Position
 
-Postdoc position is available for ANDlab, details can be found [here](https://rskto.um.edu.mo/umtp/#02), or contact <haiyanwu@um.edu.mo>.
+The Postdoc position is available for ANDlab, details can be found [here](https://rskto.um.edu.mo/umtp/#02), or contact <haiyanwu@um.edu.mo>.
 
 ### Graduate Student
 
-We are not planning to recruit new PhD students in fall 2024.
+We are recruiting 2nd batch PhD students in fall 2024.
 
 ### Research Assistant
 
