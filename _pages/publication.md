@@ -9,7 +9,7 @@ permalink: /publication
 ## Publication
 *We are committed to open science and to sharing  data and code from our publications.*
 
-**Categories:** [Preprint](#preprint)&ensp; [2023](#2023)&ensp; [2022](#2022)&ensp; [2021](#2021)&ensp; [2020](#2020)&ensp; [Earlier](#earlier)
+**Categories:** [Preprint](#preprint)&ensp; [2024](#2024)&ensp;[2023](#2023)&ensp; [2022](#2022)&ensp; [2021](#2021)&ensp; [2020](#2020)&ensp; [Earlier](#earlier)
 
 [Download bibtex citations](/assets/files/ANDlab-publications-Bibtex.bib)
 
@@ -19,7 +19,6 @@ permalink: /publication
 
 Zhang. S., Wu, H., Hu, K., Liu.Q., & Wu, H. (2023). **Irrelevant social comparison affects exploration of uncertainty and its association with subjective expectations**. Psyarxiv. [[Preprint](https://psyarxiv.com/74qvb/){:target="_blank"}]
 
-Zhang. S., Tian, Y., Liu.Q., & Wu, H. (2023). **The Neural Correlates of Ambiguity and Risk in Human Decision-Making under an Active Inference Framework**. bioRxiv. [[Preprint](https://www.biorxiv.org/content/10.1101/2023.09.18.558250v1){:target="_blank"}]
 
 Xu, X. J., Yang, G., Huang, J., Wang, R., & Wu, H. (2023). **Unveiling consistency in flexibility: the role of reward and cognitive control in moral decisions**. bioRxiv. [[Preprint](https://doi.org/10.1101/2023.06.17.545416){:target="_blank"}]
 
@@ -28,6 +27,9 @@ Wu, H., Cao, S., Bai, C., Chen, K., & Mobbs, D. (2021). **Moral by default? The 
 Cao, S., Fu, D., Yang, X., Wermter, S., Liu, X., & Wu, H. (2021). **Can AI detect pain and express pain empathy? A review from emotion recognition and a human-centered AI perspective**. arXiv. [[Preprint](https://doi.org/10.48550/ARXIV.2110.04249){:target="_blank"}]
 
 Xu, X. J., Liu, X., Hu, X., & Wu, H. (2021). **MT-aIAT: Integrating mouse tracking into memory-detection aIAT**. [[Preprint](https://doi.org/10.31234/osf.io/ny9xq){:target="_blank"}]
+
+### 2024
+Zhang. S., Tian, Y., Liu.Q., & Wu, H. (2023). **The Neural Correlates of Ambiguity and Risk in Human Decision-Making under an Active Inference Framework**. eLife(under review) bioRxiv. [[Preprint](https://www.biorxiv.org/content/10.1101/2023.09.18.558250v1){:target="_blank"}]
 
 ### 2023
 
