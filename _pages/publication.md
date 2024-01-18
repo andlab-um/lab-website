@@ -16,9 +16,10 @@ permalink: /publication
 ---
 
 ### Preprint
+Haoming Zhang, Jiayu Cheng, Keyu Hu, Fengpeng Wang, Song Qi, Quanying Liu, Yi Yao, Dean Mobbs, Haiyan Wu
+Zhang. H., Cheng, J., Hu, K., Wang, F., Qi, S., Liu, Q., Tao, Y., Mobbs, D., & Wu, H. (2023). **An intracranial dissection of human escape circuits**. Biorxiv. [[Preprint](https://doi.org/10.1101/2024.01.16.575785){:target="_blank"}]
 
 Zhang. S., Wu, H., Hu, K., Liu.Q., & Wu, H. (2023). **Irrelevant social comparison affects exploration of uncertainty and its association with subjective expectations**. Psyarxiv. [[Preprint](https://psyarxiv.com/74qvb/){:target="_blank"}]
-
 
 Xu, X. J., Yang, G., Huang, J., Wang, R., & Wu, H. (2023). **Unveiling consistency in flexibility: the role of reward and cognitive control in moral decisions**. bioRxiv. [[Preprint](https://doi.org/10.1101/2023.06.17.545416){:target="_blank"}]
 
