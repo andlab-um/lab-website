@@ -57,11 +57,6 @@
     - name: Junyuan Zheng
       image: junyuanzheng.png
       content: Junyuan Zheng is a second-year Master student in the lab.He received his B.E. Software Engineering degree at Xiamen University. His research interests contain 1) Group Psychology, especially applying cognitive neuroscience to explore new group psychological field theory, including group bias, stereotypes combined with personality psychology. 2) Computational Neuroscience combined with machine learning and other technologies.  3) Social psychology and social neuroscience in the context of Virtual Reality(VR). 4) Cultural Neuroscience, Chinese specific psychological phenomena with neural mechanisms behind.
-    - name: Haofei Wu
-      image: haofeiwu.png
-      content: Haofei WU, is a graduate student majoring in Cognitive Neuroscience. She graduated with a B.S. in Applied Psychology from Zhengzhou University. Currently, she is interested in the neural basis of social cognition, especially the mechanisms of processing social decisions under the influence of others. She is trying to investigate it through a range of methods including fMRI and EEG.
-      social:
-        email: mc25799@connect.um.edu.mo
     - name: Shuhan Zhang
       image: shuhanzhang.png
       content: Shuhan Zhang is a second-year graduate student in the lab, majoring in Cognitive Neuroscience. She graduated with a B.A. in psychology from Southwest University. Currently, she is interested in the neural mechanism of social cognition and human social interaction. She tries to investigate how people interact with each other in different situations by using neuroscience methods.
