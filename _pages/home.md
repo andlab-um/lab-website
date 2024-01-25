@@ -27,3 +27,6 @@ The Affective, Neuroscience, and Decision-making lab is located at the [Centre f
 ## News
 
 *2023.10.14* Prof. Wu Haiyan delivered a presentation on the neurolaw research led by Jiamin at the 25th Psychological Academic Conference. @Chengdu
+
+*2024.1.16* ANDLab preprinted an article titled "An intracranial dissection of human escape circuits". @Macau
+![figure3](./../assets/images/homepage/escape_summary_figure.jpg)
