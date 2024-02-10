@@ -16,6 +16,9 @@ permalink: /publication
 ---
 
 ### Preprint
+
+Mou. X, He. C, Tan. L, Yu. J, Liang. H., Zhang. J., Tian. Y., Yang. Y., Xu. T., Wang. Q., Cao. M., Chen Z., Hu C., Wang. X., Liu. Q., Wu. H. (2024). **ChineseEEG: A Chinese Linguistic Corpora EEG Dataset for Semantic Alignment and Neural Decoding**. Biorxiv. [[Preprint](https://doi.org/10.1101/2024.02.08.579481){:target="_blank"}]
+
 Zhang. H., Cheng, J., Hu, K., Wang, F., Qi, S., Liu, Q., Yao, Y., Mobbs, D., & Wu, H. (2024). **An intracranial dissection of human escape circuits**. Biorxiv. [[Preprint](https://doi.org/10.1101/2024.01.16.575785){:target="_blank"}]
 
 Zhang. S., Wu, H., Hu, K., Liu.Q., & Wu, H. (2023). **Irrelevant social comparison affects exploration of uncertainty and its association with subjective expectations**. Psyarxiv. [[Preprint](https://psyarxiv.com/74qvb/){:target="_blank"}]
