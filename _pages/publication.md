@@ -35,7 +35,8 @@ Zhang. S., Tian, Y., Liu.Q., & Wu, H. (2024). **The Neural Correlates of Ambigui
 
 ### 2023
 
-Youzhi Qu, Penghui Du, Wenxin Che, Chen Wei, Chi Zhang, Wanli Ouyang, Yatao Bian, Feiyang Xu, Bin Hu, Kai Du, **Haiyan Wu**, Jia Liu, Quanying Liu. (in press) Promoting interactions between cognitive science and large language models. *The Innovation*.
+Youzhi Qu, Penghui Du, Wenxin Che, Chen Wei, Chi Zhang, Wanli Ouyang, Yatao Bian, Feiyang Xu, Bin Hu, Kai Du, **Haiyan Wu**, Jia Liu, Quanying Liu. (in press) Promoting interactions between cognitive science and large language models. *The Innovation*. [[DOI](https://doi.org/10.1016/j.xinn.2024.100579){:target="_blank"}]
+
 
 Zhang, H., Chen, K., Bao, J., & Wu, H. (2023). **Oxytocin enhances the triangular association among behavioral performance, resting state, and task-state functional connectivity**. *Human Brain Mapping*. [[DOI](https://doi.org/10.1002/hbm.26498){:target="_blank"}] [[Data & Code](https://github.com/andlab-um/OT-cpm){:target="_blank"}]
 
