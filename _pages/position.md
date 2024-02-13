@@ -1,7 +1,6 @@
 ---
 title: Position
 layout: default
-excerpt: "A.N.D Lab -- Position"
 sitemap: false
 permalink: /position
 ---

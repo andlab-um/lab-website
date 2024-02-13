@@ -1,7 +1,6 @@
 ---
 title: OpenProject
 layout: default
-excerpt: "A.N.D Lab - OpenProject"
 sitemap: false
 permalink: /openproject
 ---

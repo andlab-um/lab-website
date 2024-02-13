@@ -1,7 +1,6 @@
 ---
 title: Home
 layout: homelay
-excerpt: "AND Lab"
 sitemap: false
 permalink: /
 ---

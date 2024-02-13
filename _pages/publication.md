@@ -1,7 +1,6 @@
 ---
 title: Publication
 layout: default
-excerpt: "A.N.D Lab -- Publication"
 sitemap: false
 permalink: /publication
 ---
