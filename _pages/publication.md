@@ -33,10 +33,9 @@ Xu, X. J., Liu, X., Hu, X., & Wu, H. (2021). **MT-aIAT: Integrating mouse tracki
 ### 2024
 Zhang. S., Tian, Y., Liu.Q., & Wu, H. (2024). **The Neural Correlates of Ambiguity and Risk in Human Decision-Making under an Active Inference Framework**. eLife(under review) bioRxiv. [[Preprint](https://www.biorxiv.org/content/10.1101/2023.09.18.558250v1){:target="_blank"}]
 
+Qu Y., Du P., Che W., Wei C, Zhang C., Ouyang W, Bian Y, Xu F, Hu B, Du K, **Wu H**, Liu J, & Liu Q. (2024) Promoting interactions between cognitive science and large language models. *The Innovation*. [[DOI](https://doi.org/10.1016/j.xinn.2024.100579){:target="_blank"}]
+
 ### 2023
-
-Youzhi Qu, Penghui Du, Wenxin Che, Chen Wei, Chi Zhang, Wanli Ouyang, Yatao Bian, Feiyang Xu, Bin Hu, Kai Du, **Haiyan Wu**, Jia Liu, Quanying Liu. (in press) Promoting interactions between cognitive science and large language models. *The Innovation*. [[DOI](https://doi.org/10.1016/j.xinn.2024.100579){:target="_blank"}]
-
 
 Zhang, H., Chen, K., Bao, J., & Wu, H. (2023). **Oxytocin enhances the triangular association among behavioral performance, resting state, and task-state functional connectivity**. *Human Brain Mapping*. [[DOI](https://doi.org/10.1002/hbm.26498){:target="_blank"}] [[Data & Code](https://github.com/andlab-um/OT-cpm){:target="_blank"}]
 
