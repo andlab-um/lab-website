@@ -16,6 +16,8 @@ permalink: /publication
 
 ### Preprint
 
+Tian, Y., Huang, Q., Liu, X., Zhang, J., Ye, Y., & Wu, H. (2024). **Unraveling the Intricacies of Curiosity: A Comprehensive Study of Its Measures in the Chinese Context**.  Psyarxiv. [[Preprint](https://doi.org/10.31234/osf.io/5h6j8){:target="_blank"}]
+
 Mou. X., He. C., Tan. L., Yu. J., Liang. H., Zhang. J., Tian. Y., Yang. Y., Xu. T., Wang. Q., Cao. M., Chen Z., Hu C., Wang. X., Liu. Q., & Wu. H. (2024). **ChineseEEG: A Chinese Linguistic Corpora EEG Dataset for Semantic Alignment and Neural Decoding**. Biorxiv. [[Preprint](https://doi.org/10.1101/2024.02.08.579481){:target="_blank"}]
 
 Zhang. H., Cheng, J., Hu, K., Wang, F., Qi, S., Liu, Q., Yao, Y., Mobbs, D., & Wu, H. (2024). **An intracranial dissection of human escape circuits**. Biorxiv. [[Preprint](https://doi.org/10.1101/2024.01.16.575785){:target="_blank"}]
