@@ -25,6 +25,16 @@ The Affective, Neuroscience, and Decision-making lab is located at the [Centre f
 
 ## News
 
+*2024.3.13* ANDLab preprinted an article titled ‘Unethical amnesia brain: Memory and metacognitive distortion induced by dishonesty’. In this article, we investigate the neural and computational mechanisms underlying the metacognition distortion caused by repeated dishonesty.
+We find that: 
+1) Immediate and delayed metacognition changes manifest on multiple dimensions of response in the pre-and post-scan memory tasks;
+2) The compression of representational geometry of reward in OFC was correlated with both immediate and delayed metacognition changes;
+3) Functional connectivity (FC) between DLPFC and lTPJ under dishonest responses predicts both immediate and delayed metacognition changes.
+
+These results suggest that decision-making, emotion, and memory-related brain regions together play a key role in metacognition change after immoral action, shedding light on the neural mechanism of the complex interplay between moral decisions, cognitive processes, and memory distortion.
+<img src="./../assets/images/news/xinyi_2024.jpg" align="center" width="500">
+
+
 *2024.2.10* ANDLab preprinted a high-density EEG dataset (https://www.biorxiv.org/content/10.1101/2024.02.08.579481v1)
  stimulated by Chinese, 12 hours of reading Chinese, providing 128-channel EEG, preprocessing, source localization, and text embedding of the pre-trained model. Many thanks to our collaborators!!
 <img src="./../assets/images/news/cuilin_eeg_pipeline.jpg" align="center" width="500">
