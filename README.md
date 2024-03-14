@@ -25,8 +25,8 @@ bundle exec jekyll serve
 
 > !!! If you don't have permission to directly edit this repository, please consider one of the following:
 > 1. Fork this repository and submit a pull request (highly recommended).
->    1. Fork this repository to your account (just click the "Fork" button).
->    2. Go back to this repository and edit the files.
+>    1. Fork this repository to your account (just click the "fork" button).
+>    2. Go back to this repository and add/edit the files you want to change.
 >    3. Follow the instructions to submit a pull request.
 > 2. Open an issue and describe your request.
 
