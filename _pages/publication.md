@@ -33,7 +33,8 @@ Cao, S., Fu, D., Yang, X., Wermter, S., Liu, X., & Wu, H. (2021). **Can AI detec
 Xu, X. J., Liu, X., Hu, X., & Wu, H. (2021). **MT-aIAT: Integrating mouse tracking into memory-detection aIAT**. [[Preprint](https://doi.org/10.31234/osf.io/ny9xq){:target="_blank"}]
 
 ### 2024
-Zhang. S., Tian, Y., Liu.Q., & Wu, H. (2024). **The Neural Correlates of Ambiguity and Risk in Human Decision-Making under an Active Inference Framework**. eLife(under review) bioRxiv. [[Preprint](https://www.biorxiv.org/content/10.1101/2023.09.18.558250v1){:target="_blank"}]
+
+Zhang. S., Tian, Y., Liu.Q., & Wu, H. (2024). **The Neural Correlates of Ambiguity and Risk in Human Decision-Making under an Active Inference Framework**. eLife. [[DOI](https://doi.org/10.7554/eLife.92892.1){:target="_blank"}]
 
 Qu Y., Du P., Che W., Wei C, Zhang C., Ouyang W, Bian Y, Xu F, Hu B, Du K, **Wu H**, Liu J, & Liu Q. (2024) Promoting interactions between cognitive science and large language models. *The Innovation*. [[DOI](https://doi.org/10.1016/j.xinn.2024.100579){:target="_blank"}]
 
