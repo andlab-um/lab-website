@@ -5,33 +5,34 @@
 **[Affective, Neuroscience and Decision-making Lab](https://www.andlab-um.com)** is part of [CCBS](https://ccbs.ici.um.edu.mo) at [University of Macau](https://um.edu.mo).
 
 This website is built with [Jekyll](https://jekyllrb.com/). It is derived from the great template provided by [research-lab-website](https://github.com/ericdaat/research-lab-website) and [Allan Lab](https://www.allanlab.org/aboutwebsite.html), at Leiden University.
+
 ## Local Setup & Run
 
-Install Ruby firstly, then install Jekyll.
-
 ``` bash
+# 1. install Ruby (https://www.ruby-lang.org/en/documentation/installation)
+# 2. install Jekyll
 gem install bundler jekyll
-```
-
-Clone this repository, then install the dependencies:
-
-``` bash
+# 3. clone this repository and go to the folder
 git clone https://github.com/andlab-um/lab-website.git
 cd lab-website
+# 4. install the dependencies
 bundle install
-```
-
-Deploy the website locally with:
-
-``` bash
+# 5. deploy the website locally (default: http://localhost:4000)
 bundle exec jekyll serve
 ```
 
 ## Contribute
 
+> !!! If you don't have permission to directly edit this repository, please consider one of the following:
+> 1. Fork this repository and submit a pull request (highly recommended).
+>    1. Fork this repository to your account (just click the "Fork" button).
+>    2. Go back to this repository and edit the files.
+>    3. Follow the instructions to submit a pull request.
+> 2. Open an issue and describe your request.
+
 ### Add a new member
 
-Adding new member photos under [assets/images/team](assets/images/team/) folder. Member information are stored as yaml file under [_data/member.yml](_data/member.yml). Each entry must look like this (**be careful with spaces**):
+Adding new member photos under [assets/images/team](assets/images/team/) folder. Member information is stored as yaml file under [_data/member.yml](_data/member.yml). Each entry must look like this (**be careful with spaces**):
 
 > It's better to learn some basic rules of yaml, like [YAML tutorial in the context of Jekyll](https://idratherbewriting.com/documentation-theme-jekyll/mydoc_yaml_tutorial). Some items are not necessary. The optimal personal photo width-height ratio is 3:4.
 
@@ -62,6 +63,8 @@ Wu, H., Fung, B. J., & Mobbs, D. (2022). **Mentalizing during social interaction
 ### Add news
 
 Just post it on our lab Twitter account and it will automatically show up.
+
+> Update (2024-03-14): Twitter news is currently disabled due to the Twitter API bug. Please add news in the [_pages/home.md](_pages/home.md) file in a markdown format.
 
 ### Edit template
 
