@@ -15,6 +15,8 @@ permalink: /publication
 ---
 
 ### Preprint
+Xu, X. J., Mobbs, D., & Wu, H. (2024). **Unethical amnesia brain: Memory and metacognitive distortion induced by dishonesty**. bioRxiv.
+    [[Preprint](https://www.biorxiv.org/content/10.1101/2024.03.03.583239v1){:target="_blank"}]
 
 Tian, Y., Huang, Q., Liu, X., Zhang, J., Ye, Y., & Wu, H. (2024). **Unraveling the Intricacies of Curiosity: A Comprehensive Study of Its Measures in the Chinese Context**.  Psyarxiv. [[Preprint](https://doi.org/10.31234/osf.io/5h6j8){:target="_blank"}]
 
