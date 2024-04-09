@@ -30,3 +30,13 @@ The Mouse-Tracking EEG Dataset project provides a dataset combining high-density
 The project includes scripts for data preprocessing, preliminary analysis, and visualization. We encourage researchers interested in EEG data and decision-making processes to use this dataset in their studies. More details about the project can be found on the [MT-EEG-dataset GitHub repository](https://github.com/andlab-um/MT-EEG-dataset){:target="_blank"} and the corresponding paper [A resource for assessing dynamic binary choices in the adult brain using EEG and mouse-tracking](https://doi.org/10.1038/s41597-022-01538-5){:target="_blank"}.
 
 We believe that these projects offer exciting opportunities for collaboration and advancement in the field of cognitive neuroscience. We look forward to working with interested researchers and contributing to the open science movement.
+
+---
+
+### Neurolaw (fMRI) Dataset
+
+The Neurolaw (fMRI) Dataset is a comprehensive collection that integrates fMRI data with various stages and emotion evaluations to different criminal senarios. It serves as an essential resource for exploring the relationship between negative emotions and decision-making regarding immediate and delayed punishment in the human brain.
+
+The initiative encompasses scripts designed for data preprocessing, preliminary analysis, and visualization tools. Researchers focusing on fMRI data and the processes of decision-making are encouraged to incorporate this dataset into their investigations. Detailed information about the project can be accessed on the GitHub repository [https://github.com/andlab-um/neuroLaw](https://github.com/andlab-um/neuroLaw) (to be public soon) and the associated preprint paper (to be released shortly).
+
+We are confident that these projects will present thrilling prospects for collaboration and progress within the realm of interdisciplinary partnerships. We eagerly anticipate collaborating with interested researchers and contributing to the open science initiative.
