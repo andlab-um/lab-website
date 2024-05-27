@@ -57,11 +57,6 @@
     - name: Junyuan Zheng
       image: junyuanzheng.png
       content: Junyuan Zheng is a second-year Master student in the lab.He received his B.E. Software Engineering degree at Xiamen University. His research interests contain 1) Group Psychology, especially applying cognitive neuroscience to explore new group psychological field theory, including group bias, stereotypes combined with personality psychology. 2) Computational Neuroscience combined with machine learning and other technologies.  3) Social psychology and social neuroscience in the context of Virtual Reality(VR). 4) Cultural Neuroscience, Chinese specific psychological phenomena with neural mechanisms behind.
-  #  - name: Shuhan Zhang
-   #   image: shuhanzhang.png
-    #  content: Shuhan Zhang is a second-year graduate student in the lab, majoring in Cognitive Neuroscience. She graduated with a B.A. in psychology from Southwest University. Currently, she is interested in the neural mechanism of social cognition and human social interaction. She tries to investigate how people interact with each other in different situations by using neuroscience methods.
-     # social:
-      #  email: yc27383@connect.um.edu.mo
     - name: He Miao
       image: hemiao.png
       content: He Miao is a graduate student majoring in Cognitive Neuroscience. He got his bachelor degree from the Faculty of Business Admisitration in the University of Macau. He is interested in the neural mechanisms of risky decision making and social information seeking. He is now investigating the  utility function of social and non-social information in specific social conditions, and also focusing on the brain stimulation techniques to manipulate the reward-based decision making behaviour.
@@ -87,12 +82,6 @@
 
 - title: Undergraduate Students
   members:
-    #- name: Runquan Yu
-    #  image: runquanyu.png
-    #  content: "Runquan (Michael, he/his/him) is a fourth-year undergraduate and Honor Thesis (research-oriented) student majoring in psychology at the University of Macau, anticipate to graduate in June 2024. His current academic pursuit revolves around human behavioral and neural responses within individual social perceptions. This encompasses two primary dimensions: (1) Elucidating behavioral responses and physiological variances during social interactions between individuals grappling with negative emotions and those considered psychologically normative (non-clinical); (2) Within the domains of cultural and social cognitive psychology, delving into the intricacies of variabilities across individuals and geographical regions within the face perception process data-driven model, multivariate analysis and eye-tracking."
-    #  social:
-     #   email: Michael.runquan.yu@connect.um.edu.mo
-      #  website: "https://yurunquan.github.io"
     - name: Yan Tian
       image: tianyan.png
       content: Yan is an undergraduate student in the lab and he majors in psychology at the University of Macau. He is interested in two specific topics. One is exploratory behavior based on curiosity, and the other is how does motivation affect people's decision-making. He tries to explore the human brain by using kinds of equipment such as EEG and fMRI. He aims to be a great researcher in cognitive neuroscience.
@@ -104,7 +93,7 @@
       - name: Yanyan Qi
         image: yanyan.png
         content: Yanyan Qi is an assistant professor in Department of Psychology, Zhengzhou University. Before that, she was a post-doctoral researcher of Translational Social Neuroscience at the University of Würzburg, Germany. She got her PhD degree at Institute of Psychology, Chinese Academy of Sciences, majoring in Cognitive Neuroscience. Her research focuses on using modeling and neuroimaging methods to investigate the effect of social interactions on fear processing, also considering the modulation effect of individual characteristics.
-      - name: Zhaoning Li
+      # - name: Zhaoning Li
       #   image: zhaoning.png
       #   content: I am a second-year PhD student in the lab. I received a B.E. degree in Information Security and an M.E. degree in Software Engineering, both from Sun Yat-Sen University. Enlightened by Heinrich Heine’s famous quote, ‘Thought precedes action, as lighting does thunder’, I devoted myself to theoretical research after familiarising myself with empirical research and application. I aspire to contribute to a ‘virtuous circle’ in which shared insights into artificial intelligence and social psychology will advance the development of both fields. My research interests focus on social cognition, social neuroscience, mentalising and artificial social intelligence.
       #   social:
@@ -115,8 +104,16 @@
 
     - title: Master Students
       members:
+        - name: Haofei Wu
+          image: haofeiwu.png
+          content: Haofei WU, is a graduate student majoring in Cognitive Neuroscience. She graduated with a B.S. in Applied Psychology from Zhengzhou University. Currently, she is interested in the neural basis of social cognition, especially the mechanisms of processing social decisions under the influence of others. She is trying to investigate it through a range of methods including fMRI and EEG.
+          social:
+            email: mc25799@connect.um.edu.mo
         - name: Shuhan Zhang
-        - name:  Haofei WU
+          image: shuhanzhang.png
+          content: Shuhan Zhang is a second-year graduate student in the lab, majoring in Cognitive Neuroscience. She graduated with a B.A. in psychology from Southwest University. Currently, she is interested in the neural mechanism of social cognition and human social interaction. She tries to investigate how people interact with each other in different situations by using neuroscience methods.
+          social:
+            email: yc27383@connect.um.edu.mo
         - name: Qingyuan Wu
           image: qingyuan.png
           content: Qingyuan is a graduate student majors in cognitive neuroscience. She graduated with a B.S. in Physics from Lanzhou University and is currently a joint master student trained by Prof. Chao Liu from Beijing Normal University and Prof. Haiyan Wu from the University of Macau. She is interested in how people's perceptions of their partners' moral behavior might affect their cooperative behavior, as well as how the calculation of benefits and attitudes toward fairness influence cooperative behavior. She is now studying how oxytocin affects human's brain activity during face-perception tasks.
@@ -141,8 +138,12 @@
 
     - title: Undergraduate Students
       members:
-        -  name: Runquan Yu
-        image: runquanyu.png
+        - name: Runquan Yu
+          image: runquanyu.png
+          content: "Runquan (Michael, he/his/him) is a fourth-year undergraduate and Honor Thesis (research-oriented) student majoring in psychology at the University of Macau, anticipate to graduate in June 2024. His current academic pursuit revolves around human behavioral and neural responses within individual social perceptions. This encompasses two primary dimensions: (1) Elucidating behavioral responses and physiological variances during social interactions between individuals grappling with negative emotions and those considered psychologically normative (non-clinical); (2) Within the domains of cultural and social cognitive psychology, delving into the intricacies of variabilities across individuals and geographical regions within the face perception process data-driven model, multivariate analysis and eye-tracking."
+          social:
+            email: Michael.runquan.yu@connect.um.edu.mo
+            website: "https://yurunquan.github.io"
         - name: Ruien Wang
           image: ruien.png
           content: Rain is a senior undergraduate student in the lab. He is mainly interested in three specific topics. The first one is the neural representation of different negative emotions, which utilizes multi-model physiological data. The second is how negative states (anxiety, fear) would influence exploratory behavior and spatial navigation, and how social factor modulate the negative state (physiological response & subjective rating). The third focuses on social space, which aims to study the neural representation of other people in cognitive map and its influence on behavior and decision making. He uses different kinds of tecniques in his research, which includes psychophysiological recording, EEG, fMRI, Virtual Reality technique, and computational modeling.
