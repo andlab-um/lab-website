@@ -33,7 +33,7 @@ Cao, S., Fu, D., Yang, X., Wermter, S., Liu, X., & Wu, H. (2021). **Can AI detec
 Xu, X. J., Liu, X., Hu, X., & Wu, H. (2021). **MT-aIAT: Integrating mouse tracking into memory-detection aIAT**. [[Preprint](https://doi.org/10.31234/osf.io/ny9xq){:target="_blank"}]
 
 ### 2024
-Mou. X., He. C., Tan. L., Yu. J., Liang. H., Zhang. J., Tian. Y., Yang. Y., Xu. T., Wang. Q., Cao. M., Chen Z., Hu C., Wang. X., Liu. Q., & Wu. H. (2024). **ChineseEEG: A Chinese Linguistic Corpora EEG Dataset for Semantic Alignment and Neural Decoding**. *Scientific Data*. [[DOI]https://doi.org/10.1038/s41597-024-03398-7){:target="_blank"}] 
+Mou. X., He. C., Tan. L., Yu. J., Liang. H., Zhang. J., Tian. Y., Yang. Y., Xu. T., Wang. Q., Cao. M., Chen Z., Hu C., Wang. X., Liu. Q., & Wu. H. (2024). **ChineseEEG: A Chinese Linguistic Corpora EEG Dataset for Semantic Alignment and Neural Decoding**. *Scientific Data*. [[DOI](https://doi.org/10.1038/s41597-024-03398-7){:target="_blank"}] 
 
 Zhang. S., Tian, Y., Liu.Q., & Wu, H. (2024). **The Neural Correlates of Ambiguity and Risk in Human Decision-Making under an Active Inference Framework**. eLife. [[DOI](https://doi.org/10.7554/eLife.92892.1){:target="_blank"}]
 
