@@ -66,11 +66,6 @@
     - name: Xinze Wang
       image: xinzewang.png
       content: Xinze Wang is a first-year graduate student in the lab, majoring in Cognitive Neuroscience. He graduated with a B.S. degree in Applied Psychology from Chengdu University. Currently, he is interested in human behavior and decision-making in social interactions, and he is striving to learn a variety of behavioral and neuroimaging techniques in order to better understand the brain.
-    - name: Guoqiu Chen
-      image: guoqiuchen.png
-      content: Guoqiu is a second-year master's student in the lab. He graduated from Nanjing University with a B.S. in Applied Psychology. His research interests include (1) cyberpsychology, (2) measuring individual differences using behavioral tests, and (3) predicting individual cognitive performance through brain imaging data.
-      social:
-        email: mc25808@umac.mo
 
 - title: Research Assistants
   members:
@@ -114,6 +109,11 @@
           content: Shuhan Zhang is a second-year graduate student in the lab, majoring in Cognitive Neuroscience. She graduated with a B.A. in psychology from Southwest University. Currently, she is interested in the neural mechanism of social cognition and human social interaction. She tries to investigate how people interact with each other in different situations by using neuroscience methods.
           social:
             email: yc27383@connect.um.edu.mo
+        - name: Guoqiu Chen
+          image: guoqiuchen.png
+          content: Guoqiu is a second-year master's student in the lab. He graduated from Nanjing University with a B.S. in Applied Psychology. His research interests include (1) cyberpsychology, (2) measuring individual differences using behavioral tests, and (3) predicting individual cognitive performance through brain imaging data.
+          social:
+            email: mc25808@umac.mo
         - name: Qingyuan Wu
           image: qingyuan.png
           content: Qingyuan is a graduate student majors in cognitive neuroscience. She graduated with a B.S. in Physics from Lanzhou University and is currently a joint master student trained by Prof. Chao Liu from Beijing Normal University and Prof. Haiyan Wu from the University of Macau. She is interested in how people's perceptions of their partners' moral behavior might affect their cooperative behavior, as well as how the calculation of benefits and attitudes toward fairness influence cooperative behavior. She is now studying how oxytocin affects human's brain activity during face-perception tasks.
