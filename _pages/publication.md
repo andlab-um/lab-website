@@ -28,11 +28,15 @@ Xu, X. J., Yang, G., Huang, J., Wang, R., & Wu, H. (2023). **Unveiling consisten
 
 Wu, H., Cao, S., Bai, C., Chen, K., & Mobbs, D. (2021). **Moral by default? The dynamic tradeoffs between honesty and self-interest**. [[Preprint](https://doi.org/10.31234/osf.io/kr4pw){:target="_blank"}]
 
-Cao, S., Fu, D., Yang, X., Wermter, S., Liu, X., & Wu, H. (2021). **Can AI detect pain and express pain empathy? A review from emotion recognition and a human-centered AI perspective**. arXiv. [[Preprint](https://doi.org/10.48550/ARXIV.2110.04249){:target="_blank"}]
+
 
 Xu, X. J., Liu, X., Hu, X., & Wu, H. (2021). **MT-aIAT: Integrating mouse tracking into memory-detection aIAT**. [[Preprint](https://doi.org/10.31234/osf.io/ny9xq){:target="_blank"}]
 
 ### 2024
+Cao, S., Fu, D., Yang, X., Wermter, S., Liu, X., & Wu, H. (2021). **Can AI detect pain and express pain empathy? A review from emotion recognition and a human-centered AI perspective**. *iScience*. [[Preprint](https://doi.org/10.48550/ARXIV.2110.04249){:target="_blank"}]
+
+Tan. L., Cheng. J., Kang. C., Xu. H., Wu. H. (2024) **Cognitive and Affective Flexibility: Processing Mechanisms and Their Impact on Mental Health.** *Chinese Science Bulletin（科学通报）*
+
 Qin, J. and Wu, H., 2024. **Representation of Others' Beliefs**. in *Encyclopedia of the Human Brain*, 2nd edition.
 
 Mou. X., He. C., Tan. L., Yu. J., Liang. H., Zhang. J., Tian. Y., Yang. Y., Xu. T., Wang. Q., Cao. M., Chen Z., Hu C., Wang. X., Liu. Q., & Wu. H. (2024). **ChineseEEG: A Chinese Linguistic Corpora EEG Dataset for Semantic Alignment and Neural Decoding**. *Scientific Data*. [[DOI](https://doi.org/10.1038/s41597-024-03398-7){:target="_blank"}] 
