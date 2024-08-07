@@ -33,7 +33,7 @@ Wu, H., Cao, S., Bai, C., Chen, K., & Mobbs, D. (2021). **Moral by default? The 
 Xu, X. J., Liu, X., Hu, X., & Wu, H. (2021). **MT-aIAT: Integrating mouse tracking into memory-detection aIAT**. [[Preprint](https://doi.org/10.31234/osf.io/ny9xq){:target="_blank"}]
 
 ### 2024
-Cao, S., Fu, D., Yang, X., Wermter, S., Liu, X., & Wu, H. (2024). **Can AI detect pain and express pain empathy? A review from emotion recognition and a human-centered AI perspective**. *iScience*. [[Preprint](https://doi.org/10.48550/ARXIV.2110.04249){:target="_blank"}]
+Cao, S., Fu, D., Yang, X., Wermter, S., Liu, X., & Wu, H. (2024). **Can AI detect pain and express pain empathy? A review from emotion recognition and a human-centered AI perspective**. *iScience*. [[DOI](https://doi.org/10.1016/j.isci.2024.110570){:target="_blank"}] 
 
 Tan. L., Cheng. J., Kang. C., Xu. H., Wu. H. (2024) **Cognitive and Affective Flexibility: Processing Mechanisms and Their Impact on Mental Health.** *Chinese Science Bulletin（科学通报）*
 
