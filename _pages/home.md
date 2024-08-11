@@ -25,6 +25,8 @@ The Affective, Neuroscience, and Decision-making lab is located at the [Centre f
 
 ## News
 
+*2024.3.31* ANDLab held a workshop on **PPT Graphing in Academia** presented by Zhexu. The session covered key tips for creating PowerPoint visuals for academic purposes. Watch the full recording on YouTube: [ANDlab workshop- plotting with PowerPoint](https://youtu.be/7xqX-s8AD2s).
+
 *2024.3.13* ANDLab preprinted an article titled ‘Unethical amnesia brain: Memory and metacognitive distortion induced by dishonesty’. In this article, we investigate the neural and computational mechanisms underlying the metacognition distortion caused by repeated dishonesty.
 We find that: 
 1) Immediate and delayed metacognition changes manifest on multiple dimensions of response in the pre-and post-scan memory tasks;
