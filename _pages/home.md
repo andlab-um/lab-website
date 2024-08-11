@@ -7,6 +7,8 @@ permalink: /
 
 The Affective, Neuroscience, and Decision-making lab is located at the [Centre for Cognitive and Brain Sciences](https://ccbs.ici.um.edu.mo){:target="_blank"} (CCBS) at [University of Macau](https://um.edu.mo){:target="_blank"} (UM), Macau SAR, China.
 
+![roadmap](./../assets/images/homepage/roadmap.png)
+
 <!-- Our current **<span style="color:#e06666">research directions</span>**: -->
 ## Research Directions
 
