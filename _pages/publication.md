@@ -37,7 +37,7 @@ Cao, S., Fu, D., Yang, X., Wermter, S., Liu, X., & Wu, H. (2024). **Can AI detec
 
 Tan. L., Cheng. J., Kang. C., Xu. H., Wu. H. (2024) **Cognitive and Affective Flexibility: Processing Mechanisms and Their Impact on Mental Health.** *Chinese Science Bulletin（科学通报）*
 
-Qin, J. and Wu, H., 2024. **Representation of Others' Beliefs**. in *Encyclopedia of the Human Brain*, 2nd edition.
+Qin, J. and Wu, H., 2024. **Representation of Others' Beliefs**. in *Encyclopedia of the Human Brain*, 2nd edition. [[PDF](./../assets/publications/2024_chapter_Representation%20of%20others’%20beliefs.pdf){:target="_blank"}]
 
 Mou. X., He. C., Tan. L., Yu. J., Liang. H., Zhang. J., Tian. Y., Yang. Y., Xu. T., Wang. Q., Cao. M., Chen Z., Hu C., Wang. X., Liu. Q., & Wu. H. (2024). **ChineseEEG: A Chinese Linguistic Corpora EEG Dataset for Semantic Alignment and Neural Decoding**. *Scientific Data*. [[DOI](https://doi.org/10.1038/s41597-024-03398-7){:target="_blank"}] 
 
