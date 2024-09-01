@@ -28,9 +28,6 @@
         email: yc17307@connect.um.edu.mo
         website: "https://chenkun.me"
         github: "https://github.com/const7"
-    - name: Siying Li
-      image: siying.png
-      content: Siying Li is a third-year joint PhD student in the lab, jointly trained by Prof. Xiaoqun Wang from Institute of Biophysics, CAS and Prof. Haiyan Wu from the University of Macau. She graduated with a B.A. in English from Zhengzhou University, and a M.A. degree in Linguistics from Chinese University of Hong Kong. With the linguistics background, and RA work experience in a cognitive neuroscience lab, she aims to work on a joint field between linguistics and cognitive neuroscience, using methods including fMRI, MEG, natural language processing (NLP).
     - name: Xinyi Xu
       image: xinyi.png
       content: Xinyi is a second-year Ph.D. student in the lab. Before joining the lab, she received her bachelor’s degree in EE at Wuhan University of Technology. Her research seeks to  investigate 1)  how moral decisions shape memory, 2) the role of cognitive control brain in regulating this interaction, 3) neurocompuational mechanism of metacognition. She uses diverse methods (fMRI, sEEG, mouse tracking, computational modeling and neural networks) with aims to reveal the cognitive and neural processes behind social cognition.
@@ -68,6 +65,9 @@
 
     - title: Former PhD Students
       members:
+      - name: Siying Li
+        image: siying.png
+        content: Siying Li is a third-year joint PhD student in the lab, jointly trained by Prof. Xiaoqun Wang from Institute of Biophysics, CAS and Prof. Haiyan Wu from the University of Macau. She graduated with a B.A. in English from Zhengzhou University, and a M.A. degree in Linguistics from Chinese University of Hong Kong. With the linguistics background, and RA work experience in a cognitive neuroscience lab, she aims to work on a joint field between linguistics and cognitive neuroscience, using methods including fMRI, MEG, natural language processing (NLP).
       - name: Yanyan Qi
         image: yanyan.png
         content: Yanyan Qi is an assistant professor in Department of Psychology, Zhengzhou University. Before that, she was a post-doctoral researcher of Translational Social Neuroscience at the University of Würzburg, Germany. She got her PhD degree at Institute of Psychology, Chinese Academy of Sciences, majoring in Cognitive Neuroscience. Her research focuses on using modeling and neuroimaging methods to investigate the effect of social interactions on fear processing, also considering the modulation effect of individual characteristics.
