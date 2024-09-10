@@ -32,7 +32,7 @@ Xu, X. J., Liu, X., Hu, X., & Wu, H. (2021). **MT-aIAT: Integrating mouse tracki
 
 ### 2024
 
-Hu K., Wang, R., Zhao S., Yin E., & Wu, H. (2024). **The Association between Social Rewards and Anxiety:Links from Neurophysiological Analysis in Virtual Reality and Social Interaction Game**. *NeuroImage*. (accepted) [[DOI]([../assets/publications/NIMG-24-789_R1.pdf](https://doi.org/10.1016/j.neuroimage.2024.120846)){:target="_blank"}]
+Hu K., Wang, R., Zhao S., Yin E., & Wu, H. (2024). **The Association between Social Rewards and Anxiety:Links from Neurophysiological Analysis in Virtual Reality and Social Interaction Game**. *NeuroImage*. (in press) [[DOI](https://doi.org/10.1016/j.neuroimage.2024.120846){:target="_blank"}]
 
 Cao, S., Fu, D., Yang, X., Wermter, S., Liu, X., & Wu, H. (2024). **Can AI detect pain and express pain empathy? A review from emotion recognition and a human-centered AI perspective**. *iScience*. [[DOI](https://doi.org/10.1016/j.isci.2024.110570){:target="_blank"}] 
 
