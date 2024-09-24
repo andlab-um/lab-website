@@ -36,7 +36,7 @@ Hu K., Wang, R., Zhao S., Yin E., & Wu, H. (2024). **The Association between Soc
 
 Cao, S., Fu, D., Yang, X., Wermter, S., Liu, X., & Wu, H. (2024). **Can AI detect pain and express pain empathy? A review from emotion recognition and a human-centered AI perspective**. *iScience*. [[DOI](https://doi.org/10.1016/j.isci.2024.110570){:target="_blank"}] 
 
-Tan. L., Cheng. J., Kang. C., Xu. H., Wu. H. (2024) **Cognitive and Affective Flexibility: Processing Mechanisms and Their Impact on Mental Health.** *Chinese Science Bulletin（科学通报）*
+Tan. L., Cheng. J., Kang. C., Xu. H., Wu. H. (2024) **Cognitive and Affective Flexibility: Processing Mechanisms and Their Impact on Mental Health**. *Chinese Science Bulletin（科学通报）*. [[DOI](https://doi.org/10.1360/TB-2024-0469){:target="_blank"}] [[PDF](../assets/publications/2024_认知灵活性与情感灵活性的加工机制及其对心理健康的影响.pdf){:target="_blank"}]
 
 Qin, J. and Wu, H., 2024. **Representation of Others' Beliefs**. in *Encyclopedia of the Human Brain*, 2nd edition. [[PDF](./../assets/publications/2024_chapter_Representation%20of%20others’%20beliefs.pdf){:target="_blank"}]
 
