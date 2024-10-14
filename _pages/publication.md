@@ -18,8 +18,6 @@ permalink: /publication
 
 Xu, X. J., Mobbs, D., & Wu, H. (2024). **Unethical amnesia brain: Memory and metacognitive distortion induced by dishonesty**. bioRxiv. [[Preprint](https://www.biorxiv.org/content/10.1101/2024.03.03.583239v1){:target="_blank"}]
 
-Tian, Y., Huang, Q., Liu, X., Zhang, J., Ye, Y., & Wu, H. (2024). **Unraveling the Intricacies of Curiosity: A Comprehensive Study of Its Measures in the Chinese Context**.  Psyarxiv. [[Preprint](https://doi.org/10.31234/osf.io/5h6j8){:target="_blank"}]
-
 Zhang. H., Cheng, J., Hu, K., Wang, F., Qi, S., Liu, Q., Yao, Y., Mobbs, D., & Wu, H. (2024). **An intracranial dissection of human escape circuits**. Biorxiv. [[Preprint](https://doi.org/10.1101/2024.01.16.575785){:target="_blank"}]
 
 Zhang. S., Wu, H., Hu, K., Liu.Q., & Wu, H. (2023). **Irrelevant social comparison affects exploration of uncertainty and its association with subjective expectations**. Psyarxiv. [[Preprint](https://psyarxiv.com/74qvb/){:target="_blank"}]
@@ -32,7 +30,9 @@ Xu, X. J., Liu, X., Hu, X., & Wu, H. (2021). **MT-aIAT: Integrating mouse tracki
 
 ### 2024
 
-Hu K., Wang, R., Zhao S., Yin E., & Wu, H. (2024). **The Association between Social Rewards and Anxiety:Links from Neurophysiological Analysis in Virtual Reality and Social Interaction Game**. *NeuroImage*. (in press) [[DOI](https://doi.org/10.1016/j.neuroimage.2024.120846){:target="_blank"}]
+Tian, Y., Huang, Q., Liu, X., Zhang, J., Ye, Y., & Wu, H. (2024). **Unraveling the Intricacies of Curiosity: A Comprehensive Study of Its Measures in the Chinese Context**. *PsyCH Journal*. (in press) [[Preprint](https://doi.org/10.31234/osf.io/5h6j8){:target="_blank"}]
+
+Hu K., Wang, R., Zhao S., Yin E., & Wu, H. (2024). **The Association between Social Rewards and Anxiety:Links from Neurophysiological Analysis in Virtual Reality and Social Interaction Game**. *NeuroImage*. [[DOI](https://doi.org/10.1016/j.neuroimage.2024.120846){:target="_blank"}]
 
 Cao, S., Fu, D., Yang, X., Wermter, S., Liu, X., & Wu, H. (2024). **Can AI detect pain and express pain empathy? A review from emotion recognition and a human-centered AI perspective**. *iScience*. [[DOI](https://doi.org/10.1016/j.isci.2024.110570){:target="_blank"}] 
 
