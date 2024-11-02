@@ -55,6 +55,16 @@
       image: xinzewang.png
       content: Xinze Wang is a first-year graduate student in the lab, majoring in Cognitive Neuroscience. He graduated with a B.S. degree in Applied Psychology from Chengdu University. Currently, he is interested in human behavior and decision-making in social interactions, and he is striving to learn a variety of behavioral and neuroimaging techniques in order to better understand the brain.
 
+- title: undergraduate Students
+  members:
+    - name: Eric Wang
+      image: eric.png
+      content: Eric is an undergraduate student at the Chinese University of Hong Kong majoring in Psychology. He joined as an external part-time RA in 2023. Eric is interested in using decision-making as a window to study the human mind, specifically, he is interested in how the brain processes emotion and social relationships. Currently, he is applying an advance modelling technique called the Hidden Markov Model on neuroimaging data to study dishonesty.
+      social:
+        email: eric.wang2004nz@link.cuhk.edu.hk
+        website: "https://ricwan4.github.io/"
+  
+
 - title: Alumni
   alumni_groups:
     - title: Former Postdoctoral Fellows
