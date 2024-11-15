@@ -30,7 +30,7 @@ Xu, X. J., Liu, X., Hu, X., & Wu, H. (2021). **MT-aIAT: Integrating mouse tracki
 
 ### 2024
 
-伍海燕, 何翠琳, 曲由之, 刘泉影. (2024). **大语言模型的情感智能及其心理学应用**. *科技导报*.` (in press)
+伍海燕, 何翠琳, 曲由之, 刘泉影. (2024). **大语言模型的情感智能及其心理学应用**. *科技导报*. (in press)
 
 Tian, Y., Huang, Q., Liu, X., Zhang, J., Ye, Y., & Wu, H. (2024). **Unraveling the Intricacies of Curiosity: A Comprehensive Study of Its Measures in the Chinese Context**. *PsyCH Journal*. (in press) [[Preprint](https://doi.org/10.31234/osf.io/5h6j8){:target="_blank"}]
 
