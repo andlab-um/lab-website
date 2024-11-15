@@ -30,11 +30,13 @@ Xu, X. J., Liu, X., Hu, X., & Wu, H. (2021). **MT-aIAT: Integrating mouse tracki
 
 ### 2024
 
+伍海燕, 何翠琳, 曲由之, 刘泉影. (2024). **大语言模型的情感智能及其心理学应用**. *科技导报*.` (in press)
+
 Tian, Y., Huang, Q., Liu, X., Zhang, J., Ye, Y., & Wu, H. (2024). **Unraveling the Intricacies of Curiosity: A Comprehensive Study of Its Measures in the Chinese Context**. *PsyCH Journal*. (in press) [[Preprint](https://doi.org/10.31234/osf.io/5h6j8){:target="_blank"}]
 
 Hu K., Wang, R., Zhao S., Yin E., & Wu, H. (2024). **The Association between Social Rewards and Anxiety:Links from Neurophysiological Analysis in Virtual Reality and Social Interaction Game**. *NeuroImage*. [[DOI](https://doi.org/10.1016/j.neuroimage.2024.120846){:target="_blank"}]
 
-Cao, S., Fu, D., Yang, X., Wermter, S., Liu, X., & Wu, H. (2024). **Can AI detect pain and express pain empathy? A review from emotion recognition and a human-centered AI perspective**. *iScience*. [[DOI](https://doi.org/10.1016/j.isci.2024.110570){:target="_blank"}] 
+Cao, S., Fu, D., Yang, X., Wermter, S., Liu, X., & Wu, H. (2024). **Pain recognition and pain empathy from a human-centered AI perspective**. *iScience*. [[DOI](https://doi.org/10.1016/j.isci.2024.110570){:target="_blank"}] 
 
 Tan. L., Cheng. J., Kang. C., Xu. H., Wu. H. (2024) **Cognitive and Affective Flexibility: Processing Mechanisms and Their Impact on Mental Health**. *Chinese Science Bulletin（科学通报）*. [[DOI](https://doi.org/10.1360/TB-2024-0469){:target="_blank"}] [[PDF](../assets/publications/2024_认知灵活性与情感灵活性的加工机制及其对心理健康的影响.pdf){:target="_blank"}]
 
