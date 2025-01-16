@@ -8,7 +8,7 @@ permalink: /publication
 ## Publication
 *We are committed to open science and to sharing  data and code from our publications.*
 
-**Categories:** [Preprint](#preprint)&ensp; [2024](#2024)&ensp;[2023](#2023)&ensp; [2022](#2022)&ensp; [2021](#2021)&ensp; [2020](#2020)&ensp; [Earlier](#earlier)
+**Categories:** [Preprint](#preprint)&ensp; [2025](#2025)&ensp; [2024](#2024)&ensp; [2023](#2023)&ensp; [2022](#2022)&ensp; [2021](#2021)&ensp; [2020](#2020)&ensp; [Earlier](#earlier)
 
 [Download bibtex citations](/assets/files/ANDlab-publications-Bibtex.bib)
 
