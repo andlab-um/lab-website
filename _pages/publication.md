@@ -26,7 +26,11 @@ Xu, X. J., Yang, G., Huang, J., Wang, R., & Wu, H. (2023). **Unveiling consisten
 
 Wu, H., Cao, S., Bai, C., Chen, K., & Mobbs, D. (2021). **Moral by default? The dynamic tradeoffs between honesty and self-interest**. [[Preprint](https://doi.org/10.31234/osf.io/kr4pw){:target="_blank"}]
 
-Xu, X. J., Liu, X., Hu, X., & Wu, H. (2021). **MT-aIAT: Integrating mouse tracking into memory-detection aIAT**. [[Preprint](https://doi.org/10.31234/osf.io/ny9xq){:target="_blank"}]
+### 2025
+
+Xu, X. J., Liu, X., Hu, X., & Wu, H. (2025). **The trajectory of crime: Integrating mouse-tracking into concealed memory detection**. *Behavior Research Methods*. (in press). [[DOI](https://doi.org/10.3758/s13428-024-02594-y){:target="_blank"}]
+
+---
 
 ### 2024
 
@@ -47,6 +51,8 @@ Mou. X., He. C., Tan. L., Yu. J., Liang. H., Zhang. J., Tian. Y., Yang. Y., Xu. 
 Zhang. S., Tian, Y., Liu. Q., & Wu, H. (2024). **The Neural Correlates of Ambiguity and Risk in Human Decision-Making under an Active Inference Framework**. *eLife*. [[DOI](https://doi.org/10.7554/eLife.92892.1){:target="_blank"}]
 
 Qu Y., Du P., Che W., Wei C, Zhang C., Ouyang W, Bian Y, Xu F, Hu B, Du K, **Wu H**, Liu J, & Liu Q. (2024) Promoting interactions between cognitive science and large language models. *The Innovation*. [[DOI](https://doi.org/10.1016/j.xinn.2024.100579){:target="_blank"}]
+
+---
 
 ### 2023
 
