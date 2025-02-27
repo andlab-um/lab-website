@@ -15,6 +15,7 @@ permalink: /publication
 ---
 
 ### Preprint
+Huang, J., He, Y., Chen, Z., Cai, Q., Yao, Y., Wang, Y., Qi, Y., & Wu, H. (2025). **Unraveling the Neurocognitive Mechanisms of Delayed Punishment in Second- and Third-Party Contexts**. bioRxiv. [[Preprint](https://www.biorxiv.org/content/10.1101/2025.02.25.640024v1){:target="_blank"}]
 
 Xu, X. J., Mobbs, D., & Wu, H. (2024). **Unethical amnesia brain: Memory and metacognitive distortion induced by dishonesty**. bioRxiv. [[Preprint](https://www.biorxiv.org/content/10.1101/2024.03.03.583239v1){:target="_blank"}]
 
@@ -30,11 +31,11 @@ Wu, H., Cao, S., Bai, C., Chen, K., & Mobbs, D. (2021). **Moral by default? The 
 
 Xu, X. J., Liu, X., Hu, X., & Wu, H. (2025). **The trajectory of crime: Integrating mouse-tracking into concealed memory detection**. *Behavior Research Methods*. (in press). [[DOI](https://doi.org/10.3758/s13428-024-02594-y){:target="_blank"}]
 
+伍海燕, 何翠琳, 曲由之, 刘泉影. (2025). **大语言模型的情感智能及其心理学应用**. *科技导报*. (in press)
+
 ---
 
 ### 2024
-
-伍海燕, 何翠琳, 曲由之, 刘泉影. (2024). **大语言模型的情感智能及其心理学应用**. *科技导报*. (in press)
 
 Tian, Y., Huang, Q., Liu, X., Zhang, J., Ye, Y., & Wu, H. (2024). **Unraveling the Intricacies of Curiosity: A Comprehensive Study of Its Measures in the Chinese Context**. *PsyCH Journal*.  [[DOI](https://doi.org/10.1002/pchj.813){:target="_blank"}] [[Questionnaire](../assets/files/Questionnaires.docx){:target="_blank"}]
 
