@@ -16,3 +16,6 @@ permalink: /resource
 7. [**<span style="color:#59bdac">Talk</span>**] [我是如何把一个研究做失败的？](https://zwe.h5.xeknow.com/s/34tJsj){:target="_blank"}
 8. [**<span style="color:#856894">Course</span>**] **PSYC3018-001** [_Selected Topics II: Artificial Intelligence and Human Cognition_]({% post_url 2021-09-06-PSYC3018-001 %})
 9. [**<span style="color:#d6a50e">Book</span>**] [认知和行为的计算建模]({% post_url 2021-09-06-CMCB %}) (英文原版: [_Computational Modeling of Cognition and Behavior_](https://psy-farrell.github.io/computational-modelling){:target="_blank"})
+10. [**<span style="color:#ff6f00">Workshop</span>**] [PPT作图在学术中的应用](https://www.bilibili.com/video/BV1azeGeeELn){:target="_blank"}
+11. [**<span style="color:#ff6f00">Workshop</span>**] [Freesufer(FSL)的安装与应用][[Part 1](https://www.bilibili.com/video/BV1hreGeAE3Q){:target="_blank"}][[Part 2](https://www.bilibili.com/video/BV1fxeGeVExG){:target="_blank"}][[Part 3](https://www.bilibili.com/video/BV1zxeGeVEgW){:target="_blank"}][[Part 4](https://www.bilibili.com/video/BV1BxeGeVEJX){:target="_blank"}]
+12. [**<span style="color:#ff6f00">Workshop</span>**] [漂移扩散模型(DDM)的原理与应用](https://www.bilibili.com/video/BV1LVNue9Ebw){:target="_blank"}
