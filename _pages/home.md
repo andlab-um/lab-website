@@ -29,6 +29,8 @@ The Affective, Neuroscience, and Decision-making lab is located at the [Centre f
 
 ## News
 
+**2025.2.13** ANDLab's work titled "Emotional intelligence of large language models and its psychological applications" is published by *Science $ Technology Review*!
+
 **2024.9.9** Keyu's work titled "The Association between Social Rewards and Anxiety:Links from Neurophysiological Analysis in Virtual Reality and Social Interaction Game" got accepted by *NeuroImage*!
 
 **2024.8.30** Siying Li successfully defended her PhD today!
