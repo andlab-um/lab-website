@@ -31,7 +31,7 @@ Wu, H., Cao, S., Bai, C., Chen, K., & Mobbs, D. (2021). **Moral by default? The 
 
 Xu, X. J., Liu, X., Hu, X., & Wu, H. (2025). **The trajectory of crime: Integrating mouse-tracking into concealed memory detection**. *Behavior Research Methods*, 57, 78. [[DOI](https://doi.org/10.3758/s13428-024-02594-y){:target="_blank"}]
 
-伍海燕, 何翠琳, 曲由之, 刘泉影. (2025). **大语言模型的情感智能及其心理学应用**. *科技导报*. (in press)
+伍海燕, 何翠琳, 曲由之, 刘泉影. (2025). **大语言模型的情感智能及其心理学应用**. *科技导报*, 2025, 43(3): 47-58. [[DOI](http://www.kjdb.org/CN/10.3981/j.issn.1000-7857.2023.09.01352){:target="_blank"}]
 
 ---
 
