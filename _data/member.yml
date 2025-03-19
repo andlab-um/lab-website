@@ -63,7 +63,7 @@
       image: irisli.jpg
       content: Iris is a graduate student specializing in Data Science. She earned a Bachelor of Science degree in Business Intelligence and Data Analytics from the University of Macau. Her research focuses on the computational modeling of cognitive processes using machine learning, deep learning, and reinforcement learning to study perception, learning, social behavior, and decision-making in uncertain environments. She is also interested in developing AI-driven ecological gaming environments to explore human adaptation mechanisms and conducting cross-modal analyses that combine brain imaging data (e.g., EEG and fMRI) with behavioral data to investigate cognitive functions.
     - name: Meijiaozi Sun
-      image: meijiaozisun.png
+      image: meijiaozisun.png,jpg
       content: Meijiaozi Sun is a first-year graduate student in the lab, majoring in Cognitive Neuroscience. She graduated with a B.S. in Software Engineering from Dalian University of Technology. Her current research interests lie in the psychological applications related to Human-AI interaction.    
     - name: Shuyi Dong
       image: shuyidong.png
