@@ -60,10 +60,10 @@
       image: mingxinshao.png
       content: Mingxin Shao is a second-year graduate student in the lab, whose major is cognitive neuroscience. She completed her undergraduate studies at UCSI University in Malaysia, where she was awarded a Bachelor of Arts (Hons) in Psychology. Her current research interests focus on social conformity and human-AI interaction.
     - name: Iris, Ziming Li
-      image: irisli.png
+      image: irisli.jpg
       content: Iris is a graduate student specializing in Data Science. She earned a Bachelor of Science degree in Business Intelligence and Data Analytics from the University of Macau. Her research focuses on the computational modeling of cognitive processes using machine learning, deep learning, and reinforcement learning to study perception, learning, social behavior, and decision-making in uncertain environments. She is also interested in developing AI-driven ecological gaming environments to explore human adaptation mechanisms and conducting cross-modal analyses that combine brain imaging data (e.g., EEG and fMRI) with behavioral data to investigate cognitive functions.
     - name: Meijiaozi Sun
-      image: meijiaozisun.png
+      image: meijiaozisun.png.png
       content: Meijiaozi Sun is a first-year graduate student in the lab, majoring in Cognitive Neuroscience. She graduated with a B.S. in Software Engineering from Dalian University of Technology. Her current research interests lie in the psychological applications related to Human-AI interaction.    
     - name: Shuyi Dong
       image: shuyidong.png
@@ -84,7 +84,7 @@
         email: eric.wang2004nz@link.cuhk.edu.hk
         website: "https://ricwan4.github.io/"
     - name: Jiuxuan Gan
-      image: JiuxuanGan.png
+      image: JiuxuanGan.jpg
       content: Jiuxuan Gan is an undergraduate student majoring in Psychology at the University of Macau. He has joined the lab since his freshman year and is interested in how people manage their emotions and how they make decisions in the face of emotional disturbances. Currently, he is working on the topic of meaning in life, studying the influence of emotions on people's perception of the meaning in life.
   
 
