@@ -17,6 +17,8 @@ permalink: /publication
 ### Preprint
 Huang, J., He, Y., Chen, Z., Cai, Q., Yao, Y., Wang, Y., Qi, Y., & Wu, H. (2025). **Unraveling the Neurocognitive Mechanisms of Delayed Punishment in Second- and Third-Party Contexts**. bioRxiv. [[Preprint](https://www.biorxiv.org/content/10.1101/2025.02.25.640024v1){:target="_blank"}]
 
+Zhang S, Tian Y, Liu Q, & Wu H. (2024). **The Neural Correlates of Novelty and Variability in Human Decision-Making under an Active Inference Framework**. eLife. [[Preprint](https://doi.org/10.7554/eLife.92892.3){:target="_blank"}]
+
 Xu, X. J., Mobbs, D., & Wu, H. (2024). **Unethical amnesia brain: Memory and metacognitive distortion induced by dishonesty**. bioRxiv. [[Preprint](https://www.biorxiv.org/content/10.1101/2024.03.03.583239v1){:target="_blank"}]
 
 Zhang. H., Cheng, J., Hu, K., Wang, F., Qi, S., Liu, Q., Yao, Y., Mobbs, D., & Wu, H. (2024). **An intracranial dissection of human escape circuits**. Biorxiv. [[Preprint](https://doi.org/10.1101/2024.01.16.575785){:target="_blank"}]
