@@ -30,7 +30,7 @@ Wu, H., Cao, S., Bai, C., Chen, K., & Mobbs, D. (2021). **Moral by default? The 
 
 ### 2025
 
-Zhang S, Tian Y, Liu Q, & Wu H. (2024). **The Neural Correlates of Novelty and Variability in Human Decision-Making under an Active Inference Framework**. eLife. [[DOI](https://doi.org/10.7554/eLife.92892.4){:target="_blank"}]
+Zhang S, Tian Y, Liu Q, & Wu H. (2025). **The Neural Correlates of Novelty and Variability in Human Decision-Making under an Active Inference Framework**. eLife. [[DOI](https://doi.org/10.7554/eLife.92892.4){:target="_blank"}]
 
 Xu, X. J., Liu, X., Hu, X., & Wu, H. (2025). **The trajectory of crime: Integrating mouse-tracking into concealed memory detection**. *Behavior Research Methods*, 57, 78. [[DOI](https://doi.org/10.3758/s13428-024-02594-y){:target="_blank"}]
 
