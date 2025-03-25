@@ -28,6 +28,7 @@ The Affective, Neuroscience, and Decision-making lab is located at the [Centre f
 
 
 ## News
+**2025.3.21** Shuo's work titled "The neural correlates of novelty and variability in human decision-making under an active inference framework" is published by *eLife*!
 
 **2025.2.13** ANDLab's work titled "Emotional intelligence of large language models and its psychological applications" is published by *Science & Technology Review*!
 
