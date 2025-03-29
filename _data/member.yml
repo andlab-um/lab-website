@@ -59,6 +59,9 @@
     - name: Mingxin Shao
       image: mingxinshao.png
       content: Mingxin Shao is a second-year graduate student in the lab, whose major is cognitive neuroscience. She completed her undergraduate studies at UCSI University in Malaysia, where she was awarded a Bachelor of Arts (Hons) in Psychology. Her current research interests focus on social conformity and human-AI interaction.
+    - name: He Miao
+      image: hemiao.png
+      content: He Miao is a graduate student majoring in Cognitive Neuroscience. He got his bachelor degree from the Faculty of Business Admisitration in the University of Macau. He is interested in the neural mechanisms of risky decision making and social information seeking. He is now investigating the  utility function of social and non-social information in specific social conditions, and also focusing on the brain stimulation techniques to manipulate the reward-based decision making behaviour.
     - name: Iris, Ziming Li
       image: irisli.jpg
       content: Iris is a graduate student specializing in Data Science. She earned a Bachelor of Science degree in Business Intelligence and Data Analytics from the University of Macau. Her research focuses on the computational modeling of cognitive processes using machine learning, deep learning, and reinforcement learning to study perception, learning, social behavior, and decision-making in uncertain environments. She is also interested in developing AI-driven ecological gaming environments to explore human adaptation mechanisms and conducting cross-modal analyses that combine brain imaging data (e.g., EEG and fMRI) with behavioral data to investigate cognitive functions.
@@ -154,10 +157,7 @@
         - name: Pengcheng Zhang
           image: pengcheng.png
           content: Pengcheng is a graduate student in the lab. He currently focuses on the research of career decision-making and life value issues. He believes that a person's spirit is the combination of brain physiology and personal philosophy. Understanding and improving the spiritual world of people is his original intention to study cognitive neuroscience. He likes to think, loves sports, and aims to apply what he learns and thinks to practice.
-        - name: He Miao
-          image: hemiao.png
-          content: He Miao is a graduate student majoring in Cognitive Neuroscience. He got his bachelor degree from the Faculty of Business Admisitration in the University of Macau. He is interested in the neural mechanisms of risky decision making and social information seeking. He is now investigating the  utility function of social and non-social information in specific social conditions, and also focusing on the brain stimulation techniques to manipulate the reward-based decision making behaviour.
-
+        
     - title: Former RA
       members:
         - name: Jiayu Cheng
