@@ -42,7 +42,7 @@ Xu, X. J., Liu, X., Hu, X., & Wu, H. (2025). **The trajectory of crime: Integrat
 
 Tian, Y., Huang, Q., Liu, X., Zhang, J., Ye, Y., & Wu, H. (2024). **Unraveling the Intricacies of Curiosity: A Comprehensive Study of Its Measures in the Chinese Context**. *PsyCH Journal*.  [[DOI](https://doi.org/10.1002/pchj.813){:target="_blank"}] [[Questionnaire](../assets/files/Questionnaires.docx){:target="_blank"}]
 
-Hu K., Wang, R., Zhao S., Yin E., & Wu, H. (2024). **The Association between Social Rewards and Anxiety:Links from Neurophysiological Analysis in Virtual Reality and Social Interaction Game**. *NeuroImage*, 299, 120846. [[DOI](https://doi.org/10.1016/j.neuroimage.2024.120846){:target="_blank"}]
+Hu K., Wang, R., Zhao S., Yin E., & Wu, H. (2024). **The Association between Social Rewards and Anxiety:Links from Neurophysiological Analysis in Virtual Reality and Social Interaction Game**. *NeuroImage*, 299, 120846. [[DOI](https://doi.org/10.1016/j.neuroimage.2024.120846){:target="_blank"}] [[Code](https://github.com/andlab-um/VR-EEG-Social-Anxiety){:target="_blank"}]
 
 Cao, S., Fu, D., Yang, X., Wermter, S., Liu, X., & Wu, H. (2024). **Pain recognition and pain empathy from a human-centered AI perspective**. *iScience*, 27(8), 110570. [[DOI](https://doi.org/10.1016/j.isci.2024.110570){:target="_blank"}] 
 
