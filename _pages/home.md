@@ -29,6 +29,7 @@ The Affective, Neuroscience, and Decision-making lab is located at the [Centre f
 
 ## News
 **2025.4.28** ANDLab's demo "Emotional AI: Pain detection and empathy AI" accepted interviews from more than 20 media including People's Daily, TDM (Macau).
+<img src="./../assets/images/news/Demo_interview_2025.png" align="center" width="500">
 
 **2025.4.17** Dr.Yongling Lin shared their work "Basis functions for complex social decisions in dorsomedial frontal cortex" in our Journal Club!
 
