@@ -22,15 +22,13 @@ Huang, J., He, Y., Chen, Z., Cai, Q., Yao, Y., Wang, Y., Qi, Y., & Wu, H. (2025)
 
 Xu, X. J., Mobbs, D., & Wu, H. (2024). **Unethical amnesia brain: Memory and metacognitive distortion induced by dishonesty**. bioRxiv. [[Preprint](https://www.biorxiv.org/content/10.1101/2024.03.03.583239v1){:target="_blank"}]
 
-Zhang. H., Cheng, J., Hu, K., Wang, F., Qi, S., Liu, Q., Yao, Y., Mobbs, D., & Wu, H. (2024). **An intracranial dissection of human escape circuits**. Biorxiv. [[Preprint](https://doi.org/10.1101/2024.01.16.575785){:target="_blank"}]
-
 Zhang. S., Wu, H., Hu, K., Liu.Q., & Wu, H. (2023). **Irrelevant social comparison affects exploration of uncertainty and its association with subjective expectations**. Psyarxiv. [[Preprint](https://psyarxiv.com/74qvb/){:target="_blank"}]
 
 Xu, X. J., Yang, G., Huang, J., Wang, R., & Wu, H. (2023). **Unveiling consistency in flexibility: the role of reward and cognitive control in moral decisions**. bioRxiv. [[Preprint](https://doi.org/10.1101/2023.06.17.545416){:target="_blank"}]
 
-Wu, H., Cao, S., Bai, C., Chen, K., & Mobbs, D. (2021). **Moral by default? The dynamic tradeoffs between honesty and self-interest**. [[Preprint](https://doi.org/10.31234/osf.io/kr4pw){:target="_blank"}]
-
 ### 2025
+
+Zhang. H., Cheng, J., Hu, K., Wang, F., Qi, S., Liu, Q., Yao, Y., Mobbs, D., & Wu, H. (2025). **An intracranial dissection of human escape circuits**. in press. [[DOI](https://doi.org/10.1101/2024.01.16.575785){:target="_blank"}]
 
 Zhang S, Tian Y, Liu Q, & Wu H. (2025). **The Neural Correlates of Novelty and Variability in Human Decision-Making under an Active Inference Framework**. eLife. [[DOI](https://doi.org/10.7554/eLife.92892.4){:target="_blank"}]
 
