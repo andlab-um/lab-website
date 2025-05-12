@@ -16,7 +16,7 @@ permalink: /publication
 
 ### Preprint
 
-Shuo Z, Leo C. U. S., Raymond J. D., & Wu H. (2025). **AI in the computation and regulation of social decision-making**. Psyarxiv. [[Preprint](https://doi.org/10.31234/osf.io/uf9g4_v1){:target="_blank"}]
+Zhang, S., Seak, L. C. U., Dolan, R. J., & Wu H. (2025). **AI in the computation and regulation of social decision-making**. Psyarxiv. [[Preprint](https://doi.org/10.31234/osf.io/uf9g4_v1){:target="_blank"}]
 
 Huang, J., He, Y., Chen, Z., Cai, Q., Yao, Y., Wang, Y., Qi, Y., & Wu, H. (2025). **Unraveling the Neurocognitive Mechanisms of Delayed Punishment in Second- and Third-Party Contexts**. bioRxiv. [[Preprint](https://www.biorxiv.org/content/10.1101/2025.02.25.640024v1){:target="_blank"}]
 
