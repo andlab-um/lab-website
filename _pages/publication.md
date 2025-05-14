@@ -28,7 +28,7 @@ Xu, X. J., Yang, G., Huang, J., Wang, R., & Wu, H. (2023). **Unveiling consisten
 
 ### 2025
 
-Zhang. H., Cheng, J., Hu, K., Wang, F., Qi, S., Liu, Q., Yao, Y., Mobbs, D., & Wu, H. (2025). **An intracranial dissection of human escape circuits**. in press. [[DOI](https://doi.org/10.1101/2024.01.16.575785){:target="_blank"}]
+Zhang. H., Cheng, J., Hu, K., Wang, F., Qi, S., Liu, Q., Yao, Y., Mobbs, D., & Wu, H. (2025). **An intracranial dissection of human escape circuits**. Nature Communications(in press). [[DOI](https://doi.org/10.1101/2024.01.16.575785){:target="_blank"}]
 
 Zhang S, Tian Y, Liu Q, & Wu H. (2025). **The Neural Correlates of Novelty and Variability in Human Decision-Making under an Active Inference Framework**. eLife. [[DOI](https://doi.org/10.7554/eLife.92892.4){:target="_blank"}]
 
