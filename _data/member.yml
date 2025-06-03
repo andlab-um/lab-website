@@ -78,6 +78,12 @@
       image: GuanghanZhang.png
       content: Guanghan Zhang is a graduate student in the lab, majoring in Cognitive Neuroscience. He graduated with a B.E. degree in Biological Engineering from Harbin Institute of Technology. He has a great interest in the human brain and how cognitive functions are implemented. Now, he is investigating the relationship between learning and prosocial behavior in decision-making.
 
+- title: Research Assistant
+  members:
+    - name: Li Zhao
+      image: LiZhao.jpg
+      content: Dr. Li Zhao is a Research Assistant in the lab. She received her Ph.D. in Experimental Psychology from Ohio University in 2019. Her research interests are broad and primarily include concept learning and categorization, stereotype, intergroup relations, decision-making, and computational modeling.
+
 - title: undergraduate Students
   members:
     - name: Eric Wang
