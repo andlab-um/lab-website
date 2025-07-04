@@ -33,6 +33,9 @@ menu:
     url: /openproject
   - title: Position
     url: /position
+  - title: CogniAND
+    url: https://majestic-cassata-dab735.netlify.app
+    
 
 sass:
   sass_dir: _sass
