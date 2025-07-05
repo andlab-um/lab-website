@@ -15,6 +15,7 @@ permalink: /publication
 ---
 
 ### Preprint
+Wang, R., Luo, Y., Wang, Y., Zhang, L., & Wu, H. (2025). **Towards Naturalistic Social Neuroscience: A Multi-level Framework Integrating Real-world Phenotyping**. Neurobiology, and Computational Mechanisms. [[Preprint](https://doi.org/10.31234/osf.io/5g86c_v1){:target="_blank"}]
 
 Zhang, S., Seak, L. C. U., Dolan, R. J., & Wu H. (2025). **AI in the computation and regulation of social decision-making**. Psyarxiv. [[Preprint](https://doi.org/10.31234/osf.io/uf9g4_v1){:target="_blank"}]
 
