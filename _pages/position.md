@@ -13,7 +13,7 @@ The Postdoc position is available for ANDlab, details can be found [here](https:
 
 ### Graduate Student
 
-We are recruiting 2nd batch PhD students in fall 2024.
+We are recruiting PhD students in 2026.
 
 ### Research Assistant
 
