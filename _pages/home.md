@@ -9,20 +9,25 @@ The Affective, Neuroscience, and Decision-making lab is led by Prof Haiyan WU, a
 
 ## Roadmap
 
-![roadmap](./../assets/images/homepage/roadmap.png)
+![roadmap](./../assets/images/homepage/Roadmap_1.png)
+
+![roadmap](./../assets/images/homepage/Roadmap_2.png)
 
 <!-- Our current **<span style="color:#e06666">research directions</span>**: -->
 ## Research Directions
 
-1) *Social cognition and affective neuroscience*: the multi-modal representation of negative emotional experiences (anxiety, fear, helpless) and its neurocomputation; the learning and representation of social information (social distance, emotional variability, affiliation) and its influence on social relationship; the neurocomputation of mentalizing and social decision-making (dishonesty decisions); the effect of pharmaceutical modulation (oxytocin) and neuromodulation (TMS&TDCS) on social cognition and behaviors.
+1) *Computational Modeling and Quantification of Social Cognitive Processes*:
+   How can we develop robust computational frameworks to quantify and measure critical dimensions of social inference, decision-making, and strategic interactions?
 
 ![figure1](./../assets/images/homepage/figure1.png)
 
-2) *Computational neuroscience*: we mainly leverage Bayesian modeling, Reinforcement learning, Drift-diffusion model to quantify human social learning and adaptive social decision-making.
+2) *Neuromodulation of Social Adaptive Mechanisms*:
+   What are the neural and cognitive mechanisms underlying social adaptation, and how can they be selectively modulated to enhance or alter adaptive behaviors?
 
 ![figure2](./../assets/images/homepage/figure2.png)
 
-3) *Artificial intelligence (AI) and Human-AI interaction*: e.g., how AI facilitates empathy and interaction between human-AI and even between human-human, how human perceive and inference the affect of AI.
+3) *Neurocomputational Dynamics of Reward and Punishment in Human-AI Interactions*:
+   How do reward and punishment systems interact and compete during social decision-making, particularly in the context of human interactions with artificial agents?
 
 ![figure3](./../assets/images/homepage/figure3.png)
 
