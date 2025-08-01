@@ -16,15 +16,18 @@ The Affective, Neuroscience, and Decision-making lab is led by Prof Haiyan WU, a
 <!-- Our current **<span style="color:#e06666">research directions</span>**: -->
 ## Research Directions
 
-1) *Computational Modeling and Quantification of Social Cognitive Processes*: How can we develop robust computational frameworks to quantify and measure critical dimensions of social inference, decision-making, and strategic interactions?
+1) *Computational Modeling and Quantification of Social Cognitive Processes*:
+   How can we develop robust computational frameworks to quantify and measure critical dimensions of social inference, decision-making, and strategic interactions?
 
 ![figure1](./../assets/images/homepage/figure1.png)
 
-2) *Neuromodulation of Social Adaptive Mechanisms*: What are the neural and cognitive mechanisms underlying social adaptation, and how can they be selectively modulated to enhance or alter adaptive behaviors?
+2) *Neuromodulation of Social Adaptive Mechanisms*:
+   What are the neural and cognitive mechanisms underlying social adaptation, and how can they be selectively modulated to enhance or alter adaptive behaviors?
 
 ![figure2](./../assets/images/homepage/figure2.png)
 
-3) *Neurocomputational Dynamics of Reward and Punishment in Human-AI Interactions*: How do reward and punishment systems interact and compete during social decision-making, particularly in the context of human interactions with artificial agents?
+3) *Neurocomputational Dynamics of Reward and Punishment in Human-AI Interactions*:
+   How do reward and punishment systems interact and compete during social decision-making, particularly in the context of human interactions with artificial agents?
 
 ![figure3](./../assets/images/homepage/figure3.png)
 
