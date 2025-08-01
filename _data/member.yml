@@ -5,11 +5,22 @@
       content:
         - I'm a psychologist and neuroscientist!
         - I completed my Ph.D. at the IDG / McGovern Institute for Brain Research at Beijing Normal University. Then I became a faculty in the Department of Psychology, University of Chinese Academy of Sciences. I worked as a visiting associate in the Division of Humanities and Social Sciences, California Institute of Technology, from 2017 to 2019.  Now I work in CCBS at the University of Macau. 
-        - "I am interested in exploring the mechanisms that describe and/or affect behavioral and neural responses during emotion and decision making (both for human and human-AI interaction) in social interaction. My interest also lies in the area of the interactions between social relations cognition and languages. In my research, I use diverse methods (Mturk, psychophysiological recordings, mouse tracking, and fMRI) to find answers to below questions:"
-        - " - How can we compute and measure aspects of social inference, decision making, and strategic interactions?"
-        - " - What is the role of oxytocin in the social adaptation brain?"
-        - " - How do reward and punishment systems interact during social decisions and interaction with AIs?"
-        - " - How representation of social relations be affected by (different) language structure?"
+        - "I am interested in exploring the mechanisms that describe and/or affect behavioral and neural responses during emotion and decision making (both for human and human-AI interaction) in social interaction. My interest also lies in the area of the interactions between social information processing and decision. In my research, I use diverse methods (Mturk, EEE/sEEG recordings, eye/mouse tracking, AI, neuromodulation, and fMRI) to find answers to the following questions:"
+- Computational Modeling and Quantification of Social Cognitive Processes
+
+How can we develop robust computational frameworks to quantify and measure critical dimensions of social inference, decision-making, and strategic interactions?
+
+-Neuromodulation of Social Adaptive Mechanisms
+
+What are the neural and cognitive mechanisms underlying social adaptation, and how can they be selectively modulated to enhance or alter adaptive behaviors?
+
+-Neurocomputational Dynamics of Reward and Punishment in Human-AI Interactions
+
+How do reward and punishment systems interact and compete during social decision-making, particularly in the context of human interactions with artificial agents?
+
+-Representational Dynamics of Social Information and Behavioral Computation
+
+How does the neural and cognitive representation of social information shape behavioral structure and influence computational modes of decision-making?
       social:
         email: haiyanwu@um.edu.mo
         website: "https://haiyanwu.wixsite.com/haiyanwu"
@@ -62,10 +73,6 @@
 
 - title: Research Assistant
   members:
-    - name: Li Zhao
-      image: LiZhao.jpg
-      content: Dr. Li Zhao is a Research Assistant in the lab. She received her Ph.D. in Experimental Psychology from Ohio University in 2019. Her research interests are broad and primarily include concept learning and categorization, stereotype, intergroup relations, decision-making, and computational modeling.
-    
     - name: Eric Wang
       image: eric.png
       content: Eric is an undergraduate student at the Chinese University of Hong Kong majoring in Psychology. He joined as an external part-time RA in 2023. Eric is interested in using decision-making as a window to study the human mind, specifically, he is interested in how the brain processes emotion and social relationships. Currently, he is applying an advance modelling technique called the Hidden Markov Model on neuroimaging data to study dishonesty.
@@ -84,41 +91,41 @@
   alumni_groups:
     - title: Former Postdoc 
       members:
-        - name: Honghui Xu
+       - name: Guochun Yang(PI, GDSIIT)
+       - name: Li Zhao(Assistant Professor, Macau Millenium College)
+       - name: Honghui Xu(Assistant Professor, South-Central University for Nationalities)
           
     - title: Former PhD Students
       members:
-      - name: Siying Li
-      - name: Yanyan Qi
+      - name: Siying Li（Hongkong’）
+      - name: Yanyan Qi(Associate Professor, Zhengzhou University)
       
     - title: Former Master Students
     
       members:
         - name: Cuilin He
         - name: Liwei Tan
-        - name: Mingxin Shao
-        - name: He Miao
+        - name: Mingxin Shao(GDSIIT)
+        - name: He Miao(UM)
+        - name: Junyuan Zheng（RA in the lab）
         - name: Haofei Wu
-        - name: Shuhan Zhang
-        - name: Guoqiu Chen
-        - name: Junyuan Zheng
-        - name: Haofei Wu
-        - name: Shuhan Zhang
-        - name: Guoqiu Chen
-        - name: Qingyuan Wu
-        - name: Yanghua Ye
-        - name: Luoyao Pang
-        - name: Ziqi Zhang
-        - name: Siqi Cao
-        - name: Jiamin Huang
+        - name: Shuhan Zhang（Chongqing Vocational Institute of Tourism）
+        - name: Guoqiu Chen（BNU）
+        - name: Qingyuan Wu（BNU）
+        - name: Yanghua Ye（BYD比亚迪）
+        - name: Luoyao Pang（BNU）
+        - name: Ziqi Zhang(Univerisity of Zurich)
+        - name: Siqi Cao(Oxford)
+        - name: Jiamin Huang(GDSIIT)
         - name: Pengcheng Zhang
          
     - title: Former UG students
       members:
-        - name: Yan Tian
-        - name: Ruien Wang
-        - name: Yuanchen Wang
-        - name: Qi Huang
-        - name: Jiamin Zhang
-        - name: Huidi Li
-        - name: Xianqing Liu
+        - name: Yan Tian(UM)
+        - name: Runquan Yu(NUS)
+        - name: Ruien Wang(QueensCollege)
+        - name: Yuanchen Wang（USC）
+        - name: Qi Huang（Max Plant）
+        - name: Jiamin Zhang(UPenn)
+        - name: Huidi Li(MIT)
+        - name: Xianqing Liu(Uinversity of Iowa)
