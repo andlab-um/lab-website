@@ -15,6 +15,8 @@ permalink: /publication
 ---
 
 ### Preprint
+Hu, K., Zhang, H., Cheng, J., Chen, Y., Zhang, X., Bai, C., Wang, F., Yao, Y., & Wu, H. (2025). **Intracranial Insights into the Developing Neural Basis of Moral Punishment**. bioRxiv. [[Preprint](https://www.biorxiv.org/cgi/content/short/2025.07.27.667012v1){:target="_blank"}]
+
 Wang, R., Luo, Y., Wang, Y., Zhang, L., & Wu, H. (2025). **Towards Naturalistic Social Neuroscience: A Multi-level Framework Integrating Real-world Phenotyping**. Neurobiology, and Computational Mechanisms. [[Preprint](https://doi.org/10.31234/osf.io/5g86c_v1){:target="_blank"}]
 
 Zhang, S., Seak, L. C. U., Dolan, R. J., & Wu H. (2025). **AI in the computation and regulation of social decision-making**. Psyarxiv. [[Preprint](https://doi.org/10.31234/osf.io/uf9g4_v1){:target="_blank"}]
