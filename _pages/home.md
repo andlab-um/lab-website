@@ -34,6 +34,8 @@ The Affective, Neuroscience, and Decision-making lab is led by Prof Haiyan WU, a
 
 ## News
 
+**2025.8.27** Haoming and Kun successfully defended  their PhD today, congratulations!
+
 **2025.7.1** ANDLab's work titled "An intracranial dissection of human escape circuits." is published by *Nature communications*!
 
 **2025.5.10** ANDLab has preprinted a perspective article titled "AI in the computation and regulation of social decision-making."（Authors: Shuo Zhang, Leo Chi U Seak, Raymond J Dolan, and Haiyan Wu）. This article argues that  social decision research should fully leverage the potential of AI to advance task design, data analysis, and human-AI interaction research comprehensively. 
