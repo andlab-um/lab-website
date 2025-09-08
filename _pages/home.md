@@ -34,6 +34,8 @@ The Affective, Neuroscience, and Decision-making lab is led by Prof Haiyan WU, a
 
 ## News
 
+**2025.9.2** Shuo delivered a talk at the Swarma Club on “Agent Modeling and Simulation in the Era of Large-Scale Models.” He explored the similarities and differences between cognitive neuroscience and social science agent modeling, analyzed the applications and limitations of reinforcement learning and neural networks, discussed the advantages and challenges of large-scale models in cognitive tasks, and highlighted their potential in modeling human cognition.
+
 **2025.8.27** Haoming and Kun successfully defended  their PhD today, congratulations!
 
 **2025.7.1** ANDLab's work titled "An intracranial dissection of human escape circuits." is published by *Nature communications*!
