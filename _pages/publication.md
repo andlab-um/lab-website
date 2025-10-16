@@ -15,6 +15,9 @@ permalink: /publication
 ---
 
 ### Preprint
+
+Wang, E., Xu, X., & Wu, H. (2025).**The alternated brain states in resting state after immoral decisions**. bioRxiv. [[Preprint](https://www.biorxiv.org/cgi/content/short/2025.10.12.681853v1){:target="_blank"}]
+
 Hu, K., Zhang, H., Cheng, J., Chen, Y., Zhang, X., Bai, C., Wang, F., Yao, Y., & Wu, H. (2025). **Intracranial Insights into the Developing Neural Basis of Moral Punishment**. bioRxiv. [[Preprint](https://www.biorxiv.org/cgi/content/short/2025.07.27.667012v1){:target="_blank"}]
 
 Wang, R., Luo, Y., Wang, Y., Zhang, L., & Wu, H. (2025). **Towards Naturalistic Social Neuroscience: A Multi-level Framework Integrating Real-world Phenotyping**. Neurobiology, and Computational Mechanisms. [[Preprint](https://doi.org/10.31234/osf.io/5g86c_v1){:target="_blank"}]
@@ -157,3 +160,4 @@ Wu, H., Luo, Y., & Feng, C. (2016). **Neural signatures of social conformity: A 
 Qi, Y., Wu, H., & Liu, X. (2017). **The influences of social value orientation on prosocial behaviors: The evidences from behavioral and neuroimaging studies**. *Chinese Science Bulletin*, 62(11), 1136–1144. [[DOI](https://doi.org/10.1360/N972016-00631){:target='_blank'}]
 
 Wu, H., Luo, Y., & Feng, C. (2016). **Neural signatures of social conformity: A coordinate-based activation likelihood estimation meta-analysis of functional brain imaging studies**. *Neuroscience & Biobehavioral Reviews*, 71, 101–111. [[DOI](https://doi.org/10.1016/j.neubiorev.2016.08.038){:target='_blank'}]
+
