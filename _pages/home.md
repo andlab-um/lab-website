@@ -34,6 +34,9 @@ The Affective, Neuroscience, and Decision-making lab is led by Prof Haiyan WU, a
 
 ## News
 
+**2025.10.27** ANDLab's work titled "EEG Dataset of Exploring Navigation in Virtual Reality." is received by *Science Data Bank*!
+In this study, we aimed to examine the rewards and punishments that individuals with different levels of anxiety encounter during spatial exploration, as well as the impact of social interaction on their navigation ability and desire to explore. To achieve this, we designed an EEG task where participants had to search for landmarks in virtual reality while receiving token rewards or punishments and facial feedback when interact with strangers.This dataset includes EEG recordings from 60 participants during a cognitive task. Additionally, it contains questionnaire responses, behavioral data, and trajectory data collected during the experiment.
+
 **2025.10.15** ANDLab has preprinted an article titled "The alternated brain states in resting state after immoral decisions."(Authors: Eric Wang, Xinyi Xu, and Haiyan Wu).
 
 **2025.9.2** Shuo delivered a talk at the Swarma Club on “Agent Modeling and Simulation in the Era of Large-Scale Models.” He explored the similarities and differences between cognitive neuroscience and social science agent modeling, analyzed the applications and limitations of reinforcement learning and neural networks, discussed the advantages and challenges of large-scale models in cognitive tasks, and highlighted their potential in modeling human cognition.
