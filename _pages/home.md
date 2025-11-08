@@ -34,6 +34,8 @@ The Affective, Neuroscience, and Decision-making lab is led by Prof Haiyan WU, a
 
 ## News
 
+**2025.11.7** ANDLab's work titled "Unraveling the Neurocognitive Mechanisms of Delayed Punishment in Second- and Third-Party Contexts." is received by *Neuroimage*!
+
 **2025.10.27** ANDLab's work titled "EEG Dataset of Exploring Navigation in Virtual Reality." is received by *Science Data Bank*!
 In this study, we aimed to examine the rewards and punishments that individuals with different levels of anxiety encounter during spatial exploration, as well as the impact of social interaction on their navigation ability and desire to explore. To achieve this, we designed an EEG task where participants had to search for landmarks in virtual reality while receiving token rewards or punishments and facial feedback when interact with strangers.This dataset includes EEG recordings from 60 participants during a cognitive task. Additionally, it contains questionnaire responses, behavioral data, and trajectory data collected during the experiment.
 
