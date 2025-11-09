@@ -34,6 +34,8 @@ The Affective, Neuroscience, and Decision-making lab is led by Prof Haiyan WU, a
 
 ## News
 
+**2025.11.9** ANDLab's work titled "Unveiling consistency in flexibility: the role of reward and cognitive control in moral decisions." is accepted by *Imaging Neuroscience*!
+
 **2025.11.7** ANDLab's work titled "Unraveling the Neurocognitive Mechanisms of Delayed Punishment in Second- and Third-Party Contexts." is accepted by *Neuroimage*!
 
 **2025.10.27** ANDLab's work titled "EEG Dataset of Exploring Navigation in Virtual Reality." is accepted by *Scientific Data*!
