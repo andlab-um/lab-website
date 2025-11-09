@@ -28,11 +28,13 @@ Xu, X. J., Mobbs, D., & Wu, H. (2024). **Unethical amnesia brain: Memory and met
 
 Zhang, S., Wu, H., Hu, K., Liu.Q., & Wu, H. (2023). **Irrelevant social comparison affects exploration of uncertainty and its association with subjective expectations**. Psyarxiv. [[Preprint](https://psyarxiv.com/74qvb/){:target="_blank"}]
 
-Xu, X. J., Yang, G., Huang, J., Wang, R., & Wu, H. (2023). **Unveiling consistency in flexibility: the role of reward and cognitive control in moral decisions**. bioRxiv. [[Preprint](https://doi.org/10.1101/2023.06.17.545416){:target="_blank"}]
+---
 
 ### 2025
 
-Huang, J., He, Y., Chen, Z., Cai, Q., Yao, Y., Wang, Y., Qi, Y., & Wu, H. (2025). **Unraveling the Neurocognitive Mechanisms of Delayed Punishment in Second- and Third-Party Contexts**. *Neuroimage*. [[DOI](https://www.biorxiv.org/content/10.1101/2025.02.25.640024v1){:target="_blank"}]
+Xu, X. J., Yang, G., Huang, J., Wang, R., & Wu, H. (2025). **Unveiling consistency in flexibility: the role of reward and cognitive control in moral decisions**. *Imaging Neuroscience*. [[DOI](https://doi.org/10.1101/2023.06.17.545416){:target="_blank"}]
+
+Huang, J., He, Y., Chen, Z., Cai, Q., Yao, Y., Wang, Y., Qi, Y., & Wu, H. (2025). **Unraveling the Neurocognitive Mechanisms of Delayed Punishment in Second- and Third-Party Contexts**. *Neuroimage*. [[DOI](https://doi.org/10.1016/j.neuroimage.2025.121574){:target="_blank"}]
 
 Zheng, J., Chen, X., & Wu, H. (2025). **EEG Dataset of Exploring Navigation in Virtual Reality [Data set]**. *Scientific Data*. [[DOI](https://doi.org/10.57760/sciencedb.23155){:target="_blank"}]
 
@@ -162,6 +164,7 @@ Wu, H., Luo, Y., & Feng, C. (2016). **Neural signatures of social conformity: A 
 Qi, Y., Wu, H., & Liu, X. (2017). **The influences of social value orientation on prosocial behaviors: The evidences from behavioral and neuroimaging studies**. *Chinese Science Bulletin*, 62(11), 1136–1144. [[DOI](https://doi.org/10.1360/N972016-00631){:target='_blank'}]
 
 Wu, H., Luo, Y., & Feng, C. (2016). **Neural signatures of social conformity: A coordinate-based activation likelihood estimation meta-analysis of functional brain imaging studies**. *Neuroscience & Biobehavioral Reviews*, 71, 101–111. [[DOI](https://doi.org/10.1016/j.neubiorev.2016.08.038){:target='_blank'}]
+
 
 
 
