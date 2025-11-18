@@ -32,7 +32,7 @@ Zhang, S., Wu, H., Hu, K., Liu.Q., & Wu, H. (2023). **Irrelevant social comparis
 
 ### 2025
 
-Xu, X. J., Yang, G., Huang, J., Wang, R., & Wu, H. (2025). **Unraveling the neural basis of repeated moral decisions with mouse tracking and fMRI**. *Imaging Neuroscience*. [[DOI](https://doi.org/10.1101/2023.06.17.545416){:target="_blank"}]
+Xu, X. J., Yang, G., Huang, J., Wang, R., & Wu, H. (2025). **Unraveling the neural basis of repeated moral decisions with mouse tracking and fMRI**. *Imaging Neuroscience*. [[DOI](https://doi.org/10.1162/IMAG.a.1047){:target="_blank"}]
 
 Huang, J., He, Y., Chen, Z., Cai, Q., Yao, Y., Wang, Y., Qi, Y., & Wu, H. (2025). **Unraveling the Neurocognitive Mechanisms of Delayed Punishment in Second- and Third-Party Contexts**. *Neuroimage*. [[DOI](https://doi.org/10.1016/j.neuroimage.2025.121574){:target="_blank"}]
 
@@ -164,6 +164,7 @@ Wu, H., Luo, Y., & Feng, C. (2016). **Neural signatures of social conformity: A 
 Qi, Y., Wu, H., & Liu, X. (2017). **The influences of social value orientation on prosocial behaviors: The evidences from behavioral and neuroimaging studies**. *Chinese Science Bulletin*, 62(11), 1136–1144. [[DOI](https://doi.org/10.1360/N972016-00631){:target='_blank'}]
 
 Wu, H., Luo, Y., & Feng, C. (2016). **Neural signatures of social conformity: A coordinate-based activation likelihood estimation meta-analysis of functional brain imaging studies**. *Neuroscience & Biobehavioral Reviews*, 71, 101–111. [[DOI](https://doi.org/10.1016/j.neubiorev.2016.08.038){:target='_blank'}]
+
 
 
 
