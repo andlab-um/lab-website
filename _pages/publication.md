@@ -36,7 +36,7 @@ Xu, X. J., Yang, G., Huang, J., Wang, R., & Wu, H. (2025). **Unraveling the neur
 
 Huang, J., He, Y., Chen, Z., Cai, Q., Yao, Y., Wang, Y., Qi, Y., & Wu, H. (2025). **Unraveling the Neurocognitive Mechanisms of Delayed Punishment in Second- and Third-Party Contexts**. *Neuroimage*. [[DOI](https://doi.org/10.1016/j.neuroimage.2025.121574){:target="_blank"}]
 
-Zheng, J., Chen, X., & Wu, H. (2025). **EEG Dataset of Exploring Navigation in Virtual Reality [Data set]**. *Scientific Data*. [[DOI](https://doi.org/10.57760/sciencedb.23155){:target="_blank"}]
+Zheng, J., Chen, X., & Wu, H. (2025). **An EEG Dataset of Exploring Navigation in Virtual Reality**. *Scientific Data*. [[DOI](https://doi.org/10.1038/s41597-025-06175-2){:target="_blank"}]
 
 Zhang, H., Cheng, J., Hu, K., Wang, F., Qi, S., Liu, Q., Yao, Y., Mobbs, D., & Wu, H. (2025). **An intracranial dissection of human escape circuits**. *Nature Communications*. [[DOI](https://doi.org/10.1038/s41467-025-60666-9){:target="_blank"}]
 
@@ -164,6 +164,7 @@ Wu, H., Luo, Y., & Feng, C. (2016). **Neural signatures of social conformity: A 
 Qi, Y., Wu, H., & Liu, X. (2017). **The influences of social value orientation on prosocial behaviors: The evidences from behavioral and neuroimaging studies**. *Chinese Science Bulletin*, 62(11), 1136–1144. [[DOI](https://doi.org/10.1360/N972016-00631){:target='_blank'}]
 
 Wu, H., Luo, Y., & Feng, C. (2016). **Neural signatures of social conformity: A coordinate-based activation likelihood estimation meta-analysis of functional brain imaging studies**. *Neuroscience & Biobehavioral Reviews*, 71, 101–111. [[DOI](https://doi.org/10.1016/j.neubiorev.2016.08.038){:target='_blank'}]
+
 
 
 
