@@ -8,7 +8,7 @@ permalink: /publication
 ## Publication
 *We are committed to open science and to sharing  data and code from our publications.*
 
-**Categories:** [Preprint](#preprint)&ensp; [2026](#2025)&ensp; [2025](#2025)&ensp; [2024](#2024)&ensp; [2023](#2023)&ensp; [2022](#2022)&ensp; [2021](#2021)&ensp; [2020](#2020)&ensp; [Earlier](#earlier)
+**Categories:** [Preprint](#preprint)&ensp; [2026](#2026)&ensp; [2025](#2025)&ensp; [2024](#2024)&ensp; [2023](#2023)&ensp; [2022](#2022)&ensp; [2021](#2021)&ensp; [2020](#2020)&ensp; [Earlier](#earlier)
 
 [Download bibtex citations](/assets/files/ANDlab-publications-Bibtex_2025_10_27.bib)
 
@@ -170,6 +170,7 @@ Wu, H., Luo, Y., & Feng, C. (2016). **Neural signatures of social conformity: A 
 Qi, Y., Wu, H., & Liu, X. (2017). **The influences of social value orientation on prosocial behaviors: The evidences from behavioral and neuroimaging studies**. *Chinese Science Bulletin*, 62(11), 1136–1144. [[DOI](https://doi.org/10.1360/N972016-00631){:target='_blank'}]
 
 Wu, H., Luo, Y., & Feng, C. (2016). **Neural signatures of social conformity: A coordinate-based activation likelihood estimation meta-analysis of functional brain imaging studies**. *Neuroscience & Biobehavioral Reviews*, 71, 101–111. [[DOI](https://doi.org/10.1016/j.neubiorev.2016.08.038){:target='_blank'}]
+
 
 
 
