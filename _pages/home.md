@@ -34,6 +34,9 @@ The Affective, Neuroscience, and Decision-making lab is led by Prof Haiyan WU, a
 
 ## News
 
+**2026.1.26** ANDLab's work titled "Towards Naturalistic Social Neuroscience: A Multi-level Framework Integrating Real-world
+Phenotyping, Neurobiology, and Computational Mechanisms" is accepted by *Cognitive, Affective, and Behavioral Neuroscience*!
+
 **2025.11.22** ANDLab's collaborative work titled "Charting brain morphology in international healthy and neurological populations" has been published in *Nature Neuroscience*!
 
 <img src="./../assets/images/news/NN_2025_11_22.png" align="center" width="600">
