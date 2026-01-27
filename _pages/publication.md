@@ -32,6 +32,8 @@ Zhang, S., Wu, H., Hu, K., Liu.Q., & Wu, H. (2023). **Irrelevant social comparis
 
 ### 2026
 
+Leong, I. L., Wang X., & Wu, H. (2026). **Oxytocin’s impact on the social brain: Individual differences and context shape a core amygdala-mediated mechanism**. *Neuroscience & Biobehavioral Reviews*. [[DOI](https://doi.org/10.1016/j.neubiorev.2026.106566){:target="_blank"}]
+
 Zhang, G., Zhang, S., & Wu, H. (2026). **AI-Augmented Computational Modeling of Human Behavior**. In: Xu, W. (eds) Handbook of Human-Centered Artificial Intelligence. Springer, Singapore. [[DOI](https://doi.org/10.1007/978-981-97-8440-0_111-1){:target="_blank"}]
 
 ---
@@ -170,6 +172,7 @@ Wu, H., Luo, Y., & Feng, C. (2016). **Neural signatures of social conformity: A 
 Qi, Y., Wu, H., & Liu, X. (2017). **The influences of social value orientation on prosocial behaviors: The evidences from behavioral and neuroimaging studies**. *Chinese Science Bulletin*, 62(11), 1136–1144. [[DOI](https://doi.org/10.1360/N972016-00631){:target='_blank'}]
 
 Wu, H., Luo, Y., & Feng, C. (2016). **Neural signatures of social conformity: A coordinate-based activation likelihood estimation meta-analysis of functional brain imaging studies**. *Neuroscience & Biobehavioral Reviews*, 71, 101–111. [[DOI](https://doi.org/10.1016/j.neubiorev.2016.08.038){:target='_blank'}]
+
 
 
 
