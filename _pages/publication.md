@@ -171,7 +171,8 @@ Wu, H., Luo, Y., & Feng, C. (2016). **Neural signatures of social conformity: A 
 
 Qi, Y., Wu, H., & Liu, X. (2017). **The influences of social value orientation on prosocial behaviors: The evidences from behavioral and neuroimaging studies**. *Chinese Science Bulletin*, 62(11), 1136–1144. [[DOI](https://doi.org/10.1360/N972016-00631){:target='_blank'}]
 
-Wu, H., Luo, Y., & Feng, C. (2016). **Neural signatures of social conformity: A coordinate-based activation likelihood estimation meta-analysis of functional brain imaging studies**. *Neuroscience & Biobehavioral Reviews*, 71, 101–111. [[DOI](https://doi.org/10.1016/j.neubiorev.2016.08.038){:target='_blank'}]
+Wu, H., Tang, P., Huang, X. et al. (2013). **Differentiating electrophysiological response to decrease and increase negative emotion regulation**. *Chinese Science Bulletin*. 58, 1543–1550. [[DOI](https://doi.org/10.1007/s11434-013-5746-x){:target='_blank'}]
+
 
 
 
