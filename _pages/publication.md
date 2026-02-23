@@ -77,6 +77,8 @@ Zhang. S., Tian, Y., Liu. Q., & Wu, H. (2024). **The Neural Correlates of Ambigu
 
 Qu Y., Du P., Che W., Wei C, Zhang C., Ouyang W, Bian Y, Xu F, Hu B, Du K, **Wu H**, Liu J, & Liu Q. (2024) Promoting interactions between cognitive science and large language models. *The Innovation*, 5(2), 100579. [[DOI](https://doi.org/10.1016/j.xinn.2024.100579){:target="_blank"}]
 
+王鑫泽, 伍海燕. (2024). **认知和行为的计算建模**. 第4章. in: 许为. (eds) 人智交互: 以人为中心的人工智能. 清华大学出版社.
+
 ---
 
 ### 2023
@@ -175,6 +177,7 @@ Wu, H., Luo, Y., & Feng, C. (2016). **Neural signatures of social conformity: A 
 Qi, Y., Wu, H., & Liu, X. (2017). **The influences of social value orientation on prosocial behaviors: The evidences from behavioral and neuroimaging studies**. *Chinese Science Bulletin*, 62(11), 1136–1144. [[DOI](https://doi.org/10.1360/N972016-00631){:target='_blank'}]
 
 Wu, H., Tang, P., Huang, X. et al. (2013). **Differentiating electrophysiological response to decrease and increase negative emotion regulation**. *Chinese Science Bulletin*. 58, 1543–1550. [[DOI](https://doi.org/10.1007/s11434-013-5746-x){:target='_blank'}]
+
 
 
 
