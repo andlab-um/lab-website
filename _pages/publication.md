@@ -32,8 +32,9 @@ Zhang, S., Wu, H., Hu, K., Liu.Q., & Wu, H. (2023). **Irrelevant social comparis
 
 ### 2026
 
-Chen, S., Li, B., He, C., Li, D., Wu, M., Shen, X., Wang, S., Wei, X., Wang, X., Wu, H., & Liu, Q. **An EEG Dataset for Multimodal Semantic Alignment and Neural Decoding during Reading and Listening**. *Scientific Data*. [[DOI](https://doi.org/10.1038/s41597-025-06466-8){:target="_blank"}]
+Wang, R., Luo, Y., Wang, Y., Zhang, L., & Wu, H. (2026). **Towards Naturalistic Social Neuroscience: A Multi-level Framework Integrating Real-world Phenotyping**. *Cognitive, Affective & Behavioral Neuroscience*. [[DOI](https://doi.org/10.3758/s13415-026-01413-5){:target="_blank"}]
 
+Chen, S., Li, B., He, C., Li, D., Wu, M., Shen, X., Wang, S., Wei, X., Wang, X., Wu, H., & Liu, Q. **An EEG Dataset for Multimodal Semantic Alignment and Neural Decoding during Reading and Listening**. *Scientific Data*. [[DOI](https://doi.org/10.1038/s41597-025-06466-8){:target="_blank"}]
 
 Leong, I. L., Wang X., & Wu, H. (2026). **Oxytocin’s impact on the social brain: Individual differences and context shape a core amygdala-mediated mechanism**. *Neuroscience & Biobehavioral Reviews*. [[DOI](https://doi.org/10.1016/j.neubiorev.2026.106566){:target="_blank"}]
 
@@ -177,6 +178,7 @@ Wu, H., Luo, Y., & Feng, C. (2016). **Neural signatures of social conformity: A 
 Qi, Y., Wu, H., & Liu, X. (2017). **The influences of social value orientation on prosocial behaviors: The evidences from behavioral and neuroimaging studies**. *Chinese Science Bulletin*, 62(11), 1136–1144. [[DOI](https://doi.org/10.1360/N972016-00631){:target='_blank'}]
 
 Wu, H., Tang, P., Huang, X. et al. (2013). **Differentiating electrophysiological response to decrease and increase negative emotion regulation**. *Chinese Science Bulletin*. 58, 1543–1550. [[DOI](https://doi.org/10.1007/s11434-013-5746-x){:target='_blank'}]
+
 
 
 
