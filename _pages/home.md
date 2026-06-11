@@ -40,7 +40,7 @@ The Affective, Neuroscience, and Decision-making lab is led by Prof Haiyan WU, a
   <img src="./../assets/images/news/ANDLab_2026_06_08_2.png" alt="ANDLab 2026-06-08 news image 2">
 </div>
 
-**2026.06.05** ANDLab member Eric R. W. Wang, together with Rui Jing and Haiyan Wu, released a preprint titled "ANDrate toolbox: A tutorial for collecting behavioral data in naturalistic stimuli in a Python-based toolbox" on PsyArXiv.
+**2026.06.05** ANDLab member Eric R. W. Wang released a preprint titled "ANDrate toolbox: A tutorial for collecting behavioral data in naturalistic stimuli in a Python-based toolbox" on PsyArXiv.
 
 
 
