@@ -34,11 +34,8 @@ The Affective, Neuroscience, and Decision-making lab is led by Prof Haiyan WU, a
 
 ## News
 **2026.06.08** ANDLab held a birthday celebration for two lab members, bringing everyone together to share happiness, warmth, and best wishes.
+<img src="./../assets/images/news/ANDLab_2026_06_08_1.png" align="center" width="600">
 
-<div class="news-gallery">
-  <img src="./../assets/images/news/ANDLab_2026_06_08_1.png" alt="ANDLab 2026-06-08 news image 1">
-  <img src="./../assets/images/news/ANDLab_2026_06_08_2.png" alt="ANDLab 2026-06-08 news image 2">
-</div>
 
 **2026.06.05** ANDLab member Eric R. W. Wang released a preprint titled "ANDrate toolbox: A tutorial for collecting behavioral data in naturalistic stimuli in a Python-based toolbox" on PsyArXiv.
 
@@ -51,11 +48,8 @@ The Affective, Neuroscience, and Decision-making lab is led by Prof Haiyan WU, a
 <img src="./../assets/images/news/ANDLab_2026_05_07.png" align="center" width="600">
 **2026.04.26** ANDLab organized an outdoor camping gathering, where lab members relaxed, shared food, and enjoyed a pleasant time together.
 
-<div class="news-gallery">
-  <img src="./../assets/images/news/ANDLab_2026_04_26_1.png" alt="ANDLab 2026-04-26 news image 1">
-  <img src="./../assets/images/news/ANDLab_2026_04_26_2.png" alt="ANDLab 2026-04-26 news image 2">
-  <img src="./../assets/images/news/ANDLab_2026_04_26_3.png" alt="ANDLab 2026-04-26 news image 3">
-</div>
+<img src="./../assets/images/news/ANDLab_2026_04_26_1.png" align="center" width="600">
+
 
 **2026.03.11** ANDLab members attended the CCBS Seminar Series talk by Prof. Nikolai Axmacher on memory traces, transformation, and impairment in the human brain, and had in-depth discussions with Prof. Liu Jing and Prof. Axmacher on sEEG data analysis.
 

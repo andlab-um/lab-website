@@ -143,15 +143,16 @@ strong {
 }
 
 #homeid .news-gallery {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    display: flex;
     gap: 14px;
+    align-items: stretch;
     margin: 10px 0 18px;
+    flex-wrap: wrap;
 
     img {
-        width: 100%;
+        flex: 1 1 0;
+        width: 0;
         height: 260px;
-        max-width: none;
         max-height: none;
         object-fit: cover;
         margin: 0 !important;
@@ -161,6 +162,7 @@ strong {
 @media (max-width: 767px) {
     #homeid .news-gallery {
         img {
+            flex-basis: 100%;
             width: 100%;
             height: 220px;
         }
