@@ -142,6 +142,33 @@ strong {
     margin-top: .3em;
 }
 
+#homeid .news-gallery {
+    display: flex;
+    gap: 10px;
+    align-items: stretch;
+    margin: 10px 0 18px;
+    flex-wrap: wrap;
+
+    img {
+        flex: 1 1 0;
+        width: 0;
+        height: 260px;
+        max-height: none;
+        object-fit: cover;
+        margin: 0 !important;
+    }
+}
+
+@media (max-width: 767px) {
+    #homeid .news-gallery {
+        img {
+            flex-basis: 100%;
+            width: 100%;
+            height: 220px;
+        }
+    }
+}
+
 // publication
 .panel-default .panel-heading {
     background-color: $block-bg;
