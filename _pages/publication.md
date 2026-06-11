@@ -16,6 +16,9 @@ permalink: /publication
 
 ### Preprint
 
+Wang, E. R. W., Jing, R., & Wu, H. (2025). **ANDrate toolbox: A tutorial for collecting behavioral data in naturalistic stimuli in a Python-based toolbox**. Psyarxiv. [[Preprint](osf.io/preprints/psyarxiv/j2fpy_v1){:target="_blank"}]
+
+
 Wang, E., Xu, X., & Wu, H. (2025).**The alternated brain states in resting state after immoral decisions**. bioRxiv. [[Preprint](https://www.biorxiv.org/cgi/content/short/2025.10.12.681853v1){:target="_blank"}]
 
 Hu, K., Zhang, H., Cheng, J., Chen, Y., Zhang, X., Bai, C., Wang, F., Yao, Y., & Wu, H. (2025). **Intracranial Insights into the Developing Neural Basis of Moral Punishment**. bioRxiv. [[Preprint](https://www.biorxiv.org/cgi/content/short/2025.07.27.667012v1){:target="_blank"}]
