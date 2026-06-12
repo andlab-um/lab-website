@@ -59,9 +59,6 @@ The Affective, Neuroscience, and Decision-making lab is led by Prof Haiyan WU, a
 **2026.03.11** ANDLab members attended the CCBS Seminar Series talk by Prof. Nikolai Axmacher on memory traces, transformation, and impairment in the human brain, and had in-depth discussions with Prof. Liu Jing and Prof. Axmacher on sEEG data analysis.
 
 
-**2026.02.05** ANDLab warmly welcomed Prof. Liang Zhang and Prof. Yan Ge for an academic exchange and guidance visit at the University of Macau!
-
-
 **2026.1.26** ANDLab's work titled "Towards Naturalistic Social Neuroscience: A Multi-level Framework Integrating Real-world
 Phenotyping, Neurobiology, and Computational Mechanisms" is accepted by *Cognitive, Affective, and Behavioral Neuroscience*!
 
