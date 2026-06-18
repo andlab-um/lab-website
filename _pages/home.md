@@ -33,6 +33,8 @@ The Affective, Neuroscience, and Decision-making lab is led by Prof Haiyan WU, a
 
 
 ## News
+**2026.06.18** Congratulations to ANDLab on the publication of a new article titled **“EEG Evidence of Decisions Under Social Influence and Ambiguity”** in **NeuroImage**!
+
 **2026.06.12** Congratulations to ANDLab master's student Liu Yutong on successfully passing her thesis defense!
 
 <img src="./../assets/images/news/yutong20260612.jpg" align="center" width="600">
