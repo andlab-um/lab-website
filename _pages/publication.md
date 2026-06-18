@@ -33,6 +33,7 @@ Zhang, S., Wu, H., Hu, K., Liu.Q., & Wu, H. (2023). **Irrelevant social comparis
 ---
 
 ### 2026
+Li, Z., Ma, J., Yang, J., Yang, G., Liu, X., & Wu, H. (2026). **EEG Evidence of Decisions Under Social Influence and Ambiguity**. *NeuroImage*, 122063. [[DOI](https://doi.org/10.1016/j.neuroimage.2026.122063){:target="_blank"}]
 
 Wang, R., Luo, Y., Wang, Y., Zhang, L., & Wu, H. (2026). **Towards Naturalistic Social Neuroscience: A Multi-level Framework Integrating Real-world Phenotyping**. *Cognitive, Affective & Behavioral Neuroscience*. [[DOI](https://doi.org/10.3758/s13415-026-01413-5){:target="_blank"}]
 
