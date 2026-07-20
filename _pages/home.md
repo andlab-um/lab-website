@@ -33,9 +33,9 @@ The Affective, Neuroscience, and Decision-making lab is led by Prof Haiyan WU, a
 
 
 ## News
-**2026.07.20** Congratulations to Prof. Wu on being featured in an interview with the University of Macau! The topic of the interview is **"Neural Mechanisms of Human Escape"**. Watch the full interview below:
-<iframe width="600" height="338" src="https://www.youtube.com/embed/ZwCO3uEEqU4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**2026.07.20** Congratulations to Prof. Wu on being featured in an interview with the University of Macau! The topic of the interview is **"Neural Mechanisms of Human Escape"**. Watch the full interview below
 
+<iframe width="600" height="338" src="https://www.youtube.com/embed/ZwCO3uEEqU4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen align="center"></iframe>
 
 
 **2026.06.18** Congratulations to ANDLab on the publication of a new article titled **[“EEG Evidence of Decisions Under Social Influence and Ambiguity”](https://doi.org/10.1016/j.neuroimage.2026.122063){:target="_blank"}** in **NeuroImage**!
