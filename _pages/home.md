@@ -40,8 +40,7 @@ During the visit, Dr. Duan will collaborate closely with our team and contribute
 
 **2026.07.20** Congratulations to Prof. Wu on being featured in an interview with the University of Macau! The topic of the interview is **"Neural Mechanisms of Human Escape"**. Watch the full interview below
 
-<iframe width="600" height="338" src="https://www.youtube.com/embed/ZwCO3uEEqU4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen align="center"></iframe>
-
+<iframe width="1001" height="563" src="https://www.youtube.com/embed/T1RF5U221T4" title="【澳大研究】人類逃逸神經機制 Research Projects at UM: Neural Mechanisms of Human Escape" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **2026.06.18** Congratulations to ANDLab on the publication of a new article titled **[“EEG Evidence of Decisions Under Social Influence and Ambiguity”](https://doi.org/10.1016/j.neuroimage.2026.122063){:target="_blank"}** in **NeuroImage**!
 
