@@ -33,6 +33,10 @@ The Affective, Neuroscience, and Decision-making lab is led by Prof Haiyan WU, a
 
 
 ## News
+**2026.08.01** We are delighted to welcome Dr. Duan (段博士) from Ningbo University to AND Lab as a visiting scholar.
+During the visit, Dr. Duan will collaborate closely with our team and contribute to AND Lab's ongoing research on decision neuroscience and human–AI decision. We look forward to the fresh perspectives and new collaborations that Dr. Duan brings to the lab.
+
+
 **2026.07.20** Congratulations to Prof. Wu on being featured in an interview with the University of Macau! The topic of the interview is **"Neural Mechanisms of Human Escape"**. Watch the full interview below
 
 <iframe width="600" height="338" src="https://www.youtube.com/embed/ZwCO3uEEqU4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen align="center"></iframe>
