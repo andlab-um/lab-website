@@ -40,6 +40,7 @@ We are delighted to announce that several former members of ANDlab – including
 Specifically, we extend our warmest congratulations to:
 
 [Guochun Yang, former visiting scholar] – awarded the NSFC General Program (面上项目) 2026
+
 [Honghui XU, former postdoc] – awarded the NSFC Young Scientists Fund (青年科学基金项目) 2026
 
 We are incredibly proud of their success and take great joy in seeing their careers flourish beyond ANDlab.
