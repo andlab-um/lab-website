@@ -38,9 +38,11 @@ The Affective, Neuroscience, and Decision-making lab is led by Prof Haiyan WU, a
 We are delighted to announce that several former members of ANDlab – including alumni and postdoctoral researchers – have received prestigious funding from the National Natural Science Foundation of China (NSFC).
 
 Specifically, we extend our warmest congratulations to:
+
 [Guochun Yang, former visiting scholar] – awarded the NSFC General Program (面上项目) 2026
 [Honghui XU, former postdoc] – awarded the NSFC Young Scientists Fund (青年科学基金项目) 2026
- We are incredibly proud of their success and take great joy in seeing their careers flourish beyond ANDlab.
+
+We are incredibly proud of their success and take great joy in seeing their careers flourish beyond ANDlab.
 
 We hope this wonderful news inspires our current team and reaffirms the supportive, collaborative environment that we strive to maintain. Well done – we look forward to following your future accomplishments!
 
