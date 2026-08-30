@@ -35,9 +35,10 @@ The Affective, Neuroscience, and Decision-making lab is led by Prof Haiyan WU, a
 ## News
 **2026.08.29** Congratulations to our lab's master student Jiawen Yang on winning the Best Poster Award at The 7th Macau Symposium on Cognitive and Brain Sciences (MSCBS 2026)! A fantastic achievement—well deserved! 🎉
 
-<img src="./../assets/images/news/jiawen1.jpg" align="center" width="600">
-
-<img src="./../assets/images/news/jiawen2.jpg" align="center" width="600">
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="./../assets/images/news/jiawen1.jpg" style="width: 45%; height: auto;">
+  <img src="./../assets/images/news/jiawen2.jpg" style="width: 45%; height: auto;">
+</div>
 
 
 **2026.08.27** Congratulations to Our Former Alumni and Postdocs on NSFC Grants!
