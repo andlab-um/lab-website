@@ -1,0 +1,102 @@
+:root {
+    --site-type-display: clamp(32px, 3.3vw, 56px);
+}
+
+.page-home {
+    --home-type-display: var(--site-type-display);
+    --home-type-section: clamp(28px, 2.2vw, 36px);
+    --home-type-card: 22px;
+    --home-type-lead: 18px;
+    --home-type-body: 16px;
+    --home-type-caption: 14px;
+    font-family: $main-font;
+
+    .lab-title h2,
+    #homeid .research-map #research-map-title {
+        font-family: $main-font;
+        font-size: var(--home-type-display);
+        font-weight: 700;
+        line-height: 1.12;
+        letter-spacing: -.03em;
+    }
+
+    .lab-intro,
+    #homeid .research-map .research-map__intro {
+        font-family: $main-font;
+        font-size: var(--home-type-lead);
+        font-weight: 400;
+        line-height: 1.7;
+    }
+
+    #homeid {
+        .section-heading h2,
+        #news {
+            font-family: $main-font;
+            font-size: var(--home-type-section);
+            font-weight: 700;
+            line-height: 1.2;
+            letter-spacing: -.025em;
+        }
+
+        .direction-card .direction-card-title h3,
+        .news-orbit-card__title {
+            font-family: $main-font;
+            font-size: var(--home-type-card);
+            font-weight: 700;
+            line-height: 1.4;
+            letter-spacing: -.015em;
+        }
+
+        .direction-card .direction-card-copy p,
+        .news-orbit-card__summary {
+            font-family: $main-font;
+            font-size: var(--home-type-body);
+            font-weight: 400;
+            line-height: 1.6;
+        }
+
+        .news-orbit-card__meta,
+        .news-orbit-card__credit {
+            font-family: $main-font;
+            font-size: var(--home-type-caption);
+            line-height: 1.5;
+        }
+
+        .research-map {
+            .research-map__stage,
+            .research-map__method strong,
+            .research-map__context h4,
+            .research-map__node strong {
+                font-family: $main-font;
+                font-size: var(--home-type-lead);
+                font-weight: 600;
+                line-height: 1.5;
+                letter-spacing: -.015em;
+            }
+
+            .research-map__method span > span,
+            .research-map__method small,
+            .research-map__context p,
+            .research-map__link-detail p,
+            .research-map__node small,
+            .research-map__timescale-note {
+                font-family: $main-font;
+                font-size: var(--home-type-body);
+                font-weight: 400;
+                line-height: 1.6;
+            }
+
+            .research-map__eyebrow,
+            .research-map__stage > span,
+            .research-map__mind > span {
+                font-family: $main-font;
+                font-size: var(--home-type-caption);
+                line-height: 1.5;
+            }
+        }
+    }
+
+    @media (max-width: 767px) {
+        --home-type-card: 20px;
+    }
+}

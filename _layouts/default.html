@@ -3,19 +3,22 @@
 
   {% include head.html %}
 
-  <body>
+  <body class="page page-{{ page.title | downcase | replace: ' ', '-' }}">
 
     {% include header.html %}
 
-    <div class="container-fluid">
-      <div class="col-sm-12">
-        <div class="row">
-          {{ content }}
+    <main class="site-main">
+      <div class="container-fluid site-container">
+        <div class="col-sm-12">
+          <div class="row">
+            {{ content }}
+          </div>
         </div>
       </div>
-    </div>
+    </main>
 
     {% include footer.html %}
+    {% unless page.title == 'Home' %}<script src="{{ '/assets/js/inner-pages.js' | relative_url }}" defer></script>{% endunless %}
   </body>
 
 </html>

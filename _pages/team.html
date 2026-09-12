@@ -5,70 +5,64 @@ sitemap: false
 permalink: /team
 ---
 
-{% for group in site.data.member %}
-    <h3>{{ group.title }}</h3>
-    <!-- for alumnis -->
-    {% if group.title == "Alumni" %}
-        {% for alumni_group in group.alumni_groups %}
-            <h4>{{ alumni_group.title}}</h4>
-            {% for member in alumni_group.members %}
-                <!-- check links -->
-                {% if member.social.website %}
-                    {% assign alumni_link = member.social.website %}
-                {% elsif member.social.google-scholar %}
-                    {% assign alumni_link = member.social.google-scholar %}
-                {% elsif member.socia.github %}
-                    {% assign alumni_link = member.social.github %}
-                {% else %}
-                    {% assign alumni_link = false %}
-                {% endif %}
-                <!-- add text or link -->
-                {% if alumni_link %}
-                    <li style="margin-left: .5em;"><a href="{{ alumni_link }}">{{member.name}}</a></li>
-                {% else %}
-                    <li style="margin-left: .5em;">{{member.name}}</li>
-                {% endif %}
+<div class="inner-page people-view">
+    <header class="inner-hero">
+        <p class="section-kicker">AND Lab</p>
+        <h1>Our Team</h1>
+        <p>Meet the researchers, students, and collaborators advancing affective neuroscience and decision-making research.</p>
+    </header>
+    {% for group in site.data.member %}
+    <section class="people-group{% if group.title == 'Principal Investigator' %} people-group--pi{% endif %}" id="{{ group.title | slugify }}">
+        <div class="group-heading">
+            <span class="section-kicker">0{{ forloop.index }}</span>
+            <h2>{{ group.title }}</h2>
+        </div>
+        {% if group.title == "Alumni" %}
+        <div class="alumni-groups">
+            {% for alumni_group in group.alumni_groups %}
+            <section class="alumni-group">
+                <h3>{{ alumni_group.title }}</h3>
+                <ul class="people-alumni">
+                {% for member in alumni_group.members %}
+                    {% if member.social.website %}
+                        {% assign alumni_link = member.social.website %}
+                    {% elsif member.social.google-scholar %}
+                        {% assign alumni_link = member.social.google-scholar %}
+                    {% elsif member.social.github %}
+                        {% assign alumni_link = member.social.github %}
+                    {% else %}
+                        {% assign alumni_link = false %}
+                    {% endif %}
+                    <li>{% if alumni_link %}<a href="{{ alumni_link }}">{{ member.name }}</a>{% else %}{{ member.name }}{% endif %}</li>
+                {% endfor %}
+                </ul>
+            </section>
             {% endfor %}
-        {% endfor %}
-    
-    {% else %}
-        <!-- for current members -->
-        {% for member in group.members %}
-            <div class="card team-member-card">
-                <div class="row mt-3">
-                    <div class="col-md-2 team-member-image">
-                        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/team/{{ member.image }}"
-                            class="card-img img-responsive img-thumbnail">
-                        <!-- Social -->
-                        <ul class="list-inline list-unstyled social-icon">
-                            <!-- Email -->
-                            {% if member.social.email %}
-                                <li><a target="blank" href="mailto:{{ member.social.email }}" title="{{ member.social.email }}"><i class="fas fa-envelope"></i></a></li>
-                            {% endif %}
-                            <!-- Personal Website -->
-                            {% if member.social.website %}
-                                <li><a target="blank" href="{{ member.social.website }}"><i class="fas fa-globe"></i></a></li>
-                            {% endif %}
-                            <!-- Github -->
-                            {% if member.social.github %}
-                                <li><a target="blank" href="{{ member.social.github }}"><i class="fab fa-github"></i></a></li>
-                            {% endif %}
-                            <!-- Google Scholar -->
-                            {% if member.social.google-scholar %}
-                                <li><a target="blank" href="{{ member.social.google-scholar }}"><i class="fab fa-google"></i></a></li>
-                            {% endif %}
-                        </ul>
-                    </div>
-                    <div class="col-md-10">
-                        <div class="card-body">
-                            <h4 class="card-title">{{ member.name }}</h4>
-                            {% for cont in member.content %}
-                                <p class="card-text">{{ cont }}</p>
-                            {% endfor %}
-                        </div>
-                    </div>
+        </div>
+        {% else %}
+        <div class="people-grid">
+            {% for member in group.members %}
+            <article class="person">
+                <div class="person-portrait">
+                    <img src="{{ '/assets/images/team/' | append: member.image | relative_url }}" alt="{{ member.name }}" loading="lazy">
+                    <ul class="person-links" aria-label="{{ member.name }} links">
+                        {% if member.social.email %}<li><a href="mailto:{{ member.social.email }}" aria-label="Email {{ member.name }}">Email</a></li>{% endif %}
+                        {% if member.social.website %}<li><a target="_blank" rel="noopener" href="{{ member.social.website }}" aria-label="{{ member.name }}'s website">Website ↗</a></li>{% endif %}
+                        {% if member.social.github %}<li><a target="_blank" rel="noopener" href="{{ member.social.github }}" aria-label="{{ member.name }} on GitHub">GitHub ↗</a></li>{% endif %}
+                        {% if member.social.google-scholar %}<li><a target="_blank" rel="noopener" href="{{ member.social.google-scholar }}" aria-label="{{ member.name }} on Google Scholar">Scholar ↗</a></li>{% endif %}
+                    </ul>
                 </div>
-            </div>
-        {% endfor %}
-    {% endif %}
-{% endfor %}
+                <div class="person-biography">
+                    <h3>{{ member.name }}</h3>
+                    {% for cont in member.content %}
+                    <p>{{ cont }}</p>
+                    {% endfor %}
+                </div>
+            </article>
+            {% endfor %}
+        </div>
+        {% endif %}
+    </section>
+    {% endfor %}
+    <aside class="people-join"><p class="section-kicker">Be part of AND Lab</p><a href="{{ '/position' | relative_url }}">Explore opportunities to join us →</a></aside>
+</div>

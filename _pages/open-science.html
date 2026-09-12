@@ -1,0 +1,20 @@
+---
+title: Open Science
+layout: default
+permalink: /open-science
+---
+<div class="inner-page science-view">
+  <header class="inner-hero">
+    <p class="section-kicker">AND Lab / Shared knowledge</p>
+    <h1>Open Science</h1>
+    <p>Explore our shared projects, datasets, and research tools to support collaboration and discovery in cognitive neuroscience.</p>
+  </header>
+  <section id="projects" class="science-projects">
+    {% capture projects %}{% include science_projects.md %}{% endcapture %}
+    {{ projects | markdownify }}
+  </section>
+  <section id="resources" class="science-resources">
+    {% capture resources %}{% include science_resources.md %}{% endcapture %}
+    {{ resources | markdownify }}
+  </section>
+</div>

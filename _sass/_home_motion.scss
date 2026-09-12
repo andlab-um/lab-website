@@ -1,0 +1,119 @@
+.page-home {
+    .home-title-line {
+        display: block;
+        overflow: clip;
+    }
+    .home-title-line__text { display: block; }
+
+    #homeid .research-map #research-map-title {
+        > .home-title-line,
+        .home-title-line__text { color: inherit; }
+    }
+
+    [data-reveal] {
+        transition: opacity 1300ms cubic-bezier(.22, 1, .36, 1), transform 1300ms cubic-bezier(.22, 1, .36, 1);
+        transition-delay: var(--reveal-delay, 0ms);
+    }
+    [data-motion-state="pending"] {
+        opacity: 0;
+        transform: translate3d(0, 38px, 0);
+        transition: none;
+    }
+    [data-motion-state="visible"] {
+        opacity: 1;
+        transform: none;
+    }
+    .home-title-line__text[data-motion-state="pending"] { transform: translate3d(0, 105%, 0); }
+    .research-map__constellation[data-motion-state="pending"] { transform: translate3d(0, 28px, 0) scale(.93); }
+    .home-hero .lab-logo[data-motion-state="pending"] { transform: translate3d(20px, 24px, 0) scale(.86); }
+    .direction-reveal[data-motion-state="pending"] { transform: translate3d(0, 48px, 0) scale(.96); }
+
+    .home-hero .lab-logo {
+        position: relative;
+        isolation: isolate;
+
+        &::before {
+            content: "";
+            position: absolute;
+            inset: 4% -4%;
+            z-index: -1;
+            border-radius: 50%;
+            background: radial-gradient(ellipse, rgba(75, 156, 255, .13), rgba(75, 156, 255, .035) 48%, transparent 70%);
+            pointer-events: none;
+            animation: home-logo-aura 8s ease-in-out infinite paused;
+        }
+        img { animation: home-logo-float 8s ease-in-out infinite paused; }
+    }
+    .home-hero.motion-running.motion-in-view .lab-logo {
+        &::before,
+        img { animation-play-state: running; }
+    }
+
+    #homeid .research-map {
+        .research-map__connection {
+            stroke-dasharray: 100;
+            stroke-dashoffset: 0;
+            transition: stroke-dashoffset 2200ms cubic-bezier(.22, 1, .36, 1) 240ms;
+        }
+        .research-map__constellation[data-motion-state="pending"] {
+            .research-map__connection { stroke-dashoffset: 100; transition: none; }
+            .research-map__edge { opacity: 0; }
+        }
+        .research-map__mind {
+            transition: opacity 1200ms ease 600ms, scale 1400ms cubic-bezier(.22, 1, .36, 1) 400ms;
+        }
+        .research-map__constellation[data-motion-state="pending"] .research-map__mind {
+            opacity: 0;
+            scale: .82;
+            transition: none;
+        }
+        .research-map__mind::after {
+            content: "";
+            position: absolute;
+            inset: -10px;
+            border: 1px solid rgba(75, 156, 255, .3);
+            border-radius: 50%;
+            pointer-events: none;
+            opacity: 0;
+            animation: home-mind-pulse 6s ease-out infinite paused;
+        }
+        &.motion-running.motion-in-view .research-map__mind::after { animation-play-state: running; }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+        [data-reveal],
+        .home-hero .lab-logo[data-motion-state],
+        .direction-reveal[data-motion-state],
+        .home-title-line__text[data-motion-state],
+        .research-map__constellation[data-motion-state] {
+            opacity: 1;
+            transform: none;
+            transition: none;
+        }
+        .home-hero .lab-logo {
+            img,
+            &::before { animation: none; }
+        }
+        #homeid .research-map .research-map__mind::after { animation: none; }
+        #homeid .research-map .research-map__constellation[data-motion-state] {
+            .research-map__connection { stroke-dashoffset: 0; transition: none; }
+            .research-map__mind { opacity: 1; scale: 1; transition: none; }
+        }
+    }
+}
+
+@keyframes home-logo-float {
+    0%, 100% { translate: 0 0; }
+    50% { translate: 0 -8px; }
+}
+
+@keyframes home-logo-aura {
+    0%, 100% { transform: scale(.96); opacity: .65; }
+    50% { transform: scale(1.06); opacity: 1; }
+}
+
+@keyframes home-mind-pulse {
+    0% { transform: scale(.98); opacity: 0; }
+    18% { opacity: .6; }
+    85%, 100% { transform: scale(1.28); opacity: 0; }
+}

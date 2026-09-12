@@ -1,9 +1,13 @@
-// main body font
-$main-font: "Segoe UI", Microsoft YaHei, Helvetica, Arial, sans-serif;
+// ANDLab Minimalist Modern design system
+// Use the same legible interface face for display headings and body copy so
+// English typography stays consistent across the site.
+$main-font: "Inter", "Segoe UI", "Microsoft YaHei", Helvetica, Arial, sans-serif;
+$display-font: $main-font;
+$mono-font: "JetBrains Mono", "SFMono-Regular", Consolas, monospace;
 
 // basic font size
-$modal-lg: 950px !default;
-$font-size-base: 20px !default;
+$modal-lg: 1200px !default;
+$font-size-base: 18px !default;
 
 // navbar background color
 $navbar-default-bg: #ffffff !default;
@@ -15,3 +19,14 @@ $highlight-text: #4b9cff;
 $block-bg: #f5f5f56b;
 
 $homepage-highlight: #4b9cff;
+
+// Local design tokens
+$page-text: #0f172a;
+$muted-text: #64748b;
+$surface: #ffffff;
+$surface-border: #e2e8f0;
+$space-xs: 8px;
+$space-sm: 16px;
+$space-md: 24px;
+$space-lg: 32px;
+$space-xl: 48px;

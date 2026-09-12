@@ -9,18 +9,19 @@
         <span class="icon-bar"></span>
       </button>
 
-      <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/" style="color:#4b9cff">
-        {{ site.title }}
+      <a class="navbar-brand" href="{{ '/' | relative_url }}">
+        <img class="navbar-brand-mark" src="{{ '/assets/images/logo/lab-logo.png' | relative_url }}" alt="">
+        <span>{{ site.title }}</span>
       </a>
     </div>
 
     <div class="collapse navbar-collapse" id="navbar-collapse-1">
-      <ul class="nav navbar-nav navbar-right">
+      <ul class="nav navbar-nav site-menu">
         {% for nav in site.menu %}
           {% if nav.url contains 'http' %}
             <li><a href="{{ nav.url }}" target="_blank" rel="noopener">{{ nav.title }}</a></li>
           {% else %}
-            <li><a href="{{ site.url }}{{ site.baseurl }}{{ nav.url }}">{{ nav.title }}</a></li>
+            <li><a href="{{ nav.url | relative_url }}">{{ nav.title }}</a></li>
           {% endif %}
         {% endfor %}
       </ul>

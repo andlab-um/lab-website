@@ -5,15 +5,29 @@ sitemap: false
 permalink: /publication
 ---
 
+<div class="inner-page publications-view" markdown="1">
+<header class="inner-hero" markdown="1">
+<p class="section-kicker">Research output</p>
+
 ## Publication
 *We are committed to open science and to sharing  data and code from our publications.*
 
-**Categories:** [Preprint](#preprint)&ensp; [2026](#2026)&ensp; [2025](#2025)&ensp; [2024](#2024)&ensp; [2023](#2023)&ensp; [2022](#2022)&ensp; [2021](#2021)&ensp; [2020](#2020)&ensp; [Earlier](#earlier)
+</header>
+<div class="publication-layout" markdown="1">
+<aside class="publication-index" aria-label="Publication navigation">
+<div class="publication-toolbar">
+  <p><strong>Categories:</strong> <a href="#preprint">Preprint</a>&ensp; <a href="#2026">2026</a>&ensp; <a href="#2025">2025</a>&ensp; <a href="#2024">2024</a>&ensp; <a href="#2023">2023</a>&ensp; <a href="#2022">2022</a>&ensp; <a href="#2021">2021</a>&ensp; <a href="#2020">2020</a>&ensp; <a href="#earlier">Earlier</a></p>
+  <a class="bibtex-download" href="{{ '/assets/files/ANDlab-publications-Bibtex_2025_10_27.bib' | relative_url }}">Download BibTeX citations</a>
+</div>
+</aside>
+<div class="publication-library" markdown="1">
+<div class="library-search" hidden>
+<label for="publication-search">Find a publication</label>
+<input id="publication-search" type="search" placeholder="Search title, author or journal" autocomplete="off">
+<p class="search-status" role="status"></p>
+</div>
 
-[Download bibtex citations](/assets/files/ANDlab-publications-Bibtex_2025_10_27.bib)
-
----
-
+<section class="publication-year" markdown="1">
 ### Preprint
 
 Wang, E. R. W., Jing, R., & Wu, H. (2026). **ANDrate toolbox: A tutorial for collecting behavioral data in naturalistic stimuli in a Python-based toolbox**. Psyarxiv. [[Preprint](https://osf.io/preprints/psyarxiv/j2fpy_v1){:target="_blank"}]
@@ -29,9 +43,9 @@ Zhang, S., Seak, L. C. U., Dolan, R. J., & Wu H. (2025). **AI in the computation
 Xu, X. J., Mobbs, D., & Wu, H. (2024). **Unethical amnesia brain: Memory and metacognitive distortion induced by dishonesty**. bioRxiv. [[Preprint](https://www.biorxiv.org/content/10.1101/2024.03.03.583239v1){:target="_blank"}]
 
 Zhang, S., Wu, H., Hu, K., Liu.Q., & Wu, H. (2023). **Irrelevant social comparison affects exploration of uncertainty and its association with subjective expectations**. Psyarxiv. [[Preprint](https://psyarxiv.com/74qvb/){:target="_blank"}]
+</section>
 
----
-
+<section id="2026" class="publication-year" markdown="1">
 ### 2026
 Li, Z., Ma, J., Yang, J., Yang, G., Liu, X., & Wu, H. (2026). **EEG Evidence of Decisions Under Social Influence and Ambiguity**. *NeuroImage*, 122063. [[DOI](https://doi.org/10.1016/j.neuroimage.2026.122063){:target="_blank"}]
 
@@ -42,9 +56,9 @@ Chen, S., Li, B., He, C., Li, D., Wu, M., Shen, X., Wang, S., Wei, X., Wang, X.,
 Leong, I. L., Wang X., & Wu, H. (2026). **Oxytocin’s impact on the social brain: Individual differences and context shape a core amygdala-mediated mechanism**. *Neuroscience & Biobehavioral Reviews*. [[DOI](https://doi.org/10.1016/j.neubiorev.2026.106566){:target="_blank"}]
 
 Zhang, G., Zhang, S., & Wu, H. (2026). **AI-Augmented Computational Modeling of Human Behavior**. In: Xu, W. (eds) Handbook of Human-Centered Artificial Intelligence. Springer, Singapore. [[DOI](https://doi.org/10.1007/978-981-97-8440-0_111-1){:target="_blank"}]
+</section>
 
----
-
+<section id="2025" class="publication-year" markdown="1">
 ### 2025
 
 Xu, X. J., Yang, G., Huang, J., Wang, R., & Wu, H. (2025). **Unraveling the neural basis of repeated moral decisions with mouse tracking and fMRI**. *Imaging Neuroscience*. [[DOI](https://doi.org/10.1162/IMAG.a.1047){:target="_blank"}]
@@ -60,31 +74,31 @@ Zhang, S., Tian, Y. Liu, Q., & Wu, H. (2025). **The Neural Correlates of Novelty
 Xu, X. J., Liu, X., Hu, X., & Wu, H. (2025). **The trajectory of crime: Integrating mouse-tracking into concealed memory detection**. *Behavior Research Methods*, 57, 78. [[DOI](https://doi.org/10.3758/s13428-024-02594-y){:target="_blank"}]
 
 伍海燕, 何翠琳, 曲由之, 刘泉影. (2025). **大语言模型的情感智能及其心理学应用**. *科技导报*, 2025, 43(3): 47-58. [[DOI](http://www.kjdb.org/CN/10.3981/j.issn.1000-7857.2023.09.01352){:target="_blank"}]
+</section>
 
----
-
+<section id="2024" class="publication-year" markdown="1">
 ### 2024
 
-Tian, Y., Huang, Q., Liu, X., Zhang, J., Ye, Y., & Wu, H. (2024). **Unraveling the Intricacies of Curiosity: A Comprehensive Study of Its Measures in the Chinese Context**. *PsyCH Journal*.  [[DOI](https://doi.org/10.1002/pchj.813){:target="_blank"}] [[Questionnaire](../assets/files/Questionnaires.docx){:target="_blank"}]
+Tian, Y., Huang, Q., Liu, X., Zhang, J., Ye, Y., & Wu, H. (2024). **Unraveling the Intricacies of Curiosity: A Comprehensive Study of Its Measures in the Chinese Context**. *PsyCH Journal*.  [[DOI](https://doi.org/10.1002/pchj.813){:target="_blank"}] [[Questionnaire]({{ '/assets/files/Questionnaires.docx' | relative_url }}){:target="_blank"}]
 
 Hu K., Wang, R., Zhao S., Yin E., & Wu, H. (2024). **The Association between Social Rewards and Anxiety:Links from Neurophysiological Analysis in Virtual Reality and Social Interaction Game**. *NeuroImage*, 299, 120846. [[DOI](https://doi.org/10.1016/j.neuroimage.2024.120846){:target="_blank"}] [[Code](https://github.com/andlab-um/VR-EEG-Social-Anxiety){:target="_blank"}]
 
-Cao, S., Fu, D., Yang, X., Wermter, S., Liu, X., & Wu, H. (2024). **Pain recognition and pain empathy from a human-centered AI perspective**. *iScience*, 27(8), 110570. [[DOI](https://doi.org/10.1016/j.isci.2024.110570){:target="_blank"}] 
+Cao, S., Fu, D., Yang, X., Wermter, S., Liu, X., & Wu, H. (2024). **Pain recognition and pain empathy from a human-centered AI perspective**. *iScience*, 27(8), 110570. [[DOI](https://doi.org/10.1016/j.isci.2024.110570){:target="_blank"}]
 
-Tan. L., Cheng. J., Kang. C., Xu. H., Wu. H. (2024) **Cognitive and Affective Flexibility: Processing Mechanisms and Their Impact on Mental Health**. *Chinese Science Bulletin（科学通报）*. [[DOI](https://doi.org/10.1360/TB-2024-0469){:target="_blank"}] [[PDF](../assets/publications/2024_认知灵活性与情感灵活性的加工机制及其对心理健康的影响.pdf){:target="_blank"}]
+Tan. L., Cheng. J., Kang. C., Xu. H., Wu. H. (2024) **Cognitive and Affective Flexibility: Processing Mechanisms and Their Impact on Mental Health**. *Chinese Science Bulletin（科学通报）*. [[DOI](https://doi.org/10.1360/TB-2024-0469){:target="_blank"}] [[PDF]({{ '/assets/publications/2024_认知灵活性与情感灵活性的加工机制及其对心理健康的影响.pdf' | relative_url }}){:target="_blank"}]
 
-Qin, J. and Wu, H., 2024. **Representation of Others' Beliefs**. in *Encyclopedia of the Human Brain*, 2nd edition. [[PDF](./../assets/publications/2024_chapter_Representation%20of%20others’%20beliefs.pdf){:target="_blank"}]
+Qin, J. and Wu, H., 2024. **Representation of Others' Beliefs**. in *Encyclopedia of the Human Brain*, 2nd edition. [[PDF]({{ '/assets/publications/2024_chapter_Representation%20of%20others’%20beliefs.pdf' | relative_url }}){:target="_blank"}]
 
-Mou. X., He. C., Tan. L., Yu. J., Liang. H., Zhang. J., Tian. Y., Yang. Y., Xu. T., Wang. Q., Cao. M., Chen Z., Hu C., Wang. X., Liu. Q., & Wu. H. (2024). **ChineseEEG: A Chinese Linguistic Corpora EEG Dataset for Semantic Alignment and Neural Decoding**. *Scientific Data*, 11, 550. [[DOI](https://doi.org/10.1038/s41597-024-03398-7){:target="_blank"}] 
+Mou. X., He. C., Tan. L., Yu. J., Liang. H., Zhang. J., Tian. Y., Yang. Y., Xu. T., Wang. Q., Cao. M., Chen Z., Hu C., Wang. X., Liu. Q., & Wu. H. (2024). **ChineseEEG: A Chinese Linguistic Corpora EEG Dataset for Semantic Alignment and Neural Decoding**. *Scientific Data*, 11, 550. [[DOI](https://doi.org/10.1038/s41597-024-03398-7){:target="_blank"}]
 
 Zhang. S., Tian, Y., Liu. Q., & Wu, H. (2024). **The Neural Correlates of Ambiguity and Risk in Human Decision-Making under an Active Inference Framework**. *eLife*, 13. [[DOI](https://doi.org/10.7554/eLife.92892.1){:target="_blank"}]
 
 Qu Y., Du P., Che W., Wei C, Zhang C., Ouyang W, Bian Y, Xu F, Hu B, Du K, **Wu H**, Liu J, & Liu Q. (2024) Promoting interactions between cognitive science and large language models. *The Innovation*, 5(2), 100579. [[DOI](https://doi.org/10.1016/j.xinn.2024.100579){:target="_blank"}]
 
 王鑫泽, 伍海燕. (2024). **认知和行为的计算建模**. 第4章. in: 许为. (eds) 人智交互: 以人为中心的人工智能. 清华大学出版社.
+</section>
 
----
-
+<section id="2023" class="publication-year" markdown="1">
 ### 2023
 
 Zhang, H., Chen, K., Bao, J., & Wu, H. (2023). **Oxytocin enhances the triangular association among behavioral performance, resting state, and task-state functional connectivity**. *Human Brain Mapping*, 44(17), 6074–6089. [[DOI](https://doi.org/10.1002/hbm.26498){:target="_blank"}] [[Data & Code](https://github.com/andlab-um/OT-cpm){:target="_blank"}]
@@ -96,9 +110,9 @@ Li, Z., Dong, Q., Hu, B., & Wu, H. (2023). **Every individual makes a difference
 Zhang, H., Zhang, K., Zhang, Z., Zhao, M., Liu, Q., Luo, W., & Wu, H. (2023) **Social conformity is associated with Inter-trial EEG variability**, *Annals of the New York Academy of Sciences*, 1523, 104–118. [[Preprint](https://doi.org/10.1101/2021.10.29.465647){:target="_blank"}] [[DOI](https://doi.org/10.1111/nyas.14983){:target="_blank"}] [[Data & Code](https://github.com/andlab-um/Trust-untrust-face-judge){:target="_blank"}]
 
 Qi, Y., Liu, Z., Cao, S., Han, Y., Wang, Q., Liu, X., & Wu, H. (2023) **Social value orientation modulates behavioral and neural responses to social influence**, *Human Brain Mapping*. 44(8), 3222-3231. [[DOI](https://doi.org/10.1002/hbm.26276){:target="_blank"}]
+</section>
 
----
-
+<section id="2022" class="publication-year" markdown="1">
 ### 2022
 
 Wu Q, Chen L, Liu C, & Wu H. (2022). **A review of methods for functional coupling and information transfer between the electric signal of heart and brain**. *Journal of Biomedical Engineering Research* (003), 041. [[DOI](http://swyxgcyj.com/oa/DArticle.aspx?type=view&id=20220314){:target="_blank"}]
@@ -120,9 +134,9 @@ Pang, L., Li, H., Liu, Q., Luo, Y.-J., Mobbs, D., & Wu, H. (2022). **Resting-sta
 Wang, Y., Wang, R., & Wu, H. (2022). **The role of oxytocin in modulating self–other distinction in human brain: A pharmacological fMRI study**. *Cerebral Cortex*, 33(5), 1708-1725. [[DOI](https://doi.org/10.1093/cercor/bhac167){:target='_blank'}] [[Code](https://github.com/andlab-um/OT_face){:target="_blank"}]
 
 Cao, S.-Q., Tang, C.-C., Wu, H.-Y., & Liu, X. (2022). **Value Analysis determines when and how to strive**. *Advances in Psychological Science*, 30(4), 877-887. [[DOI](https://doi.org/10.3724/SP.J.1042.2022.00877){:target='_blank'}]
+</section>
 
----
-
+<section id="2021" class="publication-year" markdown="1">
 ### 2021
 
 Yang, G., Xu, H., Li, Z., Nan, W., Wu, H., Li, Q., & Liu, X. (2021). **The congruency sequence effect is modulated by the similarity of conflicts**. *Journal of Experimental Psychology: Learning, Memory, and Cognition*, 47(10), 1705-1719. [[DOI](https://doi.org/10.1037/xlm0001054){:target='_blank'}]
@@ -140,9 +154,9 @@ Cao, S.-Q., Liu, X., & Wu, H.-Y. (2021). **Controllable empathy? The adjustabili
 Huang, Q., Chen, C., Luo, Y., & Wu, H. (2021). **The mechanism and function of curiosity**. *Advances in Psychological Science*, 29(4), 723-736. [[DOI](https://doi.org/10.3724/SP.J.1042.2021.00723){:target='_blank'}]
 
 Zheng, S., Punia, D., Wu, H., & Liu, Q. (2021). **Graph Theoretic Analysis Reveals Intranasal Oxytocin Induced Network Changes Over Frontal Regions**. *Neuroscience*, 459, 153-165. [[DOI](https://doi.org/10.1016/j.neuroscience.2021.01.018){:target='_blank'}]
+</section>
 
----
-
+<section id="2020" class="publication-year" markdown="1">
 ### 2020
 
 Wu, H., Liu, X., Hagan, C. C., & Mobbs, D. (2020). **Mentalizing during social InterAction: A four component model**. *Cortex*, 126, 242-252. [[DOI](https://doi.org/10.1016/j.cortex.2019.12.031){:target='_blank'}]
@@ -158,9 +172,9 @@ Wu, H., Feng, C., Lu, X., Liu, X., & Liu, Q. (2020). **Oxytocin effects on the r
 Raiha, S., Yang, G., Wang, L., Dai, W., Wu, H., Meng, G., Zhong, B., & Liu, X. (2020). **Altered Reward Processing System in Internet Gaming Disorder**. *Frontiers in Psychiatry*, 11, 599141. [[DOI](https://doi.org/10.3389/fpsyt.2020.599141){:target='_blank'}]
 
 Yang, G., Wu, H., Qi, Y., & Liu, X. (2020). **Cognitive and neural mechanisms of human gender processing**. *Advances in Psychological Science*, 28(12), 2008-2017. [[DOI](https://doi.org/10.3724/SP.J.1042.2020.02008){:target='_blank'}]
+</section>
 
----
-
+<section class="publication-year" markdown="1">
 ### Earlier
 
 Liu, Q., Wu, H., & Liu, A. (2019). **Modeling and Interpreting Real-world Human Risk Decision Making with Inverse Reinforcement Learning** (arXiv:1906.05803). *arXiv*. [[Preprint](http://arxiv.org/abs/1906.05803){:target='_blank'}]
@@ -182,17 +196,8 @@ Qi, Y., Wu, H., & Liu, X. (2017). **The influences of social value orientation o
 
 Wu, H., Tang, P., Huang, X. et al. (2013). **Differentiating electrophysiological response to decrease and increase negative emotion regulation**. *Chinese Science Bulletin*. 58, 1543–1550. [[DOI](https://doi.org/10.1007/s11434-013-5746-x){:target='_blank'}]
 
+</section>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+</div>
+</div>
+</div>

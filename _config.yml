@@ -19,19 +19,27 @@ include:
   - .htaccess
   - _pages
 
+exclude:
+  - vendor
+  - .bundle
+  - node_modules
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - AGENTS.md
+  - docs
+
 # Navigation bar menu
 menu:
   - title: Home
     url: /
-  - title: Publication
+  - title: Publications
     url: /publication
   - title: Team
     url: /team
-  - title: Resource
-    url: /resource
-  - title: OpenProject
-    url: /openproject
-  - title: Position
+  - title: Open Science
+    url: /open-science
+  - title: Join Us
     url: /position
   - title: CogniAND
     url: https://cogniand.com/
