@@ -1,0 +1,38 @@
+"2026.1.26":
+  image: /assets/images/news/publication-naturalistic.png
+  alt: "Wang et al., Towards naturalistic social neuroscience — Figure 1"
+  source: https://doi.org/10.3758/s13415-026-01413-5
+  image_source: https://media.springernature.com/full/springer-static/image/art%3A10.3758%2Fs13415-026-01413-5/MediaObjects/13415_2026_1413_Fig1_HTML.png
+"2025.10.27":
+  image: /assets/images/news/publication-vr-navigation.png
+  alt: "Zheng, Chen and Wu — VR navigation experiment and EEG dataset overview, Figure 1"
+  source: https://www.nature.com/articles/s41597-025-06175-2
+  image_source: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41597-025-06175-2/MediaObjects/41597_2025_6175_Fig1_HTML.png
+  license: https://creativecommons.org/licenses/by-nc-nd/4.0/
+"2025.7.1":
+  image: /assets/images/news/haoming_escape_summary_figure.jpg
+  alt: "Zhang et al. — summary figure from the human escape circuits preprint"
+  source: https://www.nature.com/articles/s41467-025-60666-9
+"2025.3.21":
+  image: /assets/images/news/publication-active-inference.jpg
+  alt: "Zhang, Tian, Liu and Wu — active inference framework and generative model, Figure 1"
+  source: https://elifesciences.org/articles/92892
+  image_source: https://iiif.elifesciences.org/lax:92892%2Felife-92892-fig1-v1.tif/full/1500,/0/default.jpg
+  license: https://creativecommons.org/licenses/by/4.0/
+"2026.06.18":
+  image: /assets/images/news/publication-social-influence.jpg
+  alt: "Li et al. — EEG Evidence of Decisions Under Social Influence and Ambiguity, Figure 1"
+  source: https://doi.org/10.1016/j.neuroimage.2026.122063
+  image_source: https://ars.els-cdn.com/content/image/1-s2.0-S1053811926003782-gr1_lrg.jpg
+  license: https://creativecommons.org/licenses/by-nc/4.0/
+"2025.11.7":
+  image: /assets/images/news/publication-delayed-punishment.jpg
+  alt: "Huang et al. — Delayed punishment in second- and third-party contexts, Figure 1"
+  source: https://doi.org/10.1016/j.neuroimage.2025.121574
+  image_source: https://ars.els-cdn.com/content/image/1-s2.0-S1053811925005774-gr1_lrg.jpg
+  license: https://creativecommons.org/licenses/by-nc-nd/4.0/
+"2024.9.9":
+  image: /assets/images/news/publication-social-anxiety.jpg
+  alt: "Hu et al. — Social rewards and anxiety in virtual reality and social interaction, Figure 1"
+  source: https://doi.org/10.1016/j.neuroimage.2024.120846
+  image_source: https://ars.els-cdn.com/content/image/1-s2.0-S1053811924003434-gr1_lrg.jpg

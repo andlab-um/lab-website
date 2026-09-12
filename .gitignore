@@ -4,3 +4,9 @@ _site
 .DS_Store
 .jekyll-cache
 *.lock
+vendor/
+.bundle/
+node_modules/
+.env
+.env.*
+!.env.example

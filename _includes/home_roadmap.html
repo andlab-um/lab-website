@@ -1,0 +1,84 @@
+<section class="home-section home-roadmap research-map" aria-labelledby="research-map-title" markdown="0">
+  <svg class="research-map__symbols" aria-hidden="true" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <symbol id="rm-signal" viewBox="0 0 24 24"><path d="M2 12h4l3-8 5 16 3-8h5"/></symbol>
+      <symbol id="rm-stimulate" viewBox="0 0 24 24"><path d="M13 2 5 14h7l-1 8 8-12h-7z"/></symbol>
+      <symbol id="rm-model" viewBox="0 0 24 24"><path d="m6 6 12 6-12 6M6 6v12"/><circle cx="6" cy="6" r="3"/><circle cx="18" cy="12" r="3"/><circle cx="6" cy="18" r="3"/></symbol>
+      <symbol id="rm-vr" viewBox="0 0 24 24"><path d="M5 6h14a3 3 0 0 1 3 3v8a1 1 0 0 1-1 1h-5l-4-3-4 3H3a1 1 0 0 1-1-1V9a3 3 0 0 1 3-3Z"/><path d="M6 10h3m6 0h3"/></symbol>
+      <symbol id="rm-film" viewBox="0 0 24 24"><rect x="2" y="4" width="20" height="16" rx="3"/><path d="m10 8 6 4-6 4z"/></symbol>
+      <symbol id="rm-interact" viewBox="0 0 24 24"><circle cx="6" cy="7" r="3"/><path d="M1 20v-3a5 5 0 0 1 10 0v3m6-17v2m-3 0h8v8h-8zM16 9h.01M20 9h.01M15 20h6m-9-4h10"/></symbol>
+    </defs>
+  </svg>
+
+  <header class="research-map__header">
+    <p class="research-map__eyebrow"><span aria-hidden="true"></span> OUR RESEARCH ROADMAP</p>
+    <h2 id="research-map-title"><span class="home-title-line"><span class="home-title-line__text">From brain signals</span></span><span class="home-title-line"><span class="home-title-line__text">to <span>social behavior.</span></span></span></h2>
+    <div class="research-map__intro">
+      <p>We combine measurement, intervention and modeling to study emotion, decision-making and memory.</p>
+      <p>VR, movies and human–AI interactions connect brain signals with social behavior across time.</p>
+    </div>
+  </header>
+
+  <div class="research-map__flow">
+    <section class="research-map__methods" aria-labelledby="research-methods-title">
+      <h3 class="research-map__stage" id="research-methods-title"><span>01</span> Our methods</h3>
+      <div class="research-map__method-list">
+        <div class="research-map__method">
+          <svg aria-hidden="true"><use href="#rm-signal"/></svg>
+          <span><strong>Measure</strong><span>Neuroimaging &amp; behavior</span><small>Resting-state &amp; task fMRI<br>Scalp EEG · Intracranial EEG<br>Eye tracking · Mouse tracking</small></span>
+        </div>
+        <div class="research-map__method">
+          <svg aria-hidden="true"><use href="#rm-stimulate"/></svg>
+          <span><strong>Intervene</strong><span>Probe mechanisms through neuromodulation.</span><small>Intracranial stimulation (iES)<br>TI-tACS · Oxytocin</small></span>
+        </div>
+        <div class="research-map__method">
+          <svg aria-hidden="true"><use href="#rm-model"/></svg>
+          <span><strong>Model</strong><span>AI &amp; computational modeling</span><small>Mentalizing (IMQ)<br>Emotion · Social interaction</small></span>
+        </div>
+      </div>
+    </section>
+
+    <section class="research-map__questions" aria-labelledby="research-questions-title">
+      <h3 class="research-map__stage" id="research-questions-title"><span>02</span> Connected questions</h3>
+      <div class="research-map__constellation" data-active-link="0" role="group" aria-label="Explore the connections between emotion, decision-making and memory">
+        <div class="research-map__scene">
+        <div class="research-map__orbit-scene">
+        <svg class="research-map__network" viewBox="0 0 400 360" preserveAspectRatio="none" aria-hidden="true">
+          <path class="research-map__connection" pathLength="100" d="M200 30 Q-10 80 48 290 Q200 352 352 290 Q410 80 200 30"/>
+          <g class="research-map__edge" data-edge="0"><path d="M200 30 Q-10 80 48 290"/><path class="research-map__signal" d="M200 30 Q-10 80 48 290" pathLength="100"/></g>
+          <g class="research-map__edge" data-edge="1"><path d="M200 30 Q410 80 352 290"/><path class="research-map__signal" d="M200 30 Q410 80 352 290" pathLength="100"/></g>
+          <g class="research-map__edge" data-edge="2"><path d="M48 290 Q200 352 352 290"/><path class="research-map__signal" d="M48 290 Q200 352 352 290" pathLength="100"/></g>
+        </svg>
+        <div class="research-map__node research-map__node--decision"><span></span><strong>Decision</strong><small>How we choose</small></div>
+        <div class="research-map__node research-map__node--emotion"><span></span><strong>Emotion</strong><small>How we feel</small></div>
+        <div class="research-map__node research-map__node--memory"><span></span><strong>Memory</strong><small>How we remember</small></div>
+        <div class="research-map__mind" aria-hidden="true">
+          <span>THE SOCIAL</span><strong>MIND</strong>
+          <span class="research-map__core-dots">· · ·</span>
+        </div>
+        </div>
+          <div class="research-map__connection-copy">
+            <div id="research-link-0" class="research-map__link-detail" aria-label="Methods connecting emotion and decision-making"><svg aria-hidden="true"><use href="#rm-signal"/></svg><p><strong>EEG · iEEG · fMRI<br>Eye tracking</strong></p></div>
+            <div id="research-link-1" class="research-map__link-detail" aria-label="Methods connecting decision-making and memory"><svg aria-hidden="true"><use href="#rm-model"/></svg><p><strong>Computational modeling<br>fMRI · Mouse tracking</strong></p></div>
+            <div id="research-link-2" class="research-map__link-detail" aria-label="Methods connecting emotion and memory"><svg aria-hidden="true"><use href="#rm-vr"/></svg><p><strong>Naturalistic approaches<br>VR · Movies · EEG · AI</strong></p></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="research-map__contexts" aria-labelledby="research-contexts-title">
+      <h3 class="research-map__stage" id="research-contexts-title"><span>03</span> Naturalistic contexts</h3>
+      <div class="research-map__context-list">
+        <div class="research-map__context"><svg aria-hidden="true"><use href="#rm-vr"/></svg><div><h4>Immersive environments</h4><p>Use virtual reality to connect emotional responses and choices with behavior in rich, immersive settings.</p></div></div>
+        <div class="research-map__context"><svg aria-hidden="true"><use href="#rm-film"/></svg><div><h4>Experiences over time</h4><p>Combine movies and naturalistic stimuli with EEG to follow emotion and memory as experiences unfold.</p></div></div>
+        <div class="research-map__context"><svg aria-hidden="true"><use href="#rm-interact"/></svg><div><h4>Social interaction</h4><p>Study mentalizing and social decisions through interactions with people and AI agents.</p></div></div>
+      </div>
+    </section>
+    <div class="research-map__closing">
+      <p class="research-map__timescale-note">Together, these methods connect brain signals with social behavior.</p>
+      <p class="research-map__timescale-note">Across fast &amp; slow processes—from emotional responses to lasting memories.</p>
+    </div>
+  </div>
+
+</section>
+<script src="{{ '/assets/js/home-roadmap.js' | relative_url }}" defer></script>

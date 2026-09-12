@@ -3,14 +3,20 @@ layout: default
 ---
 
 <!-- Title and logo -->
-<div class="col-sm-8 lab-title">
-    <h2>A<span style="color:#555555">ffective,</span>
-        <br>N<span style="color:#555555">euroscience, and</span>
-        <br>D<span style="color:#555555">ecision-making</span> Lab</h2>
+<div class="home-hero">
+    <div class="home-hero-copy">
+        <div class="lab-title">
+            <h2><span class="home-title-line"><span class="home-title-line__text">A<span class="lab-title-rest">ffective,</span></span></span>
+                <span class="home-title-line"><span class="home-title-line__text">N<span class="lab-title-rest">euroscience, and</span></span></span>
+                <span class="home-title-line"><span class="home-title-line__text">D<span class="lab-title-rest">ecision-making</span> Lab</span></span></h2>
+        </div>
+        <p class="lab-intro">The Affective, Neuroscience, and Decision-making lab is led by Prof Haiyan WU, and is located at the Centre for Cognitive and Brain Sciences at the University of Macau (UM), Macau SAR, China.</p>
+    </div>
+    <div id="lab-logo" class="lab-logo">
+        <img src="{{ '/assets/images/logo/lab-logo.png' | relative_url }}" alt="AND Lab logo">
+    </div>
 </div>
-<div id="lab-logo" class="col-sm-4 lab-logo">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/logo/lab-logo.png">
-</div>
+<script src="{{ '/assets/js/home-motion.js' | relative_url }}" defer></script>
 
 <!-- Content and News -->
 <div id="homeid" class="ml-0 nopadding-left">
