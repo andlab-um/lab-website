@@ -24,27 +24,10 @@ permalink: /position
 <section class="position-opportunity position-graduate-track">
     <span class="join-role-label">Doctoral study</span>
     <h3>Graduate Student</h3>
-
-    <p>We are recruiting PhD students for 2027.</p>
-
-    <p>
-        If you are interested in applying, please send your application materials to
-        <a href="mailto:haiyanwu@um.edu.mo">haiyanwu@um.edu.mo</a>.
-    </p>
-
-    <p>
-        Please use the following format for the email subject:
-        <strong>
-            Application + Position + Name + University + Major
-        </strong>
-        <br>
-        Example:
-        <strong>Application + PhD Student + XXX + University of Macau + Psychology</strong>
-    </p>
-
-    <p>
-        Suitable candidates will be contacted for an interview.
-    </p>
+    <p>We are recruiting PhD students in 2027.</p>
+    <p>Interested applicants should send their application materials to haiyanwu@um.edu.mo.</p>
+    <p>Please use the following email subject format: “Application + Position + Name + University + Major” (e.g., “Application + RA + XXX + University of Macau + Psychology”).</p>
+    <p>Suitable candidates will be contacted and invited for an interview.</p>
 </section>
 
   <section class="position-opportunity position-assistant-track">
