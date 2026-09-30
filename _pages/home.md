@@ -432,7 +432,6 @@ These results suggest that decision-making, emotion, and memory-related brain re
     var cycleWidth = 0;
     var lastFrame = 0;
     var pauseUntil = performance.now() + 3000;
-    var isHovered = false;
     var isFocused = false;
     var isTouching = false;
     var isDragging = false;
@@ -460,21 +459,15 @@ These results suggest that decision-making, emotion, and memory-related brain re
     function animate(now) {
       var elapsed = Math.min(now - (lastFrame || now), 64);
       lastFrame = now;
-      if (!document.hidden && !reducedMotion.matches && !isHovered && !isFocused && !isTouching && !isDragging && now > pauseUntil && cycleWidth) {
+      if (!document.hidden && !reducedMotion.matches && !isFocused && !isTouching && !isDragging && now > pauseUntil && cycleWidth) {
         viewport.scrollLeft += elapsed * (direction === 'left' ? 0.024 : -0.022);
         normalizeScroll();
       }
       window.requestAnimationFrame(animate);
     }
 
-    lane.addEventListener('pointerenter', function (event) {
-      if (event.pointerType === 'mouse') isHovered = true;
-    });
-    lane.addEventListener('pointerleave', function (event) {
-      if (event.pointerType === 'mouse') isHovered = false;
-    });
-    lane.addEventListener('focusin', function () {
-      isFocused = true;
+    lane.addEventListener('focusin', function (event) {
+      isFocused = event.target.matches(':focus-visible');
     });
     lane.addEventListener('focusout', function (event) {
       if (!lane.contains(event.relatedTarget)) isFocused = false;
@@ -484,16 +477,17 @@ These results suggest that decision-making, emotion, and memory-related brain re
     }, { passive: true });
     viewport.addEventListener('touchend', function () {
       isTouching = false;
-      pauseUntil = performance.now() + 8000;
+      pauseUntil = performance.now() + 5000;
     }, { passive: true });
     viewport.addEventListener('touchcancel', function () {
       isTouching = false;
-      pauseUntil = performance.now() + 8000;
+      pauseUntil = performance.now() + 5000;
     }, { passive: true });
     viewport.addEventListener('wheel', function (event) {
-      if (Math.abs(event.deltaX) > Math.abs(event.deltaY)) pauseUntil = performance.now() + 8000;
+      if (Math.abs(event.deltaX) > Math.abs(event.deltaY)) pauseUntil = performance.now() + 5000;
     }, { passive: true });
     viewport.addEventListener('pointerdown', function (event) {
+      isFocused = false;
       if (event.pointerType !== 'mouse' || event.button !== 0) return;
       pointerActive = true;
       pointerStartX = event.clientX;
@@ -522,7 +516,7 @@ These results suggest that decision-making, emotion, and memory-related brain re
       }
       isDragging = false;
       viewport.classList.remove('is-dragging');
-      pauseUntil = performance.now() + 8000;
+      pauseUntil = performance.now() + 5000;
     }
     window.addEventListener('pointerup', endDrag);
     window.addEventListener('pointercancel', endDrag);
@@ -539,7 +533,8 @@ These results suggest that decision-making, emotion, and memory-related brain re
     viewport.addEventListener('keydown', function (event) {
       if (!cards.length || (event.key !== 'ArrowLeft' && event.key !== 'ArrowRight')) return;
       event.preventDefault();
-      pauseUntil = performance.now() + 8000;
+      isFocused = true;
+      pauseUntil = performance.now() + 5000;
       viewport.scrollBy({ left: (cards[0].offsetWidth + parseFloat(window.getComputedStyle(track).gap)) * (event.key === 'ArrowRight' ? 1 : -1), behavior: reducedMotion.matches ? 'auto' : 'smooth' });
     });
     if (cards.length) {
