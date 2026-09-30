@@ -431,6 +431,7 @@ These results suggest that decision-making, emotion, and memory-related brain re
 
     var cycleWidth = 0;
     var lastFrame = 0;
+    var motionRemainder = 0;
     var resumeAt = performance.now() + 600;
     var isTouching = false;
     var isDragging = false;
@@ -467,8 +468,13 @@ These results suggest that decision-making, emotion, and memory-related brain re
       var isVisible = bounds.top < window.innerHeight * .85 && bounds.bottom > window.innerHeight * .15;
       var canAdvance = !document.hidden && !reducedMotion.matches && isVisible && now >= resumeAt;
       if (canAdvance && cycleWidth) {
-        viewport.scrollLeft += elapsed * velocity;
-        normalizeScroll();
+        motionRemainder += elapsed * velocity;
+        var wholePixels = Math.trunc(motionRemainder);
+        if (wholePixels) {
+          viewport.scrollLeft += wholePixels;
+          motionRemainder -= wholePixels;
+          normalizeScroll();
+        }
       }
       window.requestAnimationFrame(animate);
     }
@@ -579,5 +585,12 @@ These results suggest that decision-making, emotion, and memory-related brain re
   ));
 
   heading.after(orbits);
+  if (window.location.hash === '#news') {
+    var alignNews = function () { heading.scrollIntoView({ block: 'start' }); };
+    window.requestAnimationFrame(alignNews);
+    window.addEventListener('pageshow', function () {
+      window.setTimeout(alignNews, 0);
+    }, { once: true });
+  }
 }());
 </script>
