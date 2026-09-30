@@ -9,7 +9,7 @@ permalink: /
 
 <h2 id="news">Welcome to our Lab</h2>
 
-**2026.09.21** ANDLab hosted a welcome dinner, bringing faculty and students together for meaningful conversations and a joyful celebration of several students' birthdays.
+**2026.09.20** ANDLab hosted a welcome dinner, bringing faculty and students together for meaningful conversations and a joyful celebration of several students' birthdays.
 
 <img src="{{ '/assets/images/news/921lab.png' | relative_url }}" alt="ANDLab faculty and students at a welcome dinner and birthday celebration" loading="lazy" align="center" width="600">
 
