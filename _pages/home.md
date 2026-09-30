@@ -389,34 +389,107 @@ These results suggest that decision-making, emotion, and memory-related brain re
     categorizedEntries[category].push(makeOrbitCard(entry, category, categorizedEntries[category].length));
   });
 
-  function makeOrbit(label, direction, cards) {
+  function makeOrbit(label, cards) {
     var lane = document.createElement('section');
+    var laneHeading = document.createElement('div');
+    var title = document.createElement('h3');
+    var controls = document.createElement('div');
+    var previous = document.createElement('button');
+    var status = document.createElement('span');
+    var next = document.createElement('button');
     var viewport = document.createElement('div');
     var track = document.createElement('div');
     var primaryGroup = document.createElement('div');
-    var duplicateGroup = document.createElement('div');
 
-    lane.className = 'news-orbit news-orbit--' + direction;
+    lane.className = 'news-orbit';
     lane.setAttribute('aria-label', label);
+    laneHeading.className = 'news-orbit__heading';
+    title.className = 'news-orbit__title';
+    title.textContent = label;
+    controls.className = 'news-orbit__controls';
+    controls.setAttribute('role', 'group');
+    controls.setAttribute('aria-label', label + ' navigation');
+    previous.className = 'news-orbit__button';
+    previous.type = 'button';
+    previous.setAttribute('aria-label', 'Previous ' + label);
+    previous.innerHTML = '<span aria-hidden="true">&#8592;</span>';
+    status.className = 'news-orbit__status';
+    status.setAttribute('aria-live', 'polite');
+    status.setAttribute('aria-atomic', 'true');
+    next.className = 'news-orbit__button';
+    next.type = 'button';
+    next.setAttribute('aria-label', 'Next ' + label);
+    next.innerHTML = '<span aria-hidden="true">&#8594;</span>';
     viewport.className = 'news-orbit__viewport';
+    viewport.setAttribute('role', 'region');
+    viewport.setAttribute('aria-label', label + ' news stories');
+    viewport.tabIndex = 0;
     track.className = 'news-orbit__track';
     primaryGroup.className = 'news-orbit__group';
-    duplicateGroup.className = 'news-orbit__group news-orbit__group--duplicate';
-    duplicateGroup.setAttribute('aria-hidden', 'true');
 
     cards.forEach(function (card) {
       primaryGroup.appendChild(card);
-      var duplicate = card.cloneNode(true);
-      duplicate.querySelectorAll('a, button, input, select, textarea').forEach(function (control) {
-        control.setAttribute('tabindex', '-1');
-      });
-      duplicateGroup.appendChild(duplicate);
     });
 
     track.appendChild(primaryGroup);
-    track.appendChild(duplicateGroup);
     viewport.appendChild(track);
+    laneHeading.appendChild(title);
+    controls.appendChild(previous);
+    controls.appendChild(status);
+    controls.appendChild(next);
+    laneHeading.appendChild(controls);
+    lane.appendChild(laneHeading);
     lane.appendChild(viewport);
+
+    var activeIndex = 0;
+    function setControlState(index) {
+      activeIndex = index;
+      status.textContent = cards.length ? (activeIndex + 1) + ' / ' + cards.length : '0 / 0';
+      previous.disabled = activeIndex === 0;
+      next.disabled = activeIndex >= cards.length - 1;
+    }
+
+    function updateControls() {
+      var viewportLeft = viewport.getBoundingClientRect().left + parseFloat(window.getComputedStyle(viewport).paddingLeft);
+      var closestDistance = Infinity;
+      var closestIndex = 0;
+      cards.forEach(function (card, index) {
+        var distance = Math.abs(card.getBoundingClientRect().left - viewportLeft);
+        if (distance < closestDistance) {
+          closestDistance = distance;
+          closestIndex = index;
+        }
+      });
+      setControlState(closestIndex);
+    }
+
+    function showCard(index) {
+      var card = cards[index];
+      if (!card) return;
+      var viewportLeft = viewport.getBoundingClientRect().left + parseFloat(window.getComputedStyle(viewport).paddingLeft);
+      var targetLeft = viewport.scrollLeft + card.getBoundingClientRect().left - viewportLeft;
+      var reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+      viewport.scrollTo({ left: targetLeft, behavior: reducedMotion ? 'auto' : 'smooth' });
+      setControlState(index);
+    }
+
+    previous.addEventListener('click', function () {
+      showCard(activeIndex - 1);
+    });
+    next.addEventListener('click', function () {
+      showCard(activeIndex + 1);
+    });
+    viewport.addEventListener('scroll', updateControls, { passive: true });
+    viewport.addEventListener('keydown', function (event) {
+      if (event.key === 'ArrowLeft' && activeIndex > 0) {
+        event.preventDefault();
+        showCard(activeIndex - 1);
+      } else if (event.key === 'ArrowRight' && activeIndex < cards.length - 1) {
+        event.preventDefault();
+        showCard(activeIndex + 1);
+      }
+    });
+    updateControls();
     return lane;
   }
 
@@ -424,12 +497,10 @@ These results suggest that decision-making, emotion, and memory-related brain re
   orbits.className = 'news-orbits';
   orbits.appendChild(makeOrbit(
     'Lab Life',
-    'left',
     categorizedEntries.life
   ));
   orbits.appendChild(makeOrbit(
     'Publications',
-    'right',
     categorizedEntries.papers
   ));
 
