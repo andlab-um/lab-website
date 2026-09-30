@@ -389,107 +389,166 @@ These results suggest that decision-making, emotion, and memory-related brain re
     categorizedEntries[category].push(makeOrbitCard(entry, category, categorizedEntries[category].length));
   });
 
-  function makeOrbit(label, cards) {
+  function makeOrbit(label, direction, cards) {
     var lane = document.createElement('section');
-    var laneHeading = document.createElement('div');
-    var title = document.createElement('h3');
-    var controls = document.createElement('div');
-    var previous = document.createElement('button');
-    var status = document.createElement('span');
-    var next = document.createElement('button');
     var viewport = document.createElement('div');
     var track = document.createElement('div');
+    var leadingGroup = document.createElement('div');
     var primaryGroup = document.createElement('div');
+    var trailingGroup = document.createElement('div');
 
-    lane.className = 'news-orbit';
+    lane.className = 'news-orbit news-orbit--' + direction;
     lane.setAttribute('aria-label', label);
-    laneHeading.className = 'news-orbit__heading';
-    title.className = 'news-orbit__title';
-    title.textContent = label;
-    controls.className = 'news-orbit__controls';
-    controls.setAttribute('role', 'group');
-    controls.setAttribute('aria-label', label + ' navigation');
-    previous.className = 'news-orbit__button';
-    previous.type = 'button';
-    previous.setAttribute('aria-label', 'Previous ' + label);
-    previous.innerHTML = '<span aria-hidden="true">&#8592;</span>';
-    status.className = 'news-orbit__status';
-    status.setAttribute('aria-live', 'polite');
-    status.setAttribute('aria-atomic', 'true');
-    next.className = 'news-orbit__button';
-    next.type = 'button';
-    next.setAttribute('aria-label', 'Next ' + label);
-    next.innerHTML = '<span aria-hidden="true">&#8594;</span>';
     viewport.className = 'news-orbit__viewport';
     viewport.setAttribute('role', 'region');
-    viewport.setAttribute('aria-label', label + ' news stories');
+    viewport.setAttribute('aria-label', label + ' news stories; swipe or drag to browse');
     viewport.tabIndex = 0;
     track.className = 'news-orbit__track';
+    leadingGroup.className = 'news-orbit__group news-orbit__group--duplicate';
+    leadingGroup.setAttribute('aria-hidden', 'true');
     primaryGroup.className = 'news-orbit__group';
+    trailingGroup.className = 'news-orbit__group news-orbit__group--duplicate';
+    trailingGroup.setAttribute('aria-hidden', 'true');
 
     cards.forEach(function (card) {
+      var leadingCard = card.cloneNode(true);
+      var trailingCard = card.cloneNode(true);
+      [leadingCard, trailingCard].forEach(function (duplicate) {
+        duplicate.querySelectorAll('a, button, input, select, textarea').forEach(function (control) {
+          control.setAttribute('tabindex', '-1');
+        });
+      });
+      leadingGroup.appendChild(leadingCard);
       primaryGroup.appendChild(card);
+      trailingGroup.appendChild(trailingCard);
     });
 
+    track.appendChild(leadingGroup);
     track.appendChild(primaryGroup);
+    track.appendChild(trailingGroup);
     viewport.appendChild(track);
-    laneHeading.appendChild(title);
-    controls.appendChild(previous);
-    controls.appendChild(status);
-    controls.appendChild(next);
-    laneHeading.appendChild(controls);
-    lane.appendChild(laneHeading);
     lane.appendChild(viewport);
 
-    var activeIndex = 0;
-    function setControlState(index) {
-      activeIndex = index;
-      status.textContent = cards.length ? (activeIndex + 1) + ' / ' + cards.length : '0 / 0';
-      previous.disabled = activeIndex === 0;
-      next.disabled = activeIndex >= cards.length - 1;
+    var cycleWidth = 0;
+    var lastFrame = 0;
+    var pauseUntil = performance.now() + 3000;
+    var isHovered = false;
+    var isFocused = false;
+    var isTouching = false;
+    var isDragging = false;
+    var pointerActive = false;
+    var pointerStartX = 0;
+    var pointerStartScroll = 0;
+    var suppressClick = false;
+    var reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
+
+    function normalizeScroll() {
+      if (!cycleWidth) return 0;
+      var previousScroll = viewport.scrollLeft;
+      if (previousScroll <= 0) viewport.scrollLeft = previousScroll + cycleWidth;
+      if (previousScroll >= cycleWidth * 2) viewport.scrollLeft = previousScroll - cycleWidth;
+      return viewport.scrollLeft - previousScroll;
     }
 
-    function updateControls() {
-      var viewportLeft = viewport.getBoundingClientRect().left + parseFloat(window.getComputedStyle(viewport).paddingLeft);
-      var closestDistance = Infinity;
-      var closestIndex = 0;
-      cards.forEach(function (card, index) {
-        var distance = Math.abs(card.getBoundingClientRect().left - viewportLeft);
-        if (distance < closestDistance) {
-          closestDistance = distance;
-          closestIndex = index;
-        }
-      });
-      setControlState(closestIndex);
+    function measureOrbit() {
+      var previousWidth = cycleWidth;
+      var relativeScroll = previousWidth ? (viewport.scrollLeft - previousWidth) / previousWidth : 0;
+      cycleWidth = primaryGroup.getBoundingClientRect().width + parseFloat(window.getComputedStyle(track).gap);
+      viewport.scrollLeft = cycleWidth * (1 + relativeScroll);
     }
 
-    function showCard(index) {
-      var card = cards[index];
-      if (!card) return;
-      var viewportLeft = viewport.getBoundingClientRect().left + parseFloat(window.getComputedStyle(viewport).paddingLeft);
-      var targetLeft = viewport.scrollLeft + card.getBoundingClientRect().left - viewportLeft;
-      var reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-      viewport.scrollTo({ left: targetLeft, behavior: reducedMotion ? 'auto' : 'smooth' });
-      setControlState(index);
+    function animate(now) {
+      var elapsed = Math.min(now - (lastFrame || now), 64);
+      lastFrame = now;
+      if (!document.hidden && !reducedMotion.matches && !isHovered && !isFocused && !isTouching && !isDragging && now > pauseUntil && cycleWidth) {
+        viewport.scrollLeft += elapsed * (direction === 'left' ? 0.024 : -0.022);
+        normalizeScroll();
+      }
+      window.requestAnimationFrame(animate);
     }
 
-    previous.addEventListener('click', function () {
-      showCard(activeIndex - 1);
+    lane.addEventListener('pointerenter', function (event) {
+      if (event.pointerType === 'mouse') isHovered = true;
     });
-    next.addEventListener('click', function () {
-      showCard(activeIndex + 1);
+    lane.addEventListener('pointerleave', function (event) {
+      if (event.pointerType === 'mouse') isHovered = false;
     });
-    viewport.addEventListener('scroll', updateControls, { passive: true });
-    viewport.addEventListener('keydown', function (event) {
-      if (event.key === 'ArrowLeft' && activeIndex > 0) {
+    lane.addEventListener('focusin', function () {
+      isFocused = true;
+    });
+    lane.addEventListener('focusout', function (event) {
+      if (!lane.contains(event.relatedTarget)) isFocused = false;
+    });
+    viewport.addEventListener('touchstart', function () {
+      isTouching = true;
+    }, { passive: true });
+    viewport.addEventListener('touchend', function () {
+      isTouching = false;
+      pauseUntil = performance.now() + 8000;
+    }, { passive: true });
+    viewport.addEventListener('touchcancel', function () {
+      isTouching = false;
+      pauseUntil = performance.now() + 8000;
+    }, { passive: true });
+    viewport.addEventListener('wheel', function (event) {
+      if (Math.abs(event.deltaX) > Math.abs(event.deltaY)) pauseUntil = performance.now() + 8000;
+    }, { passive: true });
+    viewport.addEventListener('pointerdown', function (event) {
+      if (event.pointerType !== 'mouse' || event.button !== 0) return;
+      pointerActive = true;
+      pointerStartX = event.clientX;
+      pointerStartScroll = viewport.scrollLeft;
+    });
+    viewport.addEventListener('pointermove', function (event) {
+      if (!pointerActive) return;
+      var distance = event.clientX - pointerStartX;
+      if (!isDragging && Math.abs(distance) > 6) {
+        isDragging = true;
+        viewport.classList.add('is-dragging');
+        viewport.setPointerCapture(event.pointerId);
+      }
+      if (isDragging) {
         event.preventDefault();
-        showCard(activeIndex - 1);
-      } else if (event.key === 'ArrowRight' && activeIndex < cards.length - 1) {
-        event.preventDefault();
-        showCard(activeIndex + 1);
+        viewport.scrollLeft = pointerStartScroll - distance;
+        pointerStartScroll += normalizeScroll();
       }
     });
-    updateControls();
+    function endDrag() {
+      if (!pointerActive) return;
+      pointerActive = false;
+      if (isDragging) {
+        suppressClick = true;
+        window.setTimeout(function () { suppressClick = false; }, 0);
+      }
+      isDragging = false;
+      viewport.classList.remove('is-dragging');
+      pauseUntil = performance.now() + 8000;
+    }
+    window.addEventListener('pointerup', endDrag);
+    window.addEventListener('pointercancel', endDrag);
+    viewport.addEventListener('dragstart', function (event) {
+      event.preventDefault();
+    });
+    viewport.addEventListener('click', function (event) {
+      if (!suppressClick) return;
+      event.preventDefault();
+      event.stopPropagation();
+      suppressClick = false;
+    }, true);
+    viewport.addEventListener('scroll', normalizeScroll, { passive: true });
+    viewport.addEventListener('keydown', function (event) {
+      if (!cards.length || (event.key !== 'ArrowLeft' && event.key !== 'ArrowRight')) return;
+      event.preventDefault();
+      pauseUntil = performance.now() + 8000;
+      viewport.scrollBy({ left: (cards[0].offsetWidth + parseFloat(window.getComputedStyle(track).gap)) * (event.key === 'ArrowRight' ? 1 : -1), behavior: reducedMotion.matches ? 'auto' : 'smooth' });
+    });
+    if (cards.length) {
+      window.addEventListener('resize', measureOrbit);
+      window.requestAnimationFrame(function () {
+        measureOrbit();
+        window.requestAnimationFrame(animate);
+      });
+    }
     return lane;
   }
 
@@ -497,10 +556,12 @@ These results suggest that decision-making, emotion, and memory-related brain re
   orbits.className = 'news-orbits';
   orbits.appendChild(makeOrbit(
     'Lab Life',
+    'left',
     categorizedEntries.life
   ));
   orbits.appendChild(makeOrbit(
     'Publications',
+    'right',
     categorizedEntries.papers
   ));
 
