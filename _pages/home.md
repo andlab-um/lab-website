@@ -9,6 +9,10 @@ permalink: /
 
 <h2 id="news">Welcome to our Lab</h2>
 
+**2026.09.21** ANDLab hosted a welcome dinner, bringing faculty and students together for meaningful conversations and a joyful celebration of several students' birthdays.
+
+<img src="{{ '/assets/images/news/921lab.png' | relative_url }}" alt="ANDLab faculty and students at a welcome dinner and birthday celebration" loading="lazy" align="center" width="600">
+
 **2026.08.29** Congratulations to our lab's master student Jiawen Yang on winning the Best Poster Award at The 7th Macau Symposium on Cognitive and Brain Sciences (MSCBS 2026)! A fantastic achievement—well deserved! 🎉
 
 <p align="center" style="display: flex; justify-content: center; margin: 0; padding: 0;">
