@@ -1792,83 +1792,25 @@ a {
     }
 
     .news-orbit + .news-orbit {
-        margin-top: 28px;
-    }
-
-    .news-orbit__heading {
-        display: flex;
-        max-width: 1440px;
-        margin: 0 auto 12px;
-        padding-inline: clamp(24px, 5vw, 80px);
-        align-items: center;
-        justify-content: space-between;
-        gap: 20px;
-    }
-
-    .news-orbit__title {
-        margin: 0;
-        color: var(--and-ink);
-        font-family: $display-font;
-        font-size: 18px;
-        font-weight: 700;
-    }
-
-    .news-orbit__controls {
-        display: flex;
-        align-items: center;
-        gap: 8px;
-        color: var(--and-muted);
-    }
-
-    .news-orbit__button {
-        display: grid;
-        width: 44px;
-        height: 44px;
-        padding: 0;
-        place-items: center;
-        border: 1px solid var(--and-line);
-        border-radius: 50%;
-        color: var(--and-accent);
-        background: rgba(255, 255, 255, .9);
-        font-size: 20px;
-        cursor: pointer;
-        transition: color 180ms ease, border-color 180ms ease, background 180ms ease, opacity 180ms ease;
-
-        &:hover:not(:disabled) {
-            border-color: var(--and-accent);
-            color: #fff;
-            background: var(--and-accent);
-        }
-
-        &:focus-visible {
-            outline: 3px solid rgba(65, 145, 255, .35);
-            outline-offset: 3px;
-        }
-
-        &:disabled {
-            opacity: .38;
-            cursor: default;
-        }
-    }
-
-    .news-orbit__status {
-        min-width: 52px;
-        font-size: 13px;
-        font-variant-numeric: tabular-nums;
-        text-align: center;
+        margin-top: 38px;
     }
 
     .news-orbit__viewport {
         overflow-x: auto;
         overflow-y: hidden;
-        padding-inline: clamp(24px, 5vw, 80px);
-        scroll-padding-inline: clamp(24px, 5vw, 80px);
-        scroll-snap-type: x mandatory;
         scrollbar-width: none;
         -webkit-overflow-scrolling: touch;
+        -webkit-mask-image: linear-gradient(90deg, transparent, #000 4%, #000 96%, transparent);
+        mask-image: linear-gradient(90deg, transparent, #000 4%, #000 96%, transparent);
+        cursor: grab;
 
         &::-webkit-scrollbar {
             display: none;
+        }
+
+        &.is-dragging {
+            cursor: grabbing;
+            user-select: none;
         }
 
         &:focus-visible {
@@ -1879,10 +1821,11 @@ a {
 
     .news-orbit__track {
         --orbit-gap: 26px;
+        --news-card-width: clamp(410px, 34vw, 500px);
         display: flex;
         gap: var(--orbit-gap);
         width: max-content;
-        padding-block: 6px 12px;
+        padding: 6px max(0px, calc((100vw - var(--news-card-width)) / 2)) 12px;
     }
 
     .news-orbit__group {
@@ -1894,11 +1837,9 @@ a {
         display: grid;
         grid-template-columns: minmax(0, 1fr);
         grid-template-rows: repeat(2, minmax(250px, 1fr));
-        flex: 0 0 clamp(410px, 34vw, 500px);
-        width: clamp(410px, 34vw, 500px);
+        flex: 0 0 var(--news-card-width);
+        width: var(--news-card-width);
         min-height: 500px;
-        scroll-snap-align: start;
-        scroll-snap-stop: always;
         overflow: hidden;
         border: 1px solid rgba(74, 111, 161, .16);
         border-radius: 18px;
@@ -2074,18 +2015,13 @@ a {
             margin-top: 30px;
         }
 
-        .news-orbit__heading {
-            padding-inline: 20px;
-        }
-
         .news-orbit__track {
             --orbit-gap: 16px;
+            --news-card-width: min(86vw, 380px);
         }
 
         .news-orbit-card {
             grid-template-rows: repeat(2, minmax(210px, 1fr));
-            flex-basis: min(86vw, 380px);
-            width: min(86vw, 380px);
             min-height: 420px;
             border-radius: 15px;
         }
