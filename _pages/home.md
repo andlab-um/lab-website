@@ -430,10 +430,8 @@ These results suggest that decision-making, emotion, and memory-related brain re
     lane.appendChild(viewport);
 
     var cycleWidth = 0;
-    var nextAdvanceAt = performance.now() + 3000;
-    var advanceStart = 0;
-    var advanceFrom = 0;
-    var advanceDistance = 0;
+    var lastFrame = 0;
+    var resumeAt = performance.now() + 3000;
     var isFocused = false;
     var isTouching = false;
     var isDragging = false;
@@ -442,10 +440,10 @@ These results suggest that decision-making, emotion, and memory-related brain re
     var pointerStartScroll = 0;
     var suppressClick = false;
     var reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
+    var velocity = direction === 'left' ? .06 : -.06;
 
-    function postponeAdvance(delay) {
-      advanceStart = 0;
-      nextAdvanceAt = performance.now() + delay;
+    function postponePlayback(delay) {
+      resumeAt = performance.now() + delay;
     }
 
     function normalizeScroll() {
@@ -464,26 +462,16 @@ These results suggest that decision-making, emotion, and memory-related brain re
     }
 
     function animate(now) {
+      var elapsed = Math.min(now - (lastFrame || now), 64);
+      lastFrame = now;
       var bounds = lane.getBoundingClientRect();
       var isVisible = bounds.top < window.innerHeight * .85 && bounds.bottom > window.innerHeight * .15;
       var canAdvance = !document.hidden && !reducedMotion.matches && isVisible && !isFocused && !isTouching && !pointerActive && !isDragging;
       if (!canAdvance) {
-        advanceStart = 0;
-        nextAdvanceAt = Math.max(nextAdvanceAt, now + 3000);
-      } else if (cycleWidth && now >= nextAdvanceAt) {
-        if (!advanceStart) {
-          advanceStart = now;
-          advanceFrom = viewport.scrollLeft;
-          advanceDistance = (cards[0].getBoundingClientRect().width + parseFloat(window.getComputedStyle(track).gap)) * (direction === 'left' ? 1 : -1);
-        }
-        var progress = Math.min((now - advanceStart) / 850, 1);
-        var eased = progress < .5 ? 4 * progress * progress * progress : 1 - Math.pow(-2 * progress + 2, 3) / 2;
-        viewport.scrollLeft = advanceFrom + advanceDistance * eased;
-        advanceFrom += normalizeScroll();
-        if (progress === 1) {
-          advanceStart = 0;
-          nextAdvanceAt = now + 4000;
-        }
+        resumeAt = Math.max(resumeAt, now + 3000);
+      } else if (cycleWidth && now >= resumeAt) {
+        viewport.scrollLeft += elapsed * velocity;
+        normalizeScroll();
       }
       window.requestAnimationFrame(animate);
     }
@@ -496,22 +484,22 @@ These results suggest that decision-making, emotion, and memory-related brain re
     });
     viewport.addEventListener('touchstart', function () {
       isTouching = true;
-      postponeAdvance(5000);
+      postponePlayback(5000);
     }, { passive: true });
     viewport.addEventListener('touchend', function () {
       isTouching = false;
-      postponeAdvance(5000);
+      postponePlayback(5000);
     }, { passive: true });
     viewport.addEventListener('touchcancel', function () {
       isTouching = false;
-      postponeAdvance(5000);
+      postponePlayback(5000);
     }, { passive: true });
     viewport.addEventListener('wheel', function (event) {
-      if (Math.abs(event.deltaX) > Math.abs(event.deltaY)) postponeAdvance(5000);
+      if (Math.abs(event.deltaX) > Math.abs(event.deltaY)) postponePlayback(5000);
     }, { passive: true });
     viewport.addEventListener('pointerdown', function (event) {
       isFocused = false;
-      postponeAdvance(5000);
+      postponePlayback(5000);
       if (event.pointerType !== 'mouse' || event.button !== 0) return;
       pointerActive = true;
       pointerStartX = event.clientX;
@@ -540,7 +528,7 @@ These results suggest that decision-making, emotion, and memory-related brain re
       }
       isDragging = false;
       viewport.classList.remove('is-dragging');
-      postponeAdvance(5000);
+      postponePlayback(5000);
     }
     window.addEventListener('pointerup', endDrag);
     window.addEventListener('pointercancel', endDrag);
@@ -558,12 +546,12 @@ These results suggest that decision-making, emotion, and memory-related brain re
       if (!cards.length || (event.key !== 'ArrowLeft' && event.key !== 'ArrowRight')) return;
       event.preventDefault();
       isFocused = true;
-      postponeAdvance(5000);
+      postponePlayback(5000);
       viewport.scrollBy({ left: (cards[0].offsetWidth + parseFloat(window.getComputedStyle(track).gap)) * (event.key === 'ArrowRight' ? 1 : -1), behavior: reducedMotion.matches ? 'auto' : 'smooth' });
     });
     if (cards.length) {
       window.addEventListener('resize', function () {
-        postponeAdvance(3000);
+        postponePlayback(3000);
         measureOrbit();
       });
       window.requestAnimationFrame(function () {
