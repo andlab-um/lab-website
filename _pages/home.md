@@ -9,6 +9,13 @@ permalink: /
 
 <h2 id="news">Welcome to our Lab</h2>
 
+
+
+**2026.10.08** Congratulations to Our Former Member on NSSFC Grant! 
+
+We are delighted to announce that a former member of ANDlab – [Yanyan Qi, former PhD student]– has received prestigious funding from the National Social Science Fund of China (NSSFC). We extend our warmest congratulations to her on this remarkable achievement!🎉
+
+
 **2026.09.20** ANDLab hosted a welcome dinner, bringing faculty and students together for meaningful conversations and a joyful celebration of several students' birthdays.
 
 <img src="{{ '/assets/images/news/921lab.png' | relative_url }}" alt="ANDLab faculty and students at a welcome dinner and birthday celebration" loading="lazy" align="center" width="600">
