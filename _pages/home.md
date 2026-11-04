@@ -9,9 +9,13 @@ permalink: /
 
 <h2 id="news">Welcome to our Lab</h2>
 
+
 **2026.11.04** ANDLab's work titled "Self-Other Neural Representational Distinction is Associated with Distorted Social Predictions in Social Anxiety" is accepted by *eLife*!
 
-<img src="{{ '/assets/images/news/1104elif.png' | relative_url }}" align="center" width="600">
+<p>
+  <img src="{{ '/assets/images/news/1104elif.png' | relative_url }}" alt="Self–other neural representations and social anxiety" loading="lazy" width="600">
+</p>
+
 
 **2026.10.15** ANDLab PI Professor Haiyan Wu was invited to speak in the Cambridge Department of Psychiatry and CPFT Thursday Lunchtime Seminar Series. She delivered a talk titled “Neural Integration of Fear and Escape Decisions Under Naturalistic Threat”.
 
