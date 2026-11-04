@@ -9,6 +9,8 @@ permalink: /
 
 <h2 id="news">Welcome to our Lab</h2>
 
+**2026.11.04** Congratulations to former ANDLab member **Yanyan Qi** on the acceptance of their article titled **[“Self-Other Neural Representational Distinction is Associated with Distorted Social Predictions in Social Anxiety”](https://doi.org/10.64898/2026.10.29.762906){:target="_blank"}** in **eLife**!
+
 **2026.10.15** ANDLab PI Professor Haiyan Wu was invited to speak in the Cambridge Department of Psychiatry and CPFT Thursday Lunchtime Seminar Series. She delivered a talk titled “Neural Integration of Fear and Escape Decisions Under Naturalistic Threat”.
 
 **2026.10.08** Congratulations to Our Former Member on NSSFC Grant! 
