@@ -52,6 +52,11 @@
 
 - title: Master Students
   members:
+      - name: "Jiawen Yang"
+      image: yangjiawen.jpg
+      content: Yang Jiawen is a two-year master’s student currently enrolled in the Cognitive Neuroscience program at the University of Macau. She graduated from Shanxi Normal University with a bachelor’s degree in Psychology. Her research focuses on the relationship between behavioral decision-making, dishonest behavior, and personal preferences under TI stimulation.
+      social:
+        email: mc56517@um.edu.mo
     - name: Meijiaozi Sun
       image: meijiaozisun.png.jpg
       content: Meijiaozi Sun is a first-year graduate student in the lab, majoring in Cognitive Neuroscience. She graduated with a B.S. in Software Engineering from Dalian University of Technology. Her current research interests lie in the psychological applications related to Human-AI interaction.    
