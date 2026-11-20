@@ -66,7 +66,11 @@
     - name: Guanghan Zhang
       image: GuanghanZhang.png
       content: Guanghan Zhang is a graduate student in the lab, majoring in Cognitive Neuroscience. He graduated with a B.E. degree in Biological Engineering from Harbin Institute of Technology. He has a great interest in the human brain and how cognitive functions are implemented. Now, he is investigating the relationship between learning and prosocial behavior in decision-making.
-
+    - name: "Yujing Zhang"
+      image: zhangyujing.jpg
+      content: Yujing Zhang is a master’s student in Cognitive Neuroscience at the University of Macau. She holds dual bachelor’s degrees in Japanese Language and Literature and Applied Psychology from Shenzhen University. Her research interests lie in social cognition and decision-making, particularly how people use social information to adapt their behaviour. Her current work explores the behavioural and neural mechanisms of role switching in cooperative and competitive interactions.
+      social:
+        email: mc56538@um.edu.mo
 - title: Research Assistant
   members:
     - name: Eric Wang
