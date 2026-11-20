@@ -49,6 +49,9 @@
     - name: Shuo Zhang
       image: shuozhang.png
       content: Shuo Zhang is currently a first-year Ph.D. student in the lab. My main research interest is to apply machine learning models to explore the neural mechanisms of people's decision-making in complex processes (such as games). I received my master's and bachelor's degrees from the Southern University of Science and Technology, with a master's degree in electronic science and technology and a bachelor's degree in physics.
+    - name: Jing Rui
+      image: JingRui.jpg
+      content: Jing Rui is a first-year PhD student in the Department of Psychology at the University of Macau. He holds a degree in software engineering from Shandong University. His research combines virtual reality with scalp and intracranial EEG recordings to study the neural mechanisms underlying social decision-making. Jing Rui is also interested in human–computer interaction, particularly how people respond to feedback from AI systems.
 
 - title: Master Students
   members:
