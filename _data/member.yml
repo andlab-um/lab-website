@@ -16,6 +16,14 @@
         email: haiyanwu@um.edu.mo
         website: "https://haiyanwu.wixsite.com/haiyanwu"
 
+- title: Postdoctoral Fellows
+  members:
+    - name: Yidan Qiu
+      image: yidanqiu.png
+      content: Yidan is a first-year postdoctoral researcher who received her Ph.D. in Psychology from South China Normal University, China. Her research focuses on the neural mechanisms underlying cognitive maps, using multimodal approaches to investigate how the human brain organizes complex information into structured representations. Ultimately, she aims to understand how these representations support flexible learning, inference, and decision-making.
+      social:
+        email: qiuyidan@gdiist.cn
+        
 - title: PhD Students
   members:
     - name: Haoming Zhang
