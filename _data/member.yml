@@ -68,25 +68,26 @@
 
 - title: Master Students
   members:
-    - name: "Jiawen Yang"
+    - name: Jiawen Yang
       image: yangjiawen.jpg
       content: Jiawen Yang is a second-year master’s student currently enrolled in the Cognitive Neuroscience program at the University of Macau. She graduated from Shanxi Normal University with a bachelor’s degree in Psychology. Her research focuses on the relationship between behavioral decision-making, dishonest behavior, and personal preferences under TI stimulation.
       social:
         email: mc56517@um.edu.mo
-    - name: Meijiaozi Sun
-      image: meijiaozisun.png.jpg
-      content: Meijiaozi Sun is a first-year graduate student in the lab, majoring in Cognitive Neuroscience. She graduated with a B.S. in Software Engineering from Dalian University of Technology. Her current research interests lie in the psychological applications related to Human-AI interaction.    
-    - name: Shuyi Dong
-      image: shuyidong.png
-      content: Shuyi Dong is a first-year graduate student in the lab, majoring in Cognitive Neuroscience. She graduated with a B.S. degree in Human Resource Management from Zhejiang Gongshang University. She is mainly interested in moral decision-making in human behavior and social interactions. She is also interested in behavioral control and addiction.
-    - name: Guanghan Zhang
-      image: GuanghanZhang.png
-      content: Guanghan Zhang is a graduate student in the lab, majoring in Cognitive Neuroscience. He graduated with a B.E. degree in Biological Engineering from Harbin Institute of Technology. He has a great interest in the human brain and how cognitive functions are implemented. Now, he is investigating the relationship between learning and prosocial behavior in decision-making.
-    - name: "Yujing Zhang"
+    # - name: Meijiaozi Sun
+    #   image: meijiaozisun.png.jpg
+    #   content: Meijiaozi Sun is a first-year graduate student in the lab, majoring in Cognitive Neuroscience. She graduated with a B.S. in Software Engineering from Dalian University of Technology. Her current research interests lie in the psychological applications related to Human-AI interaction.    
+    # - name: Shuyi Dong
+    #   image: shuyidong.png
+    #   content: Shuyi Dong is a first-year graduate student in the lab, majoring in Cognitive Neuroscience. She graduated with a B.S. degree in Human Resource Management from Zhejiang Gongshang University. She is mainly interested in moral decision-making in human behavior and social interactions. She is also interested in behavioral control and addiction.
+    # - name: Guanghan Zhang
+    #   image: GuanghanZhang.png
+    #   content: Guanghan Zhang is a graduate student in the lab, majoring in Cognitive Neuroscience. He graduated with a B.E. degree in Biological Engineering from Harbin Institute of Technology. He has a great interest in the human brain and how cognitive functions are implemented. Now, he is investigating the relationship between learning and prosocial behavior in decision-making.
+    - name: Yujing Zhang
       image: zhangyujing.jpg
       content: Yujing Zhang is a master’s student in Cognitive Neuroscience at the University of Macau. She holds dual bachelor’s degrees in Japanese Language and Literature and Applied Psychology from Shenzhen University. Her research interests lie in social cognition and decision-making, particularly how people use social information to adapt their behaviour. Her current work explores the behavioural and neural mechanisms of role switching in cooperative and competitive interactions.
       social:
         email: mc56538@um.edu.mo
+
 - title: Research Assistant
   members:
     - name: Eric Wang
@@ -95,9 +96,9 @@
       social:
         email: eric.wang2004nz@link.cuhk.edu.hk
         website: "https://ricwan4.github.io/"
+
 - title: Undergraduate Students
   members:
-   
     - name: Jiuxuan Gan
       image: JiuxuanGan.jpg
       content: Jiuxuan Gan is an undergraduate student majoring in Psychology at the University of Macau. He has joined the lab since his freshman year and is interested in how people manage their emotions and how they make decisions in the face of emotional disturbances. Currently, he is working on the topic of meaning in life, studying the influence of emotions on people's perception of the meaning in life.
