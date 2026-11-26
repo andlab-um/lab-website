@@ -25,7 +25,7 @@
         email: qiuyidan@gdiist.cn
     - name: Lili Sun
       image: sunlili.png
-      content: Lili is a first-year postdoctoral researcher who received her Ph.D. in Biomedical Engineering from Harbin Institute of Technology. Her research investigates how the human brain transforms continuous experience into structured memory, with a focus on the hippocampal circuit. Using naturalistic paradigms and fMRI, she studies pattern separation and completion, representational differentiation and integration across hippocampal subfields, and the cortical encoding of prediction errors. Ultimately, she aims to understand how these neural computations build internal models of the world that support memory and cognition.
+      content: Lili is a first-year postdoctoral researcher who received her Ph.D. in Biomedical Engineering from Harbin Institute of Technology. Using naturalistic paradigms, her research explores how the hippocampal circuit and cortical networks transform continuous experience into structured memory, spanning pattern separation and completion, representational differentiation and integration across hippocampal subfields, and prediction-error encoding. She aims to understand how these neural computations build internal models of the world that support memory and cognition.
       social:
         email: sesri.sun@gmail.com       
         
@@ -62,6 +62,9 @@
     - name: Shuo Zhang
       image: shuozhang.png
       content: Shuo Zhang is currently a first-year Ph.D. student in the lab. My main research interest is to apply machine learning models to explore the neural mechanisms of people's decision-making in complex processes (such as games). I received my master's and bachelor's degrees from the Southern University of Science and Technology, with a master's degree in electronic science and technology and a bachelor's degree in physics.
+    - name: Xinze Wang
+      image: xinzewang.png
+      content: Xinze Wang is a second-year PhD student at the Centre for Cognitive and Brain Sciences at the University of Macau. He received his M.Sc. in Cognitive Neuroscience from the University of Macau. His research utilizes multimodal neuromodulation techniques to investigate the neural mechanisms underlying cognitive decision-making in social interaction contexts.
     - name: Jing Rui
       image: JingRui.jpg
       content: Jing Rui is a first-year PhD student in the Department of Psychology at the University of Macau. He holds a degree in software engineering from Shandong University. His research combines virtual reality with scalp and intracranial EEG recordings to study the neural mechanisms underlying social decision-making. Jing Rui is also interested in human–computer interaction, particularly how people respond to feedback from AI systems.
