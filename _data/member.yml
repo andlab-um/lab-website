@@ -55,10 +55,10 @@
         email: yc27383@connect.um.edu.mo
     - name: Jingmin Qin
       image: jingminqin.png
-      content: I am a third-year PhD student in the lab. I received my B.E. degree in Economics from China University of Geosciences (Beijing) and my M.E. degree in Psychology from Southwest University. Recently, I have been exploring the secrets behind social cognition and interaction, especially focusing on mentalization. I am very interested in understanding the dynamic neural mechanisms of direct and indirect mentalization.
+      content: I am a fourth-year PhD student in the lab. I received my B.E. degree in Economics from China University of Geosciences (Beijing) and my M.E. degree in Psychology from Southwest University. Recently, I have been exploring the secrets behind social cognition and interaction, especially focusing on mentalization. I am very interested in understanding the dynamic neural mechanisms of direct and indirect mentalization.
     - name: Xinrui Zhang
       image: xinruizhang.png
-      content: Xinrui Zhang is a third-year joint PhD student in the lab, jointly trained by Prof. Xin’ an Liu from the Brain Cognition and Brain Disease Institute, CAS and Prof. Haiyan Wu from the University of Macau. She holds a B.A. in Economics from the University of International Business and Economics, and an M.A. degree in Finance from the University of Hong Kong. Her research interests are focused on decision making and depressive disorder, aiming to investigate the intervention in early childhood to proactively mitigate mental health challenges.
+      content: Xinrui Zhang is a fourth-year joint PhD student in the lab, jointly trained by Prof. Xin’ an Liu from the Brain Cognition and Brain Disease Institute, CAS and Prof. Haiyan Wu from the University of Macau. She holds a B.A. in Economics from the University of International Business and Economics, and an M.A. degree in Finance from the University of Hong Kong. Her research interests are focused on decision making and depressive disorder, aiming to investigate the intervention in early childhood to proactively mitigate mental health challenges.
     - name: Shuo Zhang
       image: shuozhang.png
       content: Shuo Zhang is currently a third-year Ph.D. student in the lab. My main research interest is to apply machine learning models to explore the neural mechanisms of people's decision-making in complex processes (such as games). I received my master's and bachelor's degrees from the Southern University of Science and Technology, with a master's degree in electronic science and technology and a bachelor's degree in physics.
@@ -68,6 +68,12 @@
     - name: Jing Rui
       image: JingRui.jpg
       content: Jing Rui is a first-year PhD student in the Department of Psychology at the University of Macau. He holds a degree in software engineering from Shandong University. His research combines virtual reality with scalp and intracranial EEG recordings to study the neural mechanisms underlying social decision-making. Jing Rui is also interested in human–computer interaction, particularly how people respond to feedback from AI systems.
+    - name: Yutong Liu
+      image: YutongLiu.png
+      content: Yutong Liu is a first-year PhD student in the Department of Psychology at the University of Macau. She received her master's degree in Cognitive Neuroscience from the University of Macau. Her research focuses on the psychological and neural mechanisms underlying social decision-making, mentalizing, and social buffering. She is particularly interested in how social contexts and interactions with others shape emotional responses and decision-making. Her research combines behavioral experiments with psychophysiological and neurophysiological methods, including EEG and stereo-electroencephalography (SEEG), to investigate the neural processes underlying social cognition.
+    - name: Mo Chen
+      image: chenmo.png
+      content: Mo Chen is a first-year Ph.D. student at the Centre for Cognitive and Brain Sciences, University of Macau. She received her B.Sc. in Biology from Sun Yat-sen University and her M.Sc. in Neuroscience from Central China Normal University. Her primary research interests center on the multidimensional construct of effort, encompassing psychological, cognitive, and emotional domains. Specifically, her research aims to elucidate the distinct mechanisms underlying the allocation and regulation of these diverse effort resources.
 
 - title: Master Students
   members:
@@ -128,9 +134,9 @@
       members:
         - name: Meijiaozi Sun
         - name: Shuyi Dong
-        - name: Guanghan Zhang
+        - name: Guanghan Zhang(Special Term Research Fellow, South China Normal University)
         - name: Xuanji Chen
-        - name: Cuilin He
+        - name: Cuilin He(UM)
         - name: Liwei Tan
         - name: Mingxin Shao(UM)
         - name: He Miao(UM)
