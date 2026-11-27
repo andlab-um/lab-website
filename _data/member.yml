@@ -123,18 +123,22 @@
           
     - title: Former PhD Students
       members:
-      - name: Siying Li（Hongkong）
-      - name: Yanyan Qi(Associate Professor, Zhengzhou University)
-      - name: Haoming Zhang
+      - name: Haoming Zhang(Special Term Research Fellow, South China Normal University)
       - name: Kun Chen
       - name: Xinyi Xu
+      - name: Siying Li（Hongkong）
+      - name: Yanyan Qi(Associate Professor, Zhengzhou University)
+
+    - title: Former Research assistants
+      members:
+      - name: Eric Wang(University of Chicago)
+      - name: I.Lam Leong(University of Cambridge)
       
     - title: Former Master Students
-    
       members:
         - name: Meijiaozi Sun
         - name: Shuyi Dong
-        - name: Guanghan Zhang(Special Term Research Fellow, South China Normal University)
+        - name: Guanghan Zhang
         - name: Xuanji Chen
         - name: Cuilin He(UM)
         - name: Liwei Tan
